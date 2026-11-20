@@ -9,6 +9,8 @@ on:
 permissions:
   # Needed to push the refreshed cache
   contents: write
+  # Needed to reopen, comment on and close the failure issue
+  issues: write
 
 concurrency:
   group: ${{ github.workflow }}
@@ -19,6 +21,8 @@ env:
   QUARKUS_CXF_REPO_URL: https://github.com/quarkiverse/quarkus-cxf.git
   QUARKUS_CXF_BRANCHES: main 3.40 3.33
   JAVA_VERSION: 25
+  # The issue that is open as long as the last run of this workflow has failed
+  FAILURE_ISSUE_URL: https://github.com/ppalaga/quarkus-cxf-antorassured-cache/issues/2
 
 jobs:
   refresh-cache:
@@ -35,12 +39,14 @@ jobs:
         git clone --branch "$GITHUB_REF_NAME" "$GITHUB_SERVER_URL/$GITHUB_REPOSITORY.git" "$cacheDir"
 
     - name: Set up JDK ${{ env.JAVA_VERSION }}
+      id: setup-java
       uses: actions/setup-java@v6
       with:
         distribution: temurin
         java-version: ${{ env.JAVA_VERSION }}
 
     - name: Cache ~/.m2/repository
+      id: maven-cache
       uses: actions/cache@v6
       with:
         path: ~/.m2/repository
@@ -50,6 +56,7 @@ jobs:
           ${{ runner.os }}-maven-
 
     - name: Build quarkus-cxf branches and run docs tests
+      id: build
       env:
         # AntoraTest requires GITHUB_TOKEN to validate GitHub links
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
@@ -77,10 +84,12 @@ jobs:
         # Keep on with the other branches if one of them does not build, but still report the problem
         if [ "${#failedBranches[@]}" -gt 0 ]; then
           echo "Could not build quarkus-cxf branches: ${failedBranches[*]}"
+          echo "failed-branches=${failedBranches[*]}" >> "$GITHUB_OUTPUT"
           exit 1
         fi
 
     - name: Commit and push ${{ env.CACHE_DIR }}
+      id: push
       # Push what we have even if some quarkus-cxf branch could not be built
       if: ${{ !cancelled() && steps.clone-cache.outcome == 'success' }}
       env:
@@ -101,8 +110,40 @@ jobs:
         git -c "http.$GITHUB_SERVER_URL/.extraheader=$authHeader" push origin "HEAD:$GITHUB_REF_NAME"
 
     - name: Avoid caching SNAPSHOT artifacts in local Maven repository
+      id: remove-snapshots
       if: ${{ always() }}
       run: |
         if [ -d ~/.m2/repository ]; then
           find ~/.m2/repository -type d -name '*-SNAPSHOT' -exec rm -r {} +
         fi
+
+    # Keep this step the last one, so that it sees the outcomes of all other steps
+    - name: Reopen or close ${{ env.FAILURE_ISSUE_URL }}
+      if: ${{ !cancelled() }}
+      env:
+        GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        JOB_STATUS: ${{ job.status }}
+        STEPS: ${{ toJSON(steps) }}
+        FAILED_BRANCHES: ${{ steps.build.outputs.failed-branches }}
+      run: |
+        runUrl="$GITHUB_SERVER_URL/$GITHUB_REPOSITORY/actions/runs/$GITHUB_RUN_ID/attempts/$GITHUB_RUN_ATTEMPT"
+        issueState="$(gh issue view "$FAILURE_ISSUE_URL" --json state --jq .state)"
+
+        if [ "$JOB_STATUS" = 'success' ]; then
+          if [ "$issueState" = 'OPEN' ]; then
+            gh issue close "$FAILURE_ISSUE_URL" --comment "[$GITHUB_WORKFLOW run #$GITHUB_RUN_NUMBER]($runUrl) succeeded."
+          else
+            echo "$FAILURE_ISSUE_URL is closed already"
+          fi
+          exit 0
+        fi
+
+        failedSteps="$(jq -r '[to_entries[] | select(.value.outcome == "failure") | .key] | join(", ")' <<< "$STEPS")"
+        comment="[$GITHUB_WORKFLOW run #$GITHUB_RUN_NUMBER]($runUrl) failed in step(s): ${failedSteps:-unknown}."
+        if [ -n "$FAILED_BRANCHES" ]; then
+          comment+=$'\n\n'"Could not build quarkus-cxf branch(es): $FAILED_BRANCHES."
+        fi
+        if [ "$issueState" != 'OPEN' ]; then
+          gh issue reopen "$FAILURE_ISSUE_URL"
+        fi
+        gh issue comment "$FAILURE_ISSUE_URL" --body "$comment"
