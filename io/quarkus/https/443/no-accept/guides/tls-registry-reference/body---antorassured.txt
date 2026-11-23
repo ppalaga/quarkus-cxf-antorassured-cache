@@ -50,6 +50,9 @@
       <link rel="stylesheet" href="/static/bundle/app-HXHLKKAD.css" />
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v6.5.2/css/all.css" crossorigin="anonymous">
     <link rel="alternate" type="application/rss+xml"  href="/feed.xml" title="Quarkus - Supersonic Subatomic Java">
+
+  <!-- SEO ALTERNATES -->
+  <link rel="alternate" type="text/markdown" href="https://quarkus.io/guides/tls-registry-reference/index.md" />
     <script src="/assets/javascript/hl.js" type="text/javascript"></script>
     <link rel="alternate" hreflang="en" href="https://quarkus.io//guidestls-registry-reference/" />
     <link rel="alternate" hreflang="pt-br" href="https://pt.quarkus.io//guidestls-registry-reference/" />
@@ -7907,7 +7910,7 @@ This is useful for:</p>
 <div class="content">
 <pre class="highlightjs highlight"><code class="language-shell hljs" data-lang="shell">quarkus tls lets-encrypt issue-certificate \
   --domain=example.com \
-  <a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="5c717139313d3530613d383135321c39243d312c3039723f3331">[email&#160;protected]</a> \
+  <a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="1c313179717d7570217d787175725c79647d716c7079327f7371">[email&#160;protected]</a> \
   --management-url=https://localhost:9000 \
   --acme-server-url=https://acme.zerossl.com/v2/DV90</code></pre>
 </div>

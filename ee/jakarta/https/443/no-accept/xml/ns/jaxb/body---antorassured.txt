@@ -43,7 +43,7 @@
 <link rel="alternate" href="/xml/ns/jaxb/index.xml" type="application/rss+xml" title="">
 
 
-<link rel="stylesheet" href="/css/styles.v2.css?v=1795095477">
+<link rel="stylesheet" href="/css/styles.v2.css?v=1795225248">
   
   <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
   new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
@@ -4105,7 +4105,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
   
   <div id="footer-js">
   
-  <script src="/js/solstice.v2.js?v=1795095477"></script>
+  <script src="/js/solstice.v2.js?v=1795225248"></script>
   
 
   

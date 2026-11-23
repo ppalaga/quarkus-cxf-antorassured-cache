@@ -49,6 +49,9 @@
       <link rel="stylesheet" href="/static/bundle/app-HXHLKKAD.css" />
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v6.5.2/css/all.css" crossorigin="anonymous">
     <link rel="alternate" type="application/rss+xml"  href="/feed.xml" title="Quarkus - Supersonic Subatomic Java">
+
+  <!-- SEO ALTERNATES -->
+  <link rel="alternate" type="text/markdown" href="https://quarkus.io/blog/quarkus-3-5-0-released/index.md" />
     <script src="/assets/javascript/hl.js" type="text/javascript"></script>
     <link rel="alternate" hreflang="en" href="https://quarkus.io//blogquarkus-3-5-0-released/" />
     <link rel="alternate" hreflang="pt-br" href="https://pt.quarkus.io//blogquarkus-3-5-0-released/" />
@@ -391,7 +394,7 @@ Many many thanks to each and everyone of them.</p>
   <a class="share-reddit" href="http://www.reddit.com/submit?url=https://quarkus.io/blog/quarkus-3-5-0-released/" onclick="window.open(this.href, 'pop-up', 'left=20,top=20,width=900,height=500,toolbar=1,resizable=0'); return false;" title="Share on Reddit" >
     <i class="fa-brands fa-square-reddit fa-xl"></i>
   </a>
-  <a class="share-email" href="/cdn-cgi/l/email-protection#68571b1d0a020d0b1c55391d091a031d1b485b465d4658481a0d040d091b0d0c48454822091e09485a59444827212c2b480d060009060b0d050d061c1b4e090518530a070c1155391d091a031d1b485b465d4658481a0d040d091b0d0c48454822091e09485a59444827212c2b480d060009060b0d050d061c1b48001c1c181b524747191d091a031d1b460107470a04070f47191d091a031d1b455b455d4558451a0d040d091b0d0c47" title="Share via Email">
+  <a class="share-email" href="/cdn-cgi/l/email-protection#26195553444c4345521b775347544d53550615081308160654434a4347554342060b066c4750470614170a06696f62650643484e474845434b4348525500474b561d4449425f1b775347544d53550615081308160654434a4347554342060b066c4750470614170a06696f62650643484e474845434b43485255064e525256551c0909575347544d5355084f4909444a494109575347544d53550b150b130b160b54434a434755434209" title="Share via Email">
     <i class="fa-solid fa-envelope fa-xl"></i>
   </a>
 </div>

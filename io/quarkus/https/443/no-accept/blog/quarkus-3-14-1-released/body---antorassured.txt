@@ -49,6 +49,9 @@
       <link rel="stylesheet" href="/static/bundle/app-HXHLKKAD.css" />
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v6.5.2/css/all.css" crossorigin="anonymous">
     <link rel="alternate" type="application/rss+xml"  href="/feed.xml" title="Quarkus - Supersonic Subatomic Java">
+
+  <!-- SEO ALTERNATES -->
+  <link rel="alternate" type="text/markdown" href="https://quarkus.io/blog/quarkus-3-14-1-released/index.md" />
     <script src="/assets/javascript/hl.js" type="text/javascript"></script>
     <link rel="alternate" hreflang="en" href="https://quarkus.io//blogquarkus-3-14-1-released/" />
     <link rel="alternate" hreflang="pt-br" href="https://pt.quarkus.io//blogquarkus-3-14-1-released/" />
@@ -501,7 +504,7 @@ Many many thanks to each and everyone of them.</p>
   <a class="share-reddit" href="http://www.reddit.com/submit?url=https://quarkus.io/blog/quarkus-3-14-1-released/" onclick="window.open(this.href, 'pop-up', 'left=20,top=20,width=900,height=500,toolbar=1,resizable=0'); return false;" title="Share on Reddit" >
     <i class="fa-brands fa-square-reddit fa-xl"></i>
   </a>
-  <a class="share-email" href="/cdn-cgi/l/email-protection#b58ac6c0d7dfd0d6c188e4c0d4c7dec0c695869b8481959895fddcd7d0c7dbd4c1d095fae7f895839b839995f9d0c192c695d0dbd6c7ccc5c19995d3d4c6c1d0c795c7d0d3d9d0d6c1dcdadb98d3c7d0d095ffd4d6dec6dadb95c6d0c7dcd4d9dccfd0c7c69b9b9b93d4d8c58ed7dad1cc88e4c0d4c7dec0c695869b8481959895fddcd7d0c7dbd4c1d095fae7f895839b839995f9d0c192c695d0dbd6c7ccc5c19995d3d4c6c1d0c795c7d0d3d9d0d6c1dcdadb98d3c7d0d095ffd4d6dec6dadb95c6d0c7dcd4d9dccfd0c7c69b9b9b95ddc1c1c5c68f9a9ac4c0d4c7dec0c69bdcda9ad7d9dad29ac4c0d4c7dec0c69886988481988498c7d0d9d0d4c6d0d19a" title="Share via Email">
+  <a class="share-email" href="/cdn-cgi/l/email-protection#3a05494f58505f594e076b4f5b48514f491a09140b0e1a171a7253585f48545b4e5f1a7568771a0c140c161a765f4e1d491a5f545948434a4e161a5c5b494e5f481a485f5c565f594e535554175c485f5f1a705b59514955541a495f48535b5653405f48491414141c5b574a0158555e43076b4f5b48514f491a09140b0e1a171a7253585f48545b4e5f1a7568771a0c140c161a765f4e1d491a5f545948434a4e161a5c5b494e5f481a485f5c565f594e535554175c485f5f1a705b59514955541a495f48535b5653405f48491414141a524e4e4a490015154b4f5b48514f49145355155856555d154b4f5b48514f491709170b0e170b17485f565f5b495f5e15" title="Share via Email">
     <i class="fa-solid fa-envelope fa-xl"></i>
   </a>
 </div>

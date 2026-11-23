@@ -2,16 +2,16 @@
   {
     "name": "client-server",
     "path": "integration-tests/client-server",
-    "sha": "433891a247956a433b287d0d3b42925bb73f217f",
+    "sha": "f3661b8d5954b32fadf20954d2c62c4c03751d70",
     "size": 0,
     "url": "https://api.github.com/repos/quarkiverse/quarkus-cxf/contents/integration-tests/client-server?ref=main",
     "html_url": "https://github.com/quarkiverse/quarkus-cxf/tree/main/integration-tests/client-server",
-    "git_url": "https://api.github.com/repos/quarkiverse/quarkus-cxf/git/trees/433891a247956a433b287d0d3b42925bb73f217f",
+    "git_url": "https://api.github.com/repos/quarkiverse/quarkus-cxf/git/trees/f3661b8d5954b32fadf20954d2c62c4c03751d70",
     "download_url": null,
     "type": "dir",
     "_links": {
       "self": "https://api.github.com/repos/quarkiverse/quarkus-cxf/contents/integration-tests/client-server?ref=main",
-      "git": "https://api.github.com/repos/quarkiverse/quarkus-cxf/git/trees/433891a247956a433b287d0d3b42925bb73f217f",
+      "git": "https://api.github.com/repos/quarkiverse/quarkus-cxf/git/trees/f3661b8d5954b32fadf20954d2c62c4c03751d70",
       "html": "https://github.com/quarkiverse/quarkus-cxf/tree/main/integration-tests/client-server"
     }
   },

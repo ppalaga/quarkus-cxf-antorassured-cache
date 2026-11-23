@@ -1074,6 +1074,9 @@
           <li class="version is-latest">
             <a href="../../quarkus-mongodb/dev/index.html">dev</a>
           </li>
+          <li class="version">
+            <a href="../../quarkus-mongodb/0.x/index.html">0.x</a>
+          </li>
         </ul>
       </li>
         <li class="component">
@@ -1600,7 +1603,7 @@
          origin-filter="quarkiverse-hub"
 >
   <div class="search">
-    <input name="q" type="search" placeholder="Search by keyword" autocomplete="off">
+    <input name="q" type="search" placeholder="Search all Quarkiverse docs by keyword" autocomplete="off">
   </div>
 </qs-form>
   <div class="edit-this-page"><a href="https://github.com/quarkiverse/quarkus-antora/edit/main/docs/modules/ROOT/pages/testing.adoc">Edit this Page</a></div>
@@ -1804,6 +1807,211 @@ After that, you should see the test fail with a report like the following:</p>
          - Could not find #fake-fragment</code></pre>
 </div>
 </div>
+<div class="sect2">
+<h3 id="persistent-cache"><a class="anchor" href="#persistent-cache"></a>Persistent cache of remote pages</h3>
+<div class="paragraph">
+<p>Link validation typically runs with every build, while most remote pages change rarely.
+Some remote servers do not tolerate being accessed that often and respond with <code>429 Too Many Requests</code>.</p>
+</div>
+<div class="paragraph">
+<p>Therefore, since Quarkus Antora 4.0.0, <code>AntorAssured</code> stores the remote pages it has fetched in the local file system
+and reuses them in subsequent runs.
+The cache is enabled by default.</p>
+</div>
+<table class="tableblock frame-all grid-all stretch">
+<colgroup>
+<col style="width: 33.3333%;">
+<col style="width: 66.6667%;">
+</colgroup>
+<thead>
+<tr>
+<th class="tableblock halign-left valign-top">Setting</th>
+<th class="tableblock halign-left valign-top">Default</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Cache directory</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock"><code>~/.cache/antorassured/pages</code>, where <code>~</code> is the value of the <code>user.home</code> system property</p></td>
+</tr>
+<tr>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Expiration: pages fetched longer ago are fetched again</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">36 hours</p></td>
+</tr>
+<tr>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Garbage collection age: pages fetched longer ago are deleted from the cache directory</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">180 days</p></td>
+</tr>
+</tbody>
+</table>
+<div class="paragraph">
+<p>The cache works as follows:</p>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p>Before a page is fetched, the cache directory is consulted.
+If the page was stored there within the expiration period, it is not requested from the remote server.
+The stored page is used instead, also for validating the fragments of the links.</p>
+</li>
+<li>
+<p>A cached page does not count against any <code>RateLimit</code> and it is never delayed by it.
+It is still counted by policies such as <code>AggregatePolicy.countAtLeast(200, n)</code>.</p>
+</li>
+<li>
+<p>Only responses having a <code>2xx</code> status are stored.
+Other responses, such as <code>404</code>, <code>429</code> or <code>503</code>, timeouts and connection failures are never stored,
+so broken links are checked against the remote server with each run.</p>
+</li>
+<li>
+<p>The site under test is never stored.
+By default, this applies to all URIs whose host is <code>localhost</code> or a loopback IP address, such as <code>127.0.0.1</code>.
+<code>LinkStream.validate()</code> (without parameters) in addition excludes all URIs under the base URI of the site under test,
+which is important if you set <code>quarkus.http.test-host</code> to some other host name.</p>
+</li>
+<li>
+<p>URIs containing credentials, such as <code>https://user:password@example.com/</code>, are never stored.</p>
+</li>
+<li>
+<p>Pages requested with different <code>Accept</code> headers are stored separately.
+Other request headers are not taken into account.</p>
+</li>
+<li>
+<p>The cache directory can be used by several builds at the same time.</p>
+</li>
+</ul>
+</div>
+<div class="sect3">
+<h4 id="_stale_pages"><a class="anchor" href="#_stale_pages"></a>Stale pages</h4>
+<div class="paragraph">
+<p>The cache makes the validation faster and less demanding for the remote servers at the cost of working with pages
+that may be up to 36 hours old (or whatever expiration you set):</p>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p>A link to a page that was removed from the remote server in the meantime is still reported as valid.</p>
+</li>
+<li>
+<p>A link to a fragment that was added to the remote page in the meantime is still reported as invalid.</p>
+</li>
+</ul>
+</div>
+<div class="paragraph">
+<p>Both issues go away after the cached page expires.
+If you do not want to wait, delete the cache directory or only the directory of the given page.
+The path of the directory is derived from the URI of the page as follows:
+<code>&lt;cache directory&gt;/&lt;reversed host name&gt;/&lt;scheme&gt;/&lt;port&gt;/&lt;accept header&gt;/&lt;path&gt;</code>.
+For example, <code>https://quarkus.io/guides/building-native-image</code> is stored in
+<code>~/.cache/antorassured/pages/io/quarkus/https/443/no-accept/guides/building-native-image</code>.
+Characters that are not allowed in file names on some operating system are replaced by underscores.</p>
+</div>
+<div class="paragraph">
+<p>Deleting the files is always safe.
+The validation never fails because of a missing or broken content of the cache directory.</p>
+</div>
+</div>
+<div class="sect3">
+<h4 id="_garbage_collection"><a class="anchor" href="#_garbage_collection"></a>Garbage collection</h4>
+<div class="paragraph">
+<p>At the end of each validation that has used the cache, the pages fetched more than 180 days ago are deleted from the cache
+directory, together with the directories that became empty.
+These are typically pages that are not linked from your documentation anymore.
+Files not created by <code>AntorAssured</code> are never deleted.</p>
+</div>
+</div>
+<div class="sect3">
+<h4 id="persistent-cache-ci"><a class="anchor" href="#persistent-cache-ci"></a>Using the cache on CI</h4>
+<div class="paragraph">
+<p>The cache is useful on CI only if the cache directory is restored before the build and saved after it.
+The directory to save and restore is <code>~/.cache/antorassured/pages</code>, unless you have configured another one.
+It can be copied to another machine, even to one running a different operating system.</p>
+</div>
+<div class="admonitionblock note">
+<table>
+<tr>
+<td class="icon">
+<i class="fa icon-note" title="Note"></i>
+</td>
+<td class="content">
+<div class="paragraph">
+<p>The pages are stored as they were received, without any encryption.
+Keep that in mind if you validate links to private resources, for example using <code>LinkGroup.bearerToken(String)</code> or
+<code>LinkGroup.basicAuth(String, String)</code>, and you share the cache directory with others.
+The tokens and passwords themselves are never stored.</p>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+<div class="sect3">
+<h4 id="_configuring_the_cache"><a class="anchor" href="#_configuring_the_cache"></a>Configuring the cache</h4>
+<div class="paragraph">
+<p>The cache can be configured only by passing a custom <code>LinkValidatorImpl</code> to <code>LinkStream.validate(LinkValidator)</code>:</p>
+</div>
+<div class="listingblock">
+<div class="content">
+<pre class="highlightjs highlight"><code class="language-java hljs" data-lang="java">AntorAssured
+        .links()
+        .excludeEditThisPage()
+        .validate(
+                new LinkValidatorImpl(
+                        /* Where the pages are stored */
+                        Path.of("target/antorassured-cache"),
+                        /* Pages fetched more than 12 hours ago are fetched again */
+                        Duration.ofHours(12),
+                        /* Pages fetched more than 30 days ago are deleted from the cache directory */
+                        Duration.ofDays(30),
+                        LinkValidatorImpl.DEFAULT_CACHE_LOCK_RETRY_DELAY,
+                        LinkValidatorImpl.DEFAULT_CACHE_LOCK_RETRIES,
+                        /* Which URIs may be cached: anything but the site under test running on localhost */
+                        LinkValidatorImpl.notLoopback(),
+                        Clock.systemUTC()))
+        .assertValid();</code></pre>
+</div>
+</div>
+<div class="admonitionblock warning">
+<table>
+<tr>
+<td class="icon">
+<i class="fa icon-warning" title="Warning"></i>
+</td>
+<td class="content">
+<div class="paragraph">
+<p>A <code>LinkValidatorImpl</code> you create yourself does not know the base URI of the site under test.
+If your site under test is not served from <code>localhost</code>,
+make sure that the predicate passed to the constructor returns <code>false</code> for its URIs.
+Otherwise, the internal links would be validated against a previous build of your site.</p>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div class="paragraph">
+<p>There is no dedicated option for disabling the cache.
+Pass a predicate returning <code>false</code> for every URI instead:</p>
+</div>
+<div class="listingblock">
+<div class="content">
+<pre class="highlightjs highlight"><code class="language-java hljs" data-lang="java">AntorAssured
+        .links()
+        .excludeEditThisPage()
+        .validate(
+                new LinkValidatorImpl(
+                        LinkValidatorImpl.defaultCacheDirectory(),
+                        LinkValidatorImpl.DEFAULT_CACHE_EXPIRATION,
+                        LinkValidatorImpl.DEFAULT_CACHE_GC_AGE,
+                        LinkValidatorImpl.DEFAULT_CACHE_LOCK_RETRY_DELAY,
+                        LinkValidatorImpl.DEFAULT_CACHE_LOCK_RETRIES,
+                        /* No URI may be cached */
+                        uri -&gt; false,
+                        Clock.systemUTC()))
+        .assertValid();</code></pre>
+</div>
+</div>
+</div>
+</div>
 </div>
 </div>
 <nav class="pagination">
@@ -1814,8 +2022,15 @@ After that, you should see the test fail with a report like the following:</p>
   </qs-target>
 </main>
 </div>
-<footer class="footer">
-  <p>Copyright (C) 2020-2026 <a href="https://www.redhat.com">Red Hat</a> and individual contributors to <a href="https://github.com/quarkiverse/">Quarkiverse</a>.</p>
+<footer class="footer quarkiverse-footer">
+  <div class="footer-bar">
+    <a href="https://github.com/quarkiverse/quarkus-antora" target="_blank" rel="noreferrer" class="footer-anchor-link">Contribute<i class="fab fa-github footer-styled-font-awesome-icon" aria-hidden="true"></i></a>
+    <a href="https://www.commonhaus.org/" class="footer-foundation-logo" target="_blank" rel="noreferrer"><img src="../../_/img/commonhaus_reversed.svg" alt="Commonhaus Foundation logo" loading="lazy"></a>
+    <div class="footer-license-info"><i class="fab fa-creative-commons footer-padded-icon" aria-hidden="true"></i><i class="fab fa-creative-commons-by footer-padded-icon" aria-hidden="true"></i><a href="https://creativecommons.org/licenses/by/3.0/" class="footer-license-text">CC by 3.0</a></div>
+  </div>
+  <div class="footer-legal">
+    Copyright © Quarkiverse. All rights reserved. For details on our trademarks, please visit our <a href="https://www.commonhaus.org/policies/trademark-policy/">Trademark Policy</a> and <a href="https://www.commonhaus.org/trademarks/">Trademark List</a>. Trademarks of third parties are owned by their respective holders and their mention here does not suggest any endorsement or association.
+  </div>
 </footer>
 <script src="../../_/js/site.js"></script>
 <script async src="../../_/js/vendor/fontawesome-icon-defs.js"></script>

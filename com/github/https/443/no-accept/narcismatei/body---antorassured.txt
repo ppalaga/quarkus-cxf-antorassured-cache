@@ -55,17 +55,17 @@
 
   
 
-  <script type="application/json" id="client-env">{"locale":"en","featureFlags":["actions_caches_react_view","actions_enable_background_steps","actions_new_hosted_runner_image_select_sizes_and_versions","actions_workflows_react_toggle","agent_author_search_expansion","agent_author_search_expansion_ui_pulls","agent_sessions_ccr_review_effort","ai_resource_search","alternate_user_config_repo","billing_billable_licenses_complete_day","billing_billable_licenses_cost_center_bucket_fix","billing_budget_expiration","billing_cost_center_list_assigned_resources","billing_discount_threshold_notification","billing_shared_compute_usage","browser_stats_fixed_delivery_window","catalyst_lazy_define_indexed","code_quality_enablement_banner_targeting","code_quality_remove_preview","code_view_raf_sticky_lines","codespaces_prebuild_region_target_update","coding_agent_third_party_model_ui","copilot-software-factories","copilot_agent_snippy","copilot_api_agentic_issue_marshal_yaml","copilot_automation_continuous_history","copilot_automation_repo_mcp_servers","copilot_automations_pagination","copilot_base_model_policy_row","copilot_chat_auto_mode_v2","copilot_chat_clear_model_selection_for_default_change","copilot_chat_fusion_auto_tiers","copilot_chat_vision_dotcom_chat_ga_gate","copilot_continue_in_github_mobile","copilot_css_textarea_autosize","copilot_custom_copilots","copilot_custom_copilots_feature_preview","copilot_duplicate_thread","copilot_extensions_removal_on_marketplace","copilot_fix_failed_workflows_all_skus","copilot_hide_hovercard","copilot_immersive_task_hyperlinking","copilot_managed_settings_validation_file_links","copilot_mission_control_agent_merge_fix_ci","copilot_mission_control_agent_merge_resolve_conflicts","copilot_mission_control_automation_grouping","copilot_mission_control_awps_batching","copilot_mission_control_create_pull_request_client_tool","copilot_mission_control_create_repository_client_tool","copilot_mission_control_early_stop","copilot_mission_control_environments_web_kickoff","copilot_mission_control_hide_task_list_counts","copilot_mission_control_messaging_app_dm_steering","copilot_mission_control_needs_attention","copilot_mission_control_pinned_tasks","copilot_mission_control_reasoning_effort","copilot_mission_control_reuse_project_workspace","copilot_mission_control_sandbox_request_image_override","copilot_mission_control_session_client_attribution","copilot_mission_control_task_alive_updates","copilot_mission_control_task_route_preloading","copilot_mission_control_task_sharing","copilot_mission_control_use_api_gateway","copilot_org_policy_page_focus_mode","copilot_policy_ui_refresh","copilot_quick_chat_recent_artifact_sessions","copilot_share_active_subthread","copilot_spaces_ga","copilot_spaces_individual_policies_ga","copilot_swe_agent_authorization_status_ui","copilot_swe_agent_automation_completed_trigger","copilot_swe_agent_automation_failed_trigger","copilot_swe_agent_automation_repository_owned","copilot_swe_agent_automation_resource_scoped_writes","copilot_swe_agent_code_scanning_alert_trigger","copilot_swe_agent_dependabot_alert_trigger","copilot_swe_agent_discussion_comment_trigger","copilot_swe_agent_discussion_opened_trigger","copilot_swe_agent_discussion_updated_trigger","copilot_swe_agent_hide_model_picker_if_only_auto","copilot_swe_agent_issue_assigned_trigger","copilot_swe_agent_issue_closed_trigger","copilot_swe_agent_issue_comment_trigger","copilot_swe_agent_issue_labeled_trigger","copilot_swe_agent_issue_reopened_trigger","copilot_swe_agent_issue_status_changed_trigger","copilot_swe_agent_mcp_permission_gate","copilot_swe_agent_merge_conflict_trigger","copilot_swe_agent_pr_comment_model_picker","copilot_swe_agent_pull_request_assigned_trigger","copilot_swe_agent_pull_request_closed_trigger","copilot_swe_agent_pull_request_comment_trigger","copilot_swe_agent_pull_request_converted_to_draft_trigger","copilot_swe_agent_pull_request_labeled_trigger","copilot_swe_agent_pull_request_merged_trigger","copilot_swe_agent_pull_request_opened_trigger","copilot_swe_agent_pull_request_ready_for_review_trigger","copilot_swe_agent_pull_request_reopened_trigger","copilot_swe_agent_pull_request_review_dismissed_trigger","copilot_swe_agent_pull_request_review_requested_trigger","copilot_swe_agent_pull_request_review_submitted_trigger","copilot_swe_agent_pull_request_review_thread_resolved_trigger","copilot_swe_agent_pull_request_review_thread_unresolved_trigger","copilot_swe_agent_pull_request_synchronize_trigger","copilot_swe_agent_secret_scanning_alert_trigger","copilot_swe_agent_sub_issue_added_trigger","copilot_swe_agent_use_subagents","copilot_task_api_github_rest_style","copilot_task_scoped_alive_channel","copilot_token_based_billing","copilot_user_can_upgrade_plan_field","fgpat_permissions_selector_redesign","glc_code_quality_repo_settings_workflow_config","global_issues_filtered_list_layout","global_nav_context_refresh","home_dashboard_favorite_repositories","home_dashboard_ga","hyperspace_2025_logged_out_batch_1","hyperspace_2025_logged_out_batch_2","hyperspace_2025_logged_out_batch_3","in_product_messaging_datadog_monitoring","ipm_ubb_individual_budget_banner","issue_create_status_header","issue_fields_add_picker","issue_fields_multi_select","issue_inline_avatars","issue_relative_time_micro","issues_hide_closed_sub_issues","issues_lazy_load_comment_box_suggestions","issues_react_chrome_container_query_fix","labels_archiving","labels_archiving_info","landing_pages_ninetailed","lifecycle_label_name_updates","marketing_cookie_consent_banner","marketing_pages_search_explore_provider","memex_live_update_hovercard","memex_mwl_filter_field_delimiter","memex_remove_deprecated_type_issue","merge_queue_restricted_pushers_warning","merge_status_header_feedback","new_batched_queries_hook","octocaptcha_origin_optimization","one_copilot_chat_disable_ahp_pings","one_copilot_chat_disable_eager_resume","one_copilot_chat_owner_split_picker","one_copilot_chat_resume_on_intent","one_copilot_grouped_tool_calls","one_copilot_plan_mode","one_copilot_remember_tool_permissions","one_copilot_simplified_environment_picker","planning_board_agent_task_status","primer_react_blankslate_compact_default","primer_react_css_anchor_positioning","primer_react_merged_forwarded_refs","prs_contextual_comment_controls","prs_copilot_app_open_action","prs_copilot_assignee_session_indicator","prs_css_anchor_positioning","prs_desktop_checkout","prs_mergeability_live_updates_trailing","prs_overview_react_public_preview","prs_overview_review_opinion_colors","pull_request_file_tree_prefetch_on_hover_50ms","pull_request_persister","pull_request_stacks_auto_merge_stack_permission","pull_request_stacks_navigation_shortcuts","pull_request_virtualization_image_estimate","pull_request_virtualization_loader_batching","pull_request_virtualization_scroll_compensation","pull_request_virtualization_scroll_intent","pull_requests_deferred_highlight_fallback","pull_requests_persistent_whitespace_preferences","react_blob_isolate_code_lines","react_blob_ssr_content_visibility","react_data_router_nonblocking_revalidation","react_data_router_tanstack_allowed","react_query_props_with_key","react_sandbox_future_tanstack","repo_app_turbo","repo_issues_sidebar_layout","repos_contributors_limited_default_range","rulesets_actor_list_editor","sample_network_conn_type","scribe_artifacts_api","secret_scanning_public_monitoring_hide_preview_labels","secret_scanning_public_monitoring_hide_validity_coming_soon","see_who_reacted","session_logs_ungroup_reasoning_text","set_sha256_on_repo_creation_form","site_banner_desktop_copilot_app","site_download_options_pixel_mona","site_global_banner_copilot_fusion_usage_2026","site_homepage_refresh_2026","site_landing_pages_stable_canvas_position","speculation_rules_ui_service","suppress_automated_browser_vitals","swp_forms_disable_octocaptcha","trusted_types_policies","trusted_types_worker","turbo_link_eligibility_optimization","ui_service_gate_aware_external_check","ui_service_notification_shelf","update_issue_suggestions","viewscreen_sandbox","warn_inaccessible_attachments","webp_support"],"githubDomain":"https://github.com","copilotApiOverrideUrl":"https://api.githubcopilot.com","cmcApiUrl":"https://api.github.com/cmc_internal/api"}</script>
+  <script type="application/json" id="client-env">{"locale":"en","featureFlags":["actions_caches_react_view","actions_enable_background_steps","actions_new_hosted_runner_image_select_sizes_and_versions","actions_workflows_react_toggle","agent_author_search_expansion","agent_author_search_expansion_ui_pulls","agent_sessions_ccr_review_effort","ai_resource_search","alternate_user_config_repo","billing_billable_licenses_complete_day","billing_billable_licenses_cost_center_bucket_fix","billing_budget_expiration","billing_cost_center_list_assigned_resources","billing_discount_threshold_notification","billing_shared_compute_usage","browser_stats_fixed_delivery_window","catalyst_lazy_define_indexed","code_quality_enablement_banner_targeting","code_quality_remove_preview","code_view_raf_sticky_lines","codespaces_prebuild_region_target_update","coding_agent_third_party_model_ui","copilot-software-factories","copilot_agent_snippy","copilot_api_agentic_issue_marshal_yaml","copilot_automation_continuous_history","copilot_automation_repo_mcp_servers","copilot_automations_pagination","copilot_base_model_policy_row","copilot_chat_auto_mode_v2","copilot_chat_clear_model_selection_for_default_change","copilot_chat_fusion_auto_tiers","copilot_chat_vision_dotcom_chat_ga_gate","copilot_continue_in_github_mobile","copilot_css_textarea_autosize","copilot_custom_copilots","copilot_custom_copilots_feature_preview","copilot_duplicate_thread","copilot_extensions_removal_on_marketplace","copilot_fix_failed_workflows_all_skus","copilot_hide_hovercard","copilot_immersive_task_hyperlinking","copilot_managed_settings_validation_file_links","copilot_mission_control_agent_merge_fix_ci","copilot_mission_control_agent_merge_resolve_conflicts","copilot_mission_control_automation_grouping","copilot_mission_control_awps_batching","copilot_mission_control_create_pull_request_client_tool","copilot_mission_control_create_repository_client_tool","copilot_mission_control_early_stop","copilot_mission_control_environments_web_kickoff","copilot_mission_control_hide_task_list_counts","copilot_mission_control_messaging_app_dm_steering","copilot_mission_control_needs_attention","copilot_mission_control_pinned_tasks","copilot_mission_control_reasoning_effort","copilot_mission_control_reuse_project_workspace","copilot_mission_control_sandbox_request_image_override","copilot_mission_control_session_client_attribution","copilot_mission_control_task_alive_updates","copilot_mission_control_task_route_preloading","copilot_mission_control_task_sharing","copilot_mission_control_use_api_gateway","copilot_org_policy_page_focus_mode","copilot_policy_ui_refresh","copilot_quick_chat_recent_artifact_sessions","copilot_share_active_subthread","copilot_spaces_ga","copilot_spaces_individual_policies_ga","copilot_swe_agent_authorization_status_ui","copilot_swe_agent_automation_completed_trigger","copilot_swe_agent_automation_failed_trigger","copilot_swe_agent_automation_repository_owned","copilot_swe_agent_automation_resource_scoped_writes","copilot_swe_agent_code_scanning_alert_trigger","copilot_swe_agent_dependabot_alert_trigger","copilot_swe_agent_discussion_comment_trigger","copilot_swe_agent_discussion_opened_trigger","copilot_swe_agent_discussion_updated_trigger","copilot_swe_agent_hide_model_picker_if_only_auto","copilot_swe_agent_issue_assigned_trigger","copilot_swe_agent_issue_closed_trigger","copilot_swe_agent_issue_comment_trigger","copilot_swe_agent_issue_labeled_trigger","copilot_swe_agent_issue_reopened_trigger","copilot_swe_agent_issue_status_changed_trigger","copilot_swe_agent_mcp_permission_gate","copilot_swe_agent_merge_conflict_trigger","copilot_swe_agent_pr_comment_model_picker","copilot_swe_agent_pull_request_assigned_trigger","copilot_swe_agent_pull_request_closed_trigger","copilot_swe_agent_pull_request_comment_trigger","copilot_swe_agent_pull_request_converted_to_draft_trigger","copilot_swe_agent_pull_request_labeled_trigger","copilot_swe_agent_pull_request_merged_trigger","copilot_swe_agent_pull_request_opened_trigger","copilot_swe_agent_pull_request_ready_for_review_trigger","copilot_swe_agent_pull_request_reopened_trigger","copilot_swe_agent_pull_request_review_dismissed_trigger","copilot_swe_agent_pull_request_review_requested_trigger","copilot_swe_agent_pull_request_review_submitted_trigger","copilot_swe_agent_pull_request_review_thread_resolved_trigger","copilot_swe_agent_pull_request_review_thread_unresolved_trigger","copilot_swe_agent_pull_request_synchronize_trigger","copilot_swe_agent_secret_scanning_alert_trigger","copilot_swe_agent_sub_issue_added_trigger","copilot_swe_agent_use_subagents","copilot_task_api_github_rest_style","copilot_task_scoped_alive_channel","copilot_token_based_billing","copilot_user_can_upgrade_plan_field","fgpat_permissions_selector_redesign","glc_code_quality_repo_settings_workflow_config","global_issues_filtered_list_layout","global_nav_context_refresh","home_dashboard_favorite_repositories","home_dashboard_ga","hyperspace_2025_logged_out_batch_1","hyperspace_2025_logged_out_batch_2","hyperspace_2025_logged_out_batch_3","in_product_messaging_datadog_monitoring","ipm_ubb_individual_budget_banner","issue_create_status_header","issue_fields_add_picker","issue_fields_multi_select","issue_inline_avatars","issue_relative_time_micro","issues_board_card_drawer","issues_hide_closed_sub_issues","issues_lazy_load_comment_box_suggestions","issues_react_chrome_container_query_fix","labels_archiving","labels_archiving_info","landing_pages_ninetailed","lifecycle_label_name_updates","marketing_cookie_consent_banner","marketing_pages_search_explore_provider","memex_live_update_hovercard","memex_mwl_filter_field_delimiter","memex_remove_deprecated_type_issue","merge_queue_restricted_pushers_warning","merge_status_header_feedback","new_batched_queries_hook","octocaptcha_origin_optimization","one_copilot_chat_disable_ahp_pings","one_copilot_chat_disable_eager_resume","one_copilot_chat_owner_split_picker","one_copilot_chat_resume_on_intent","one_copilot_grouped_tool_calls","one_copilot_plan_mode","one_copilot_remember_tool_permissions","one_copilot_simplified_environment_picker","planning_board_agent_task_status","primer_react_blankslate_compact_default","primer_react_css_anchor_positioning","primer_react_merged_forwarded_refs","prs_contextual_comment_controls","prs_copilot_app_open_action","prs_copilot_assignee_session_indicator","prs_css_anchor_positioning","prs_desktop_checkout","prs_mergeability_live_updates_trailing","prs_overview_react_public_preview","prs_overview_review_opinion_colors","pull_request_file_tree_prefetch_on_hover_50ms","pull_request_persister","pull_request_stacks_navigation_shortcuts","pull_request_virtualization_image_estimate","pull_request_virtualization_loader_batching","pull_request_virtualization_scroll_compensation","pull_request_virtualization_scroll_intent","pull_requests_deferred_highlight_fallback","pull_requests_persistent_whitespace_preferences","react_blob_isolate_code_lines","react_blob_ssr_content_visibility","react_data_router_nonblocking_revalidation","react_data_router_tanstack_allowed","react_query_props_with_key","react_sandbox_future_tanstack","repo_app_turbo","repo_issues_sidebar_layout","repos_contributors_limited_default_range","rulesets_actor_list_editor","sample_network_conn_type","scribe_artifacts_api","secret_scanning_public_monitoring_hide_preview_labels","secret_scanning_public_monitoring_hide_validity_coming_soon","see_who_reacted","session_logs_ungroup_reasoning_text","set_sha256_on_repo_creation_form","site_banner_desktop_copilot_app","site_download_options_pixel_mona","site_global_banner_copilot_fusion_usage_2026","site_homepage_refresh_2026","site_landing_pages_stable_canvas_position","speculation_rules_ui_service","suppress_automated_browser_vitals","swp_forms_disable_octocaptcha","trusted_types_policies","trusted_types_worker","turbo_link_eligibility_optimization","ui_service_gate_aware_external_check","ui_service_notification_shelf","update_issue_suggestions","viewscreen_sandbox","warn_inaccessible_attachments","webp_support"],"githubDomain":"https://github.com","copilotApiOverrideUrl":"https://api.githubcopilot.com","cmcApiUrl":"https://api.github.com/cmc_internal/api"}</script>
 <script crossorigin="anonymous" type="module" src="https://github.githubassets.com/assets/high-contrast-cookie-74ae35aa09cc7c63.js"></script>
-<link crossorigin="anonymous" rel="modulepreload" href="https://github.githubassets.com/assets/wp-runtime-d00aaf7fd6c8d9de.js" />
+<link crossorigin="anonymous" rel="modulepreload" href="https://github.githubassets.com/assets/wp-runtime-853f3791a2ac1cf1.js" />
 <link crossorigin="anonymous" rel="modulepreload" href="https://github.githubassets.com/assets/app-runtime-ca25080bcf36dff9.js" />
-<link crossorigin="anonymous" rel="modulepreload" href="https://github.githubassets.com/assets/react-core-0ae68064bd5c431f.js" />
+<link crossorigin="anonymous" rel="modulepreload" href="https://github.githubassets.com/assets/react-core-fdd4d0f430dac315.js" />
 <link crossorigin="anonymous" rel="modulepreload" href="https://github.githubassets.com/assets/86048-f53467c0683118f6.js" />
-<script crossorigin="anonymous" type="module" src="https://github.githubassets.com/assets/core-babdcb985a4a6a2b.js" defer="defer"></script>
+<script crossorigin="anonymous" type="module" src="https://github.githubassets.com/assets/core-b6e7d75c6b80bfdd.js" defer="defer"></script>
 <link crossorigin="anonymous" media="all" rel="stylesheet" href="https://github.githubassets.com/assets/app-runtime.ac0bc39e0315c808.module.css" />
 <link crossorigin="anonymous" media="all" rel="stylesheet" href="https://github.githubassets.com/assets/primer-react-css.cba9218ca8d0ccc5.module.css" />
-<link crossorigin="anonymous" media="all" rel="stylesheet" href="https://github.githubassets.com/assets/react-core.922b8ad4572e34fa.module.css" />
-<script crossorigin="anonymous" type="module" src="https://github.githubassets.com/assets/profile-0f1c9c49211e994e.js" defer="defer"></script>
+<link crossorigin="anonymous" media="all" rel="stylesheet" href="https://github.githubassets.com/assets/react-core.323440988d2e44d1.module.css" />
+<script crossorigin="anonymous" type="module" src="https://github.githubassets.com/assets/profile-d4582fef513ad00e.js" defer="defer"></script>
   
 
   <title>narcismatei (Narcis Matei) · GitHub</title>
@@ -75,13 +75,13 @@
   <meta name="route-pattern" content="/:user_id(.:format)" data-turbo-transient>
   <meta name="route-controller" content="profiles" data-turbo-transient>
   <meta name="route-action" content="show" data-turbo-transient>
-  <meta name="fetch-nonce" content="v2:ddb7a71f-6569-ab3f-9b77-9159a841524d">
+  <meta name="fetch-nonce" content="v2:711a56ab-2e7c-95f3-1f2c-d0b65dac18b7">
 
     
   <meta name="current-catalog-service-hash" content="4a1c50a83cf6cc4b55b6b9c53e553e3f847c876b87fb333f71f5d05db8f1a7db">
 
 
-  <meta name="request-id" content="E3C6:238B00:6BED6:10C3DC:6B009CD2" data-pjax-transient="true"/><meta name="html-safe-nonce" content="0a163a5b65260920f4333fffc7222ca9d70bfec5113828a101447135bfc0f54d" data-pjax-transient="true"/><meta name="visitor-payload" content="eyJyZWZlcnJlciI6IiIsInJlcXVlc3RfaWQiOiJFM0M2OjIzOEIwMDo2QkVENjoxMEMzREM6NkIwMDlDRDIiLCJ2aXNpdG9yX2lkIjoiNjEzOTY3MDYwNzcxOTA3OTEwNyIsInJlZ2lvbl9lZGdlIjoic3dpdHplcmxhbmRub3J0aCIsInJlZ2lvbl9yZW5kZXIiOiJzd2l0emVybGFuZG5vcnRoIn0=" data-pjax-transient="true"/><meta name="visitor-hmac" content="95e94b9aff6d07d07425cc9b5b5f32d1a822425b27985b5e69860162a8808464" data-pjax-transient="true"/>
+  <meta name="request-id" content="8423:1FAF:1932AB9:21C5C46:6B04360C" data-pjax-transient="true"/><meta name="html-safe-nonce" content="5d1298e5c79bd8ccf4d16f18fd4154102b17a2303c30dbed9d7f5410b99fc91f" data-pjax-transient="true"/><meta name="visitor-payload" content="eyJyZWZlcnJlciI6IiIsInJlcXVlc3RfaWQiOiI4NDIzOjFGQUY6MTkzMkFCOToyMUM1QzQ2OjZCMDQzNjBDIiwidmlzaXRvcl9pZCI6IjU4MzI2MzEwNjEyMjM5NzE5MCIsInJlZ2lvbl9lZGdlIjoiaWFkIiwicmVnaW9uX3JlbmRlciI6ImlhZCJ9" data-pjax-transient="true"/><meta name="visitor-hmac" content="47287fb691855a687e51ec5c1f797b6d234d87238e62100e9eb2055f09e03346" data-pjax-transient="true"/>
 
 
 
@@ -136,10 +136,10 @@
         <meta name="expected-hostname" content="github.com">
 
 
-  <meta http-equiv="x-pjax-version" content="499d68ed0a81618da2357efbbdd3b70571d623e0f7ee74555b222f7e7915c8cd" data-turbo-track="reload">
+  <meta http-equiv="x-pjax-version" content="686732d1530d566b1c7fbedf5623a8e1661de6324389cf270b0312abda9ef79d" data-turbo-track="reload">
   <meta http-equiv="x-pjax-csp-version" content="adddfd507de4c4b0b130ff1dbf3c31681ba97e7a45dc69da056946fc5370dfd4" data-turbo-track="reload">
   <meta http-equiv="x-pjax-css-version" content="da37a124316120c46a7ac5f1f3faf1b2eb992aa46a47bf3bb59d2c4f87142b79" data-turbo-track="reload">
-  <meta http-equiv="x-pjax-js-version" content="52c95ce7e48016ae14399656b4ee812462b6f1fa28c5008c8394da64794c00b8" data-turbo-track="reload">
+  <meta http-equiv="x-pjax-js-version" content="b7a1d2b9101496921b08579fbee988d014345aef2f5bd660d1f8c7332d81560e" data-turbo-track="reload">
 
   <meta name="turbo-cache-control" content="no-preview" data-turbo-transient="">
 
@@ -158,7 +158,7 @@
 
   <meta name="browser-errors-url" content="https://api.github.com/_private/browser/errors">
 
-  <meta name="release" content="1c9ddec8215f9a94e295c8310c3579b9c54ba31a" data-turbo-track="reload">
+  <meta name="release" content="c3dd496c3da6ea6b77e69c09279d2b81604654f1" data-turbo-track="reload">
   <meta name="ui-target" content="full">
 
   <link rel="mask-icon" href="https://github.githubassets.com/assets/pinned-octocat-093da3e6fa40.svg" color="#000000">
@@ -187,10 +187,10 @@
       <link crossorigin="anonymous" rel="modulepreload" href="https://github.githubassets.com/assets/primer-react-07e7d9aae40836f8.js" fetchpriority="low" />
 <link crossorigin="anonymous" rel="modulepreload" href="https://github.githubassets.com/assets/28372-48e332726df8d20f.js" fetchpriority="low" />
 <link crossorigin="anonymous" rel="modulepreload" href="https://github.githubassets.com/assets/34719-2b062694fc1d0889.js" fetchpriority="low" />
-<link crossorigin="anonymous" rel="modulepreload" href="https://github.githubassets.com/assets/27896-787b5aacc63c1e2d.js" fetchpriority="low" />
-<link crossorigin="anonymous" rel="modulepreload" href="https://github.githubassets.com/assets/82797-4878b9098ae11541.js" fetchpriority="low" />
-<link crossorigin="anonymous" rel="modulepreload" href="https://github.githubassets.com/assets/chunk-lazy-react-partial-keyboard-shortcuts-dialog-0193b9769f4d9ff0.js" fetchpriority="low" />
-<link crossorigin="anonymous" media="all" rel="stylesheet" href="https://github.githubassets.com/assets/38963.f3102a0fa6967ab4.module.css" />
+<link crossorigin="anonymous" rel="modulepreload" href="https://github.githubassets.com/assets/27896-f330c16e705576ab.js" fetchpriority="low" />
+<link crossorigin="anonymous" rel="modulepreload" href="https://github.githubassets.com/assets/82797-bcf735319b72c82e.js" fetchpriority="low" />
+<link crossorigin="anonymous" rel="modulepreload" href="https://github.githubassets.com/assets/chunk-lazy-react-partial-keyboard-shortcuts-dialog-38554b109ba5dc5a.js" fetchpriority="low" />
+<link crossorigin="anonymous" media="all" rel="stylesheet" href="https://github.githubassets.com/assets/38963.9d8f2ab2609a4166.module.css" />
 
 <react-partial
   partial-name="keyboard-shortcuts-dialog"
@@ -258,10 +258,10 @@
           <span class="js-stale-session-flash-signed-out" hidden>You signed out in another tab or window. <a class="Link--inTextBlock" href="">Reload</a> to refresh your session.</span>
           <span class="js-stale-session-flash-switched" hidden>You switched accounts on another tab or window. <a class="Link--inTextBlock" href="">Reload</a> to refresh your session.</span>
 
-    <button id="icon-button-e8bf31f6-3f8a-4038-b175-e74e881f639b" aria-labelledby="tooltip-06b80f62-31ca-489f-a020-fcc423e5a95b" type="button" data-view-component="true" class="Button Button--iconOnly Button--invisible Button--medium flash-close js-flash-close">  <svg aria-hidden="true" data-component="Octicon" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x Button-visual">
+    <button id="icon-button-a35d8464-e2da-40be-a2be-b555b193a123" aria-labelledby="tooltip-90f552ca-fc37-41e9-b6de-35aa9cb8989f" type="button" data-view-component="true" class="Button Button--iconOnly Button--invisible Button--medium flash-close js-flash-close">  <svg aria-hidden="true" data-component="Octicon" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x Button-visual">
     <path d="M3.72 3.72a.75.75 0 0 1 1.06 0L8 6.94l3.22-3.22a.749.749 0 0 1 1.275.326.749.749 0 0 1-.215.734L9.06 8l3.22 3.22a.749.749 0 0 1-.326 1.275.749.749 0 0 1-.734-.215L8 9.06l-3.22 3.22a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042L6.94 8 3.72 4.78a.75.75 0 0 1 0-1.06Z"></path>
 </svg>
-</button><tool-tip id="tooltip-06b80f62-31ca-489f-a020-fcc423e5a95b" for="icon-button-e8bf31f6-3f8a-4038-b175-e74e881f639b" popover="manual" data-direction="s" data-type="label" data-view-component="true" class="sr-only position-absolute">Dismiss alert</tool-tip>
+</button><tool-tip id="tooltip-90f552ca-fc37-41e9-b6de-35aa9cb8989f" for="icon-button-a35d8464-e2da-40be-a2be-b555b193a123" popover="manual" data-direction="s" data-type="label" data-view-component="true" class="sr-only position-absolute">Dismiss alert</tool-tip>
 
 
   
@@ -558,32 +558,32 @@
     
     
       <div class="border-top color-border-muted tmp-pt-3 tmp-mt-3 clearfix">
-  <button id="dialog-show-dialog-3b48fc46-8150-4eba-ac29-affb9b90aa68" data-show-dialog-id="dialog-3b48fc46-8150-4eba-ac29-affb9b90aa68" type="button" data-view-component="true" class="Button--link Button--medium Button color-fg-muted">  <span class="Button-content">
+  <button id="dialog-show-dialog-b9bd19ba-c13a-4b47-bf41-f02f3726a981" data-show-dialog-id="dialog-b9bd19ba-c13a-4b47-bf41-f02f3726a981" type="button" data-view-component="true" class="Button--link Button--medium Button color-fg-muted">  <span class="Button-content">
     <span class="Button-label">Block or report user</span>
   </span>
 </button>
 
 <dialog-helper>
-  <dialog variant="narrow" id="dialog-3b48fc46-8150-4eba-ac29-affb9b90aa68" aria-modal="true" aria-labelledby="dialog-3b48fc46-8150-4eba-ac29-affb9b90aa68-title" aria-describedby="dialog-3b48fc46-8150-4eba-ac29-affb9b90aa68-description" data-view-component="true" class="Overlay Overlay-whenNarrow Overlay--size-medium-portrait Overlay--motion-scaleFade Overlay--disableScroll">
+  <dialog variant="narrow" id="dialog-b9bd19ba-c13a-4b47-bf41-f02f3726a981" aria-modal="true" aria-labelledby="dialog-b9bd19ba-c13a-4b47-bf41-f02f3726a981-title" aria-describedby="dialog-b9bd19ba-c13a-4b47-bf41-f02f3726a981-description" data-view-component="true" class="Overlay Overlay-whenNarrow Overlay--size-medium-portrait Overlay--motion-scaleFade Overlay--disableScroll">
     <div data-view-component="true" class="Overlay-header">
   <div class="Overlay-headerContentWrap">
     <div class="Overlay-titleWrap">
-      <h1 class="Overlay-title " id="dialog-3b48fc46-8150-4eba-ac29-affb9b90aa68-title">
+      <h1 class="Overlay-title " id="dialog-b9bd19ba-c13a-4b47-bf41-f02f3726a981-title">
         Block or report narcismatei
       </h1>
         
     </div>
     <div class="Overlay-actionWrap">
-      <button data-close-dialog-id="dialog-3b48fc46-8150-4eba-ac29-affb9b90aa68" aria-label="Close" aria-label="Close" type="button" data-view-component="true" class="close-button Overlay-closeButton"><svg aria-hidden="true" data-component="Octicon" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x">
+      <button data-close-dialog-id="dialog-b9bd19ba-c13a-4b47-bf41-f02f3726a981" aria-label="Close" aria-label="Close" type="button" data-view-component="true" class="close-button Overlay-closeButton"><svg aria-hidden="true" data-component="Octicon" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x">
     <path d="M3.72 3.72a.75.75 0 0 1 1.06 0L8 6.94l3.22-3.22a.749.749 0 0 1 1.275.326.749.749 0 0 1-.215.734L9.06 8l3.22 3.22a.749.749 0 0 1-.326 1.275.749.749 0 0 1-.734-.215L8 9.06l-3.22 3.22a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042L6.94 8 3.72 4.78a.75.75 0 0 1 0-1.06Z"></path>
 </svg></button>
     </div>
   </div>
   
 </div>
-      <scrollable-region data-labelled-by="dialog-3b48fc46-8150-4eba-ac29-affb9b90aa68-title">
+      <scrollable-region data-labelled-by="dialog-b9bd19ba-c13a-4b47-bf41-f02f3726a981-title">
         <div data-view-component="true" class="Overlay-body">      <div class="border-bottom">
-        <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="tmp-mb-3" data-turbo="false" action="/settings/blocked_users" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="d7iew8Tfnr1fnPWsQTCrqSL3f8suP8sWkgiO1GnTHRLMsjKyhuWYst2gvmhoUt-gSyd7-tJblVh6kREIUoJDKw" autocomplete="off" />
+        <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="tmp-mb-3" data-turbo="false" action="/settings/blocked_users" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="uD-14OaYmNZFU4oCkgKyxtwDN6pK-zbJ1s9VCsWdHjbfbQb19oJVSFt-mxmMSK9als7OzjuThrVNbihM1icBGg" autocomplete="off" />
             <input type="hidden" name="login" value="narcismatei">
           <input type="hidden" name="return_to" value="/narcismatei">
           <input type="hidden" name="navigation_source" value="user_profile">
@@ -604,11 +604,11 @@
 
             <div class="mt-2 mb-2">
               <div class="FormControl-checkbox-wrap">
-  <input name="close_content" type="hidden" value="off" autocomplete="off" /><input aria-describedby="caption-4860bd44-02b7-4544-a73a-4ee6ff349bd5" id="close_content" class="FormControl-checkbox" type="checkbox" value="1" name="close_content" />
+  <input name="close_content" type="hidden" value="off" autocomplete="off" /><input aria-describedby="caption-31b58f03-1239-42a9-9df7-8a9f7a3c3bc1" id="close_content" class="FormControl-checkbox" type="checkbox" value="1" name="close_content" />
   <span class="FormControl-checkbox-labelWrap">
     <label for="close_content" class="FormControl-label">
       Close all issues, pull requests, and discussions opened by this user
-</label>        <span class="FormControl-caption" id="caption-4860bd44-02b7-4544-a73a-4ee6ff349bd5">
+</label>        <span class="FormControl-caption" id="caption-31b58f03-1239-42a9-9df7-8a9f7a3c3bc1">
       Content in all repositories owned by your account will be closed.
   </span>
 
@@ -619,14 +619,14 @@
             <div class="mt-2 mb-2">
               <primer-text-area>
     <div class="FormControl width-full FormControl--fullWidth">
-      <label for="new-block-note-from-sidebar" id="label-dd0f7a7d-e342-48d9-8279-f2df85403464" class="FormControl-label">
+      <label for="new-block-note-from-sidebar" id="label-98489f87-b67c-4080-9139-d1825fa31f74" class="FormControl-label">
         Add an optional note
 </label>    
     <div class="FormControl-input-wrap">
-      <textarea id="new-block-note-from-sidebar" maxLength="250" data-test-selector="ignored_user_note_text_field" data-character-limit="250" data-target="primer-text-area.inputElement" style="resize: vertical" aria-describedby="validation-dd0f7a7d-e342-48d9-8279-f2df85403464 caption-dd0f7a7d-e342-48d9-8279-f2df85403464" class="form-control FormControl-input FormControl-textarea js-ignored-user-note-field" name="note">
+      <textarea id="new-block-note-from-sidebar" maxLength="250" data-test-selector="ignored_user_note_text_field" data-character-limit="250" data-target="primer-text-area.inputElement" style="resize: vertical" aria-describedby="validation-98489f87-b67c-4080-9139-d1825fa31f74 caption-98489f87-b67c-4080-9139-d1825fa31f74" class="form-control FormControl-input FormControl-textarea js-ignored-user-note-field" name="note">
 </textarea>
 </div>
-      <div class="FormControl-inlineValidation" id="validation-dd0f7a7d-e342-48d9-8279-f2df85403464" hidden="hidden">
+      <div class="FormControl-inlineValidation" id="validation-98489f87-b67c-4080-9139-d1825fa31f74" hidden="hidden">
   <span class="FormControl-inlineValidation--visual" data-target="" hidden><svg aria-hidden="true" data-component="Octicon" height="12" viewBox="0 0 12 12" version="1.1" width="12" data-view-component="true" class="octicon octicon-check-circle-fill">
     <path d="M6 0a6 6 0 1 1 0 12A6 6 0 0 1 6 0Zm-.705 8.737L9.63 4.403 8.392 3.166 5.295 6.263l-1.7-1.702L2.356 5.8l2.938 2.938Z"></path>
 </svg></span>
@@ -635,7 +635,7 @@
 </svg></span>
   <span></span>
 </div>
-      <span class="FormControl-caption" id="caption-dd0f7a7d-e342-48d9-8279-f2df85403464">
+      <span class="FormControl-caption" id="caption-98489f87-b67c-4080-9139-d1825fa31f74">
       Maximum 250 characters. Please don’t include any personal information such as legal names or email addresses. This note will only be visible to you.
   </span>
 
@@ -797,7 +797,7 @@
           <div class="d-flex v-align-middle mr-2">
             <span data-view-component="true" class="position-relative"><a id="28127270" href="/narcismatei/photocapture" data-view-component="true" class="min-width-0 Link text-bold flex-auto wb-break-all"><span class="repo" >
                 photocapture
-              </span></a>  <tool-tip id="tooltip-5c8a8ab7-1f3f-4e76-923c-689fedc12ad7" for="28127270" popover="manual" data-direction="n" data-type="description" data-view-component="true" class="sr-only position-absolute">photocapture</tool-tip></span>            <span class="flex-auto text-right">
+              </span></a>  <tool-tip id="tooltip-24a0904e-0ce5-46d7-b9d4-34f03c236aee" for="28127270" popover="manual" data-direction="n" data-type="description" data-view-component="true" class="sr-only position-absolute">photocapture</tool-tip></span>            <span class="flex-auto text-right">
               <span></span><span class="Label Label--secondary v-align-middle ">Public</span>
             </span>
           </div>
@@ -823,7 +823,7 @@
           <div class="d-flex v-align-middle mr-2">
             <span data-view-component="true" class="position-relative"><a id="32321617" href="/narcismatei/hotelagg" data-view-component="true" class="min-width-0 Link text-bold flex-auto wb-break-all"><span class="repo" >
                 hotelagg
-              </span></a>  <tool-tip id="tooltip-cce42024-7f9a-4b47-b083-c4e43c094a8a" for="32321617" popover="manual" data-direction="n" data-type="description" data-view-component="true" class="sr-only position-absolute">hotelagg</tool-tip></span>            <span class="flex-auto text-right">
+              </span></a>  <tool-tip id="tooltip-ffb1cd25-df79-4ae4-a9f1-88098df74085" for="32321617" popover="manual" data-direction="n" data-type="description" data-view-component="true" class="sr-only position-absolute">hotelagg</tool-tip></span>            <span class="flex-auto text-right">
               <span></span><span class="Label Label--secondary v-align-middle ">Public</span>
             </span>
           </div>
@@ -849,7 +849,7 @@
           <div class="d-flex v-align-middle mr-2">
             <span data-view-component="true" class="position-relative"><a id="55921504" href="/narcismatei/API-NG-sample-code" data-view-component="true" class="min-width-0 Link text-bold flex-auto wb-break-all"><span class="repo" >
                 API-NG-sample-code
-              </span></a>  <tool-tip id="tooltip-a0220833-afdd-4f66-9ea4-1c471dc9e9a1" for="55921504" popover="manual" data-direction="n" data-type="description" data-view-component="true" class="sr-only position-absolute">API-NG-sample-code</tool-tip></span>            <span class="flex-auto text-right">
+              </span></a>  <tool-tip id="tooltip-b4f604a6-969a-4803-89fb-46d589a023df" for="55921504" popover="manual" data-direction="n" data-type="description" data-view-component="true" class="sr-only position-absolute">API-NG-sample-code</tool-tip></span>            <span class="flex-auto text-right">
               <span></span><span class="Label Label--secondary v-align-middle ">Public</span>
             </span>
           </div>
@@ -883,7 +883,7 @@
           <div class="d-flex v-align-middle mr-2">
             <span data-view-component="true" class="position-relative"><a id="75387045" href="/narcismatei/qbit-microservices-examples" data-view-component="true" class="min-width-0 Link text-bold flex-auto wb-break-all"><span class="repo" >
                 qbit-microservices-examples
-              </span></a>  <tool-tip id="tooltip-90cc2461-34b8-4276-ad0d-57d9ed26de29" for="75387045" popover="manual" data-direction="n" data-type="description" data-view-component="true" class="sr-only position-absolute">qbit-microservices-examples</tool-tip></span>            <span class="flex-auto text-right">
+              </span></a>  <tool-tip id="tooltip-a842e9ae-0b83-4545-9ae9-301158852c81" for="75387045" popover="manual" data-direction="n" data-type="description" data-view-component="true" class="sr-only position-absolute">qbit-microservices-examples</tool-tip></span>            <span class="flex-auto text-right">
               <span></span><span class="Label Label--secondary v-align-middle ">Public</span>
             </span>
           </div>
@@ -913,7 +913,7 @@
 </div>
 
 <div class="tmp-mt-4 position-relative">
-      <include-fragment src="/narcismatei?action=show&amp;controller=profiles&amp;tab=contributions&amp;user_id=narcismatei" data-nonce="v2:ddb7a71f-6569-ab3f-9b77-9159a841524d" data-view-component="true">
+      <include-fragment src="/narcismatei?action=show&amp;controller=profiles&amp;tab=contributions&amp;user_id=narcismatei" data-nonce="v2:711a56ab-2e7c-95f3-1f2c-d0b65dac18b7" data-view-component="true">
   
         <div class="text-center" data-hide-on-error>
           <span data-view-component="true">
@@ -1044,7 +1044,7 @@
     <ghcc-consent id="ghcc" class="position-fixed bottom-0 left-0" style="z-index: 999999"
       data-locale="en"
       data-initial-cookie-consent-allowed=""
-      data-cookie-consent-required="true"
+      data-cookie-consent-required="false"
     ></ghcc-consent>
 
 

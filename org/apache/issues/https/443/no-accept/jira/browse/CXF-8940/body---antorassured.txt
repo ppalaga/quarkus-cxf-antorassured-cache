@@ -62,7 +62,7 @@
 
 
     
-<meta id="atlassian-token" name="atlassian-token" content="A5KQ-2QAV-T4JA-FDED_3bee12fc2e8267ceb5dbb84a0496be81847214e7_lout">
+<meta id="atlassian-token" name="atlassian-token" content="A5KQ-2QAV-T4JA-FDED_af4c7343e2023c45f83f1cc98b938e0d70f7c696_lout">
 
 
 
@@ -141,7 +141,7 @@ window.WRM=window.WRM||{};window.WRM._unparsedData=window.WRM._unparsedData||{};
 WRM._unparsedData["project-key"]="\u0022CXF\u0022";
 WRM._unparsedData["project-name"]="\u0022CXF\u0022";
 WRM._unparsedData["projectType"]="\u0022software\u0022";
-WRM._unparsedData["jira.request.correlation-id"]="\u002264e2bc980c80ef\u0022";
+WRM._unparsedData["jira.request.correlation-id"]="\u0022ed1e5456038f9a\u0022";
 WRM._unparsedData["com.atlassian.jira.jira-projects-issue-navigator:project-filters"]="[]";
 WRM._unparsedData["com.atlassian.jira.jira-projects-issue-navigator:can-create-issues"]="false";
 WRM._unparsedData["com.atlassian.jira.jira-projects-issue-navigator:default-filter-priority"]="[\u0022allopenissues\u0022,\u0022allissues\u0022]";
@@ -793,10 +793,10 @@ if(window.WRM._dataArrived)window.WRM._dataArrived();</script>
 
 <form id="jira_request_timing_info" class="dont-default-focus" >
 	<fieldset class="parameters hidden">
-		<input type="hidden" title="jira.request.start.millis" value="1795202243662" />
-		<input type="hidden" title="jira.request.server.time" value="63" />
-		<input type="hidden" title="jira.request.id" value="1157x272728800x8" />
-		<input type="hidden" title="jira.session.expiry.time" value="1795205843640" />
+		<input type="hidden" title="jira.request.start.millis" value="1795438098770" />
+		<input type="hidden" title="jira.request.server.time" value="71" />
+		<input type="hidden" title="jira.request.id" value="768x345822715x9" />
+		<input type="hidden" title="jira.session.expiry.time" value="1795441698671" />
 		<input type="hidden" title="jira.session.expiry.in.mins" value="59" />
 		<input id="jiraConcurrentRequests" type="hidden" name="jira.request.concurrent.requests" value="8" />
 		<input type="hidden" title="db.reads.time.in.ms" value="2" />
@@ -804,14 +804,14 @@ if(window.WRM._dataArrived)window.WRM._dataArrived();</script>
 	</fieldset>
 </form>
 <!--
-	                 REQUEST ID : 1157x272728800x8
-	          REQUEST TIMESTAMP : [20/Nov/2026:19:17:23 +0000]
-	               REQUEST TIME : 0.0630
-	                 ASESSIONID : 15vpiq0
+	                 REQUEST ID : 768x345822715x9
+	          REQUEST TIMESTAMP : [23/Nov/2026:12:48:18 +0000]
+	               REQUEST TIME : 0.0710
+	                 ASESSIONID : 54ge8a
 	        CONCURRENT REQUESTS : 8
 
-	                      db.reads : OpSnapshot{name='db.reads', invocationCount=14, elapsedTotal=2110337, elapsedMin=80261, elapsedMax=344529, resultSetSize=0, cpuTotal=0, cpuMin=0, cpuMax=0}
-	                      db.conns : OpSnapshot{name='db.conns', invocationCount=22, elapsedTotal=4223113, elapsedMin=96572, elapsedMax=466719, resultSetSize=0, cpuTotal=0, cpuMin=0, cpuMax=0}
+	                      db.reads : OpSnapshot{name='db.reads', invocationCount=14, elapsedTotal=2167593, elapsedMin=79991, elapsedMax=257164, resultSetSize=0, cpuTotal=0, cpuMin=0, cpuMax=0}
+	                      db.conns : OpSnapshot{name='db.conns', invocationCount=22, elapsedTotal=4305309, elapsedMin=84569, elapsedMax=368775, resultSetSize=0, cpuTotal=0, cpuMin=0, cpuMax=0}
 -->
 
 </body>
