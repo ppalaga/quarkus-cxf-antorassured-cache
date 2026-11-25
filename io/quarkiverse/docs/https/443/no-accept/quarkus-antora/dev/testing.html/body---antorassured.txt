@@ -965,10 +965,10 @@
             <a href="../../quarkus-mcp-server/dev/index.html">dev</a>
           </li>
           <li class="version">
-            <a href="../../quarkus-mcp-server/2.0.x/index.html">2.0.x</a>
+            <a href="../../quarkus-mcp-server/2.1.x/index.html">2.1.x</a>
           </li>
           <li class="version">
-            <a href="../../quarkus-mcp-server/1.13.x/index.html">1.13.x</a>
+            <a href="../../quarkus-mcp-server/2.0.x/index.html">2.0.x</a>
           </li>
           <li class="version">
             <a href="../../quarkus-mcp-server/1.10.x/index.html">1.10.x</a>

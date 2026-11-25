@@ -213,7 +213,7 @@
   <a class="share-reddit" href="http://www.reddit.com/submit?url=https://quarkus.io/blog/java4shell/" onclick="window.open(this.href, 'pop-up', 'left=20,top=20,width=900,height=500,toolbar=1,resizable=0'); return false;" title="Share on Reddit" >
     <i class="fa-brands fa-square-reddit fa-xl"></i>
   </a>
-  <a class="share-email" href="/cdn-cgi/l/email-protection#9fa0eceafdf5fafceba2d5fee9feabccf7faf3f3bfb7dcc9dab2adafada9b2aeaeaba6aca7b6a5bfccebfeebeaecbffef1fbbff2f6ebf6f8feebf6f0f1bff9f0edbfceeafeedf4eaecbfeaecfaedecb9fef2efa4fdf0fbe6a2d5fee9feabccf7faf3f3bfb7dcc9dab2adafada9b2aeaeaba6aca7b6a5bfccebfeebeaecbffef1fbbff2f6ebf6f8feebf6f0f1bff9f0edbfceeafeedf4eaecbfeaecfaedecbff7ebebefeca5b0b0eeeafeedf4eaecb1f6f0b0fdf3f0f8b0f5fee9feabecf7faf3f3b0" title="Share via Email">
+  <a class="share-email" href="/cdn-cgi/l/email-protection#d6e9a5a3b4bcb3b5a2eb9cb7a0b7e285beb3babaf6fe958093fbe4e6e4e0fbe7e7e2efe5eeffecf685a2b7a2a3a5f6b7b8b2f6bbbfa2bfb1b7a2bfb9b8f6b0b9a4f687a3b7a4bda3a5f6a3a5b3a4a5f0b7bba6edb4b9b2afeb9cb7a0b7e285beb3babaf6fe958093fbe4e6e4e0fbe7e7e2efe5eeffecf685a2b7a2a3a5f6b7b8b2f6bbbfa2bfb1b7a2bfb9b8f6b0b9a4f687a3b7a4bda3a5f6a3a5b3a4a5f6bea2a2a6a5ecf9f9a7a3b7a4bda3a5f8bfb9f9b4bab9b1f9bcb7a0b7e2a5beb3babaf9" title="Share via Email">
     <i class="fa-solid fa-envelope fa-xl"></i>
   </a>
 </div>
@@ -252,7 +252,7 @@
   <a class="share-reddit" href="http://www.reddit.com/submit?url=https://quarkus.io/blog/quarkus-newsletter-74/" onclick="window.open(this.href, 'pop-up', 'left=20,top=20,width=900,height=500,toolbar=1,resizable=0'); return false;" title="Share on Reddit" >
     <i class="fa-brands fa-square-reddit fa-xl"></i>
   </a>
-  <a class="share-email" href="/cdn-cgi/l/email-protection#18276b6d7a727d7b6c25496d796a736d6b38567d6f6b747d6c6c7d6a383b2f2c38353856776e7d757a7d6a3e797568237a777c6125496d796a736d6b38567d6f6b747d6c6c7d6a383b2f2c38353856776e7d757a7d6a38706c6c686b223737696d796a736d6b367177377a74777f37696d796a736d6b35767d6f6b747d6c6c7d6a352f2c37" title="Share via Email">
+  <a class="share-email" href="/cdn-cgi/l/email-protection#221d515740484741561f73574350495751026c4755514e475656475002011516020f026c4d54474f40475004434f5219404d465b1f73574350495751026c4755514e475656475002011516020f026c4d54474f404750024a56565251180d0d535743504957510c4b4d0d404e4d450d535743504957510f4c4755514e47565647500f15160d" title="Share via Email">
     <i class="fa-solid fa-envelope fa-xl"></i>
   </a>
 </div>
@@ -291,7 +291,7 @@
   <a class="share-reddit" href="http://www.reddit.com/submit?url=https://quarkus.io/blog/ai-root-cause-analysis-deep-dive/" onclick="window.open(this.href, 'pop-up', 'left=20,top=20,width=900,height=500,toolbar=1,resizable=0'); return false;" title="Share on Reddit" >
     <i class="fa-brands fa-square-reddit fa-xl"></i>
   </a>
-  <a class="share-email" href="/cdn-cgi/l/email-protection#9aa5e9eff8f0fff9eea7dbd3bac8f5f5eebad9fbefe9ffbadbf4fbf6e3e9f3e9a0badbe8f9f2f3eefff9eeefe8ffb6baceffe9eef3f4fdb6bafbf4febadfecfbf6effbeef3f5f4bcfbf7eaa1f8f5fee3a7dbd3bac8f5f5eebad9fbefe9ffbadbf4fbf6e3e9f3e9a0badbe8f9f2f3eefff9eeefe8ffb6baceffe9eef3f4fdb6bafbf4febadfecfbf6effbeef3f5f4baf2eeeeeae9a0b5b5ebeffbe8f1efe9b4f3f5b5f8f6f5fdb5fbf3b7e8f5f5eeb7f9fbefe9ffb7fbf4fbf6e3e9f3e9b7feffffeab7fef3ecffb5" title="Share via Email">
+  <a class="share-email" href="/cdn-cgi/l/email-protection#d3eca0a6b1b9b6b0a7ee929af381bcbca7f390b2a6a0b6f392bdb2bfaaa0baa0e9f392a1b0bbbaa7b6b0a7a6a1b6fff387b6a0a7babdb4fff3b2bdb7f396a5b2bfa6b2a7babcbdf5b2bea3e8b1bcb7aaee929af381bcbca7f390b2a6a0b6f392bdb2bfaaa0baa0e9f392a1b0bbbaa7b6b0a7a6a1b6fff387b6a0a7babdb4fff3b2bdb7f396a5b2bfa6b2a7babcbdf3bba7a7a3a0e9fcfca2a6b2a1b8a6a0fdbabcfcb1bfbcb4fcb2bafea1bcbca7feb0b2a6a0b6feb2bdb2bfaaa0baa0feb7b6b6a3feb7baa5b6fc" title="Share via Email">
     <i class="fa-solid fa-envelope fa-xl"></i>
   </a>
 </div>
@@ -330,7 +330,7 @@
   <a class="share-reddit" href="http://www.reddit.com/submit?url=https://quarkus.io/blog/quarkus-insights-268-secure-ai-agents-with-quarkus-langchain4j/" onclick="window.open(this.href, 'pop-up', 'left=20,top=20,width=900,height=500,toolbar=1,resizable=0'); return false;" title="Share on Reddit" >
     <i class="fa-brands fa-square-reddit fa-xl"></i>
   </a>
-  <a class="share-email" href="/cdn-cgi/l/email-protection#744b0701161e11170049250115061f0107543d1a071d131c0007545746424c4e5427111701061154353d541513111a000754031d001c54250115061f01075438151a13371c151d1a401e521519044f161b100d49250115061f0107543d1a071d131c0007545746424c4e5427111701061154353d541513111a000754031d001c54250115061f01075438151a13371c151d1a401e541c000004074e5b5b050115061f01075a1d1b5b16181b135b050115061f0107591d1a071d131c00075946424c5907111701061159151d591513111a000759031d001c59050115061f01075918151a13171c151d1a401e5b" title="Share via Email">
+  <a class="share-email" href="/cdn-cgi/l/email-protection#96a9e5e3f4fcf3f5e2abc7e3f7e4fde3e5b6dff8e5fff1fee2e5b6b5a4a0aeacb6c5f3f5e3e4f3b6d7dfb6f7f1f3f8e2e5b6e1ffe2feb6c7e3f7e4fde3e5b6daf7f8f1d5fef7fff8a2fcb0f7fbe6adf4f9f2efabc7e3f7e4fde3e5b6dff8e5fff1fee2e5b6b5a4a0aeacb6c5f3f5e3e4f3b6d7dfb6f7f1f3f8e2e5b6e1ffe2feb6c7e3f7e4fde3e5b6daf7f8f1d5fef7fff8a2fcb6fee2e2e6e5acb9b9e7e3f7e4fde3e5b8fff9b9f4faf9f1b9e7e3f7e4fde3e5bbfff8e5fff1fee2e5bba4a0aebbe5f3f5e3e4f3bbf7ffbbf7f1f3f8e2e5bbe1ffe2febbe7e3f7e4fde3e5bbfaf7f8f1f5fef7fff8a2fcb9" title="Share via Email">
     <i class="fa-solid fa-envelope fa-xl"></i>
   </a>
 </div>
@@ -369,7 +369,7 @@
   <a class="share-reddit" href="http://www.reddit.com/submit?url=https://quarkus.io/blog/quarkus-resiliency-testing/" onclick="window.open(this.href, 'pop-up', 'left=20,top=20,width=900,height=500,toolbar=1,resizable=0'); return false;" title="Share on Reddit" >
     <i class="fa-brands fa-square-reddit fa-xl"></i>
   </a>
-  <a class="share-email" href="/cdn-cgi/l/email-protection#3d024e485f57585e49007f4f585c561d4452484f1d59584d58535958535e54584e1d52531d4d484f4d524e58071d5453494f5259485e54535a1d6c485c4f56484e1d6f584e54515458535e441d69584e4954535a1b5c504d065f525944007f4f585c561d4452484f1d59584d58535958535e54584e1d52531d4d484f4d524e58071d5453494f5259485e54535a1d6c485c4f56484e1d6f584e54515458535e441d69584e4954535a1d5549494d4e0712124c485c4f56484e135452125f51525a124c485c4f56484e104f584e54515458535e441049584e4954535a12" title="Share via Email">
+  <a class="share-email" href="/cdn-cgi/l/email-protection#57682422353d3234236a152532363c772e382225773332273239333239343e322477383977272225273824326d773e392325383322343e393077062236253c2224770532243e3b3e3239342e77033224233e393071363a276c3538332e6a152532363c772e382225773332273239333239343e322477383977272225273824326d773e392325383322343e393077062236253c2224770532243e3b3e3239342e77033224233e3930773f232327246d7878262236253c2224793e3878353b383078262236253c22247a2532243e3b3e3239342e7a233224233e393078" title="Share via Email">
     <i class="fa-solid fa-envelope fa-xl"></i>
   </a>
 </div>
@@ -408,7 +408,7 @@
   <a class="share-reddit" href="http://www.reddit.com/submit?url=https://quarkus.io/blog/ai-root-cause-analysis/" onclick="window.open(this.href, 'pop-up', 'left=20,top=20,width=900,height=500,toolbar=1,resizable=0'); return false;" title="Share on Reddit" >
     <i class="fa-brands fa-square-reddit fa-xl"></i>
   </a>
-  <a class="share-email" href="/cdn-cgi/l/email-protection#9aa5e9eff8f0fff9eea7dbd3bac8f5f5eebad9fbefe9ffbadbf4fbf6e3e9f3e9a0bad6d6d7b7caf5edffe8fffebac8f5f5eeb7d9fbefe9ffbadbf4fbf6e3e9f3e9bafcf5e8badef3e9eee8f3f8efeefffebac9e3e9eefff7e9bcfbf7eaa1f8f5fee3a7dbd3bac8f5f5eebad9fbefe9ffbadbf4fbf6e3e9f3e9a0bad6d6d7b7caf5edffe8fffebac8f5f5eeb7d9fbefe9ffbadbf4fbf6e3e9f3e9bafcf5e8badef3e9eee8f3f8efeefffebac9e3e9eefff7e9baf2eeeeeae9a0b5b5ebeffbe8f1efe9b4f3f5b5f8f6f5fdb5fbf3b7e8f5f5eeb7f9fbefe9ffb7fbf4fbf6e3e9f3e9b5" title="Share via Email">
+  <a class="share-email" href="/cdn-cgi/l/email-protection#427d313720282721367f030b62102d2d3662012337312762032c232e3b312b3178620e0e0f6f122d352730272662102d2d366f012337312762032c232e3b312b3162242d3062062b3136302b203736272662113b3136272f3164232f3279202d263b7f030b62102d2d3662012337312762032c232e3b312b3178620e0e0f6f122d352730272662102d2d366f012337312762032c232e3b312b3162242d3062062b3136302b203736272662113b3136272f31622a36363231786d6d333723302937316c2b2d6d202e2d256d232b6f302d2d366f21233731276f232c232e3b312b316d" title="Share via Email">
     <i class="fa-solid fa-envelope fa-xl"></i>
   </a>
 </div>
@@ -447,7 +447,7 @@
   <a class="share-reddit" href="http://www.reddit.com/submit?url=https://quarkus.io/blog/quarkus-sonify/" onclick="window.open(this.href, 'pop-up', 'left=20,top=20,width=900,height=500,toolbar=1,resizable=0'); return false;" title="Share on Reddit" >
     <i class="fa-brands fa-square-reddit fa-xl"></i>
   </a>
-  <a class="share-email" href="/cdn-cgi/l/email-protection#4c733f392e26292f387104292d3e6c3523393e6c2d3c3c20252f2d382523226c3b2538246c1d392d3e27393f6c1f2322252a356a2d213c772e2328357104292d3e6c3523393e6c2d3c3c20252f2d382523226c3b2538246c1d392d3e27393f6c1f2322252a356c2438383c3f7663633d392d3e27393f622523632e20232b633d392d3e27393f613f2322252a3563" title="Share via Email">
+  <a class="share-email" href="/cdn-cgi/l/email-protection#ac93dfd9cec6c9cfd891e4c9cdde8cd5c3d9de8ccddcdcc0c5cfcdd8c5c3c28cdbc5d8c48cfdd9cddec7d9df8cffc3c2c5cad58acdc1dc97cec3c8d591e4c9cdde8cd5c3d9de8ccddcdcc0c5cfcdd8c5c3c28cdbc5d8c48cfdd9cddec7d9df8cffc3c2c5cad58cc4d8d8dcdf968383ddd9cddec7d9df82c5c383cec0c3cb83ddd9cddec7d9df81dfc3c2c5cad583" title="Share via Email">
     <i class="fa-solid fa-envelope fa-xl"></i>
   </a>
 </div>
@@ -486,7 +486,7 @@
   <a class="share-reddit" href="http://www.reddit.com/submit?url=https://quarkus.io/blog/quarkus-3-33-4-2-released/" onclick="window.open(this.href, 'pop-up', 'left=20,top=20,width=900,height=500,toolbar=1,resizable=0'); return false;" title="Share on Reddit" >
     <i class="fa-brands fa-square-reddit fa-xl"></i>
   </a>
-  <a class="share-email" href="/cdn-cgi/l/email-protection#f9c68a8c9b939c9a8dc4a88c988b928c8ad9cad7cacad7cdd7cbd98b9c959c988a9c9dd9d4d9b5adaad99c949c8b9e9c979a80d98b9c959c988a9cdf989489c29b969d80c4a88c988b928c8ad9cad7cacad7cdd7cbd98b9c959c988a9c9dd9d4d9b5adaad99c949c8b9e9c979a80d98b9c959c988a9cd9918d8d898ac3d6d6888c988b928c8ad79096d69b95969ed6888c988b928c8ad4cad4cacad4cdd4cbd48b9c959c988a9c9dd6" title="Share via Email">
+  <a class="share-email" href="/cdn-cgi/l/email-protection#5b64282e39313e382f660a2e3a29302e287b68756868756f75697b293e373e3a283e3f7b767b170f087b3e363e293c3e3538227b293e373e3a283e7d3a362b6039343f22660a2e3a29302e287b68756868756f75697b293e373e3a283e3f7b767b170f087b3e363e293c3e3538227b293e373e3a283e7b332f2f2b286174742a2e3a29302e28753234743937343c742a2e3a29302e287668766868766f766976293e373e3a283e3f74" title="Share via Email">
     <i class="fa-solid fa-envelope fa-xl"></i>
   </a>
 </div>
@@ -525,7 +525,7 @@
   <a class="share-reddit" href="http://www.reddit.com/submit?url=https://quarkus.io/blog/quarkus-3-40-1-2-released/" onclick="window.open(this.href, 'pop-up', 'left=20,top=20,width=900,height=500,toolbar=1,resizable=0'); return false;" title="Share on Reddit" >
     <i class="fa-brands fa-square-reddit fa-xl"></i>
   </a>
-  <a class="share-email" href="/cdn-cgi/l/email-protection#1b24686e79717e786f264a6e7a69706e683b28352f2b352a35293b697e777e7a687e7f3b363b574f483b7e767e697c7e7578623b697e777e7a687e3d7a766b2079747f62264a6e7a69706e683b28352f2b352a35293b697e777e7a687e7f3b363b574f483b7e767e697c7e7578623b697e777e7a687e3b736f6f6b682134346a6e7a69706e68357274347977747c346a6e7a69706e683628362f2b362a362936697e777e7a687e7f34" title="Share via Email">
+  <a class="share-email" href="/cdn-cgi/l/email-protection#f0cf8385929a959384cda18591829b8583d0c3dec4c0dec1dec2d082959c9591839594d0ddd0bca4a3d0959d958297959e9389d082959c95918395d6919d80cb929f9489cda18591829b8583d0c3dec4c0dec1dec2d082959c9591839594d0ddd0bca4a3d0959d958297959e9389d082959c95918395d09884848083cadfdf818591829b8583de999fdf929c9f97df818591829b8583ddc3ddc4c0ddc1ddc2dd82959c9591839594df" title="Share via Email">
     <i class="fa-solid fa-envelope fa-xl"></i>
   </a>
 </div>
@@ -564,7 +564,7 @@
   <a class="share-reddit" href="http://www.reddit.com/submit?url=https://quarkus.io/blog/quarkus-insights-267-sandboxing-agents-with-quarkus-for-quarkus/" onclick="window.open(this.href, 'pop-up', 'left=20,top=20,width=900,height=500,toolbar=1,resizable=0'); return false;" title="Share on Reddit" >
     <i class="fa-brands fa-square-reddit fa-xl"></i>
   </a>
-  <a class="share-email" href="/cdn-cgi/l/email-protection#8fb0fcfaede5eaecfbb2defaeefde4fafcafc6e1fce6e8e7fbfcafacbdb9b8b5afdceee1ebede0f7e6e1e8afeee8eae1fbfcaff8e6fbe7afdefaeefde4fafca3afe9e0fdafdefaeefde4fafca9eee2ffb4ede0ebf6b2defaeefde4fafcafc6e1fce6e8e7fbfcafacbdb9b8b5afdceee1ebede0f7e6e1e8afeee8eae1fbfcaff8e6fbe7afdefaeefde4fafca3afe9e0fdafdefaeefde4fafcafe7fbfbfffcb5a0a0fefaeefde4fafca1e6e0a0ede3e0e8a0fefaeefde4fafca2e6e1fce6e8e7fbfca2bdb9b8a2fceee1ebede0f7e6e1e8a2eee8eae1fbfca2f8e6fbe7a2fefaeefde4fafca2e9e0fda2fefaeefde4fafca0" title="Share via Email">
+  <a class="share-email" href="/cdn-cgi/l/email-protection#211e5254434b4442551c705440534a545201684f52484649555201021317161b0172404f45434e59484f46014046444f5552015648554901705440534a54520d01474e5301705440534a545207404c511a434e45581c705440534a545201684f52484649555201021317161b0172404f45434e59484f46014046444f5552015648554901705440534a54520d01474e5301705440534a54520149555551521b0e0e505440534a54520f484e0e434d4e460e505440534a54520c484f5248464955520c1317160c52404f45434e59484f460c4046444f55520c564855490c505440534a54520c474e530c505440534a54520e" title="Share via Email">
     <i class="fa-solid fa-envelope fa-xl"></i>
   </a>
 </div>

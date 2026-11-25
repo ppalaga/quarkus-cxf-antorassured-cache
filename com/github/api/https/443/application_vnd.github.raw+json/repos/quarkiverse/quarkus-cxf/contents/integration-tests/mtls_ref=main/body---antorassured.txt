@@ -2,16 +2,16 @@
   {
     "name": "pom.xml",
     "path": "integration-tests/mtls/pom.xml",
-    "sha": "10e900f766f08259e5baef58b9d6a43611377466",
+    "sha": "37925b4c44581d335da04e43f7352861365c3715",
     "size": 8143,
     "url": "https://api.github.com/repos/quarkiverse/quarkus-cxf/contents/integration-tests/mtls/pom.xml?ref=main",
     "html_url": "https://github.com/quarkiverse/quarkus-cxf/blob/main/integration-tests/mtls/pom.xml",
-    "git_url": "https://api.github.com/repos/quarkiverse/quarkus-cxf/git/blobs/10e900f766f08259e5baef58b9d6a43611377466",
+    "git_url": "https://api.github.com/repos/quarkiverse/quarkus-cxf/git/blobs/37925b4c44581d335da04e43f7352861365c3715",
     "download_url": "https://raw.githubusercontent.com/quarkiverse/quarkus-cxf/main/integration-tests/mtls/pom.xml",
     "type": "file",
     "_links": {
       "self": "https://api.github.com/repos/quarkiverse/quarkus-cxf/contents/integration-tests/mtls/pom.xml?ref=main",
-      "git": "https://api.github.com/repos/quarkiverse/quarkus-cxf/git/blobs/10e900f766f08259e5baef58b9d6a43611377466",
+      "git": "https://api.github.com/repos/quarkiverse/quarkus-cxf/git/blobs/37925b4c44581d335da04e43f7352861365c3715",
       "html": "https://github.com/quarkiverse/quarkus-cxf/blob/main/integration-tests/mtls/pom.xml"
     }
   },

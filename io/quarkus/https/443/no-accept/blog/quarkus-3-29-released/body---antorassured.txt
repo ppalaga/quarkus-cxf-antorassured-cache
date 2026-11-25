@@ -332,7 +332,7 @@ Many many thanks to each and everyone of them.</p>
   <a class="share-reddit" href="http://www.reddit.com/submit?url=https://quarkus.io/blog/quarkus-3-29-released/" onclick="window.open(this.href, 'pop-up', 'left=20,top=20,width=900,height=500,toolbar=1,resizable=0'); return false;" title="Share on Reddit" >
     <i class="fa-brands fa-square-reddit fa-xl"></i>
   </a>
-  <a class="share-email" href="/cdn-cgi/l/email-protection#99a6eaecfbf3fcfaeda4c8ecf8ebf2eceab9aab7aba0b9b4b9d4ecf5edf0e9f5fcb9faf8faf1fcb9fbf8faf2fcf7fdeab9f8f7fdb9c8ecedfcb9ddd8c9b9fdfcfbecfefefcebb9eaece9e9f6ebedbff8f4e9a2fbf6fde0a4c8ecf8ebf2eceab9aab7aba0b9b4b9d4ecf5edf0e9f5fcb9faf8faf1fcb9fbf8faf2fcf7fdeab9f8f7fdb9c8ecedfcb9ddd8c9b9fdfcfbecfefefcebb9eaece9e9f6ebedb9f1edede9eaa3b6b6e8ecf8ebf2eceab7f0f6b6fbf5f6feb6e8ecf8ebf2eceab4aab4aba0b4ebfcf5fcf8eafcfdb6" title="Share via Email">
+  <a class="share-email" href="/cdn-cgi/l/email-protection#6c531f190e06090f18513d190d1e07191f4c5f425e554c414c21190018051c00094c0f0d0f04094c0e0d0f070902081f4c0d02084c3d1918094c282d3c4c08090e190b0b091e4c1f191c1c031e184a0d011c570e030815513d190d1e07191f4c5f425e554c414c21190018051c00094c0f0d0f04094c0e0d0f070902081f4c0d02084c3d1918094c282d3c4c08090e190b0b091e4c1f191c1c031e184c0418181c1f5643431d190d1e07191f420503430e00030b431d190d1e07191f415f415e55411e0900090d1f090843" title="Share via Email">
     <i class="fa-solid fa-envelope fa-xl"></i>
   </a>
 </div>

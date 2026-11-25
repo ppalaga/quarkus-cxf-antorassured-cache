@@ -554,7 +554,7 @@ The new release process simply wouldn’t have been possible without his reactiv
   <a class="share-reddit" href="http://www.reddit.com/submit?url=https://quarkus.io/blog/quarkiverse-and-smallrye-new-release-process/" onclick="window.open(this.href, 'pop-up', 'left=20,top=20,width=900,height=500,toolbar=1,resizable=0'); return false;" title="Share on Reddit" >
     <i class="fa-brands fa-square-reddit fa-xl"></i>
   </a>
-  <a class="share-email" href="/cdn-cgi/l/email-protection#b689c5c3d4dcd3d5c28be5c2c4d3d8d1c2ded3d8dfd8d196c2ded396e4d3dad3d7c5d396e6c4d9d5d3c5c596d0d9c496e7c3d7c4dddfc0d3c4c5d396d7d8d296e5dbd7dadae4cfd390d7dbc68dd4d9d2cf8be5c2c4d3d8d1c2ded3d8dfd8d196c2ded396e4d3dad3d7c5d396e6c4d9d5d3c5c596d0d9c496e7c3d7c4dddfc0d3c4c5d396d7d8d296e5dbd7dadae4cfd396dec2c2c6c58c9999c7c3d7c4ddc3c598dfd999d4dad9d199c7c3d7c4dddfc0d3c4c5d39bd7d8d29bc5dbd7dadac4cfd39bd8d3c19bc4d3dad3d7c5d39bc6c4d9d5d3c5c599" title="Share via Email">
+  <a class="share-email" href="/cdn-cgi/l/email-protection#96a9e5e3f4fcf3f5e2abc5e2e4f3f8f1e2fef3f8fff8f1b6e2fef3b6c4f3faf3f7e5f3b6c6e4f9f5f3e5e5b6f0f9e4b6c7e3f7e4fdffe0f3e4e5f3b6f7f8f2b6c5fbf7fafac4eff3b0f7fbe6adf4f9f2efabc5e2e4f3f8f1e2fef3f8fff8f1b6e2fef3b6c4f3faf3f7e5f3b6c6e4f9f5f3e5e5b6f0f9e4b6c7e3f7e4fdffe0f3e4e5f3b6f7f8f2b6c5fbf7fafac4eff3b6fee2e2e6e5acb9b9e7e3f7e4fde3e5b8fff9b9f4faf9f1b9e7e3f7e4fdffe0f3e4e5f3bbf7f8f2bbe5fbf7fafae4eff3bbf8f3e1bbe4f3faf3f7e5f3bbe6e4f9f5f3e5e5b9" title="Share via Email">
     <i class="fa-solid fa-envelope fa-xl"></i>
   </a>
 </div>

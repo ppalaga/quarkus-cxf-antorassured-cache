@@ -17,7 +17,7 @@
     </script>
     <!-- End Segment Analytics -->
 
-    <script type="module" src="/static/bundle/community-app-2XZAOG5X.js"></script>
+    <script type="module" src="/static/bundle/community-app-3SYSY2X2.js"></script>
 </head>
 
 <body>

@@ -277,7 +277,7 @@ It also means that clients of the library might not obtain a connection in a tim
   <a class="share-reddit" href="http://www.reddit.com/submit?url=https://quarkus.io/blog/quarkus-3-26-1-released/" onclick="window.open(this.href, 'pop-up', 'left=20,top=20,width=900,height=500,toolbar=1,resizable=0'); return false;" title="Share on Reddit" >
     <i class="fa-brands fa-square-reddit fa-xl"></i>
   </a>
-  <a class="share-email" href="/cdn-cgi/l/email-protection#c0ffb3b5a2aaa5a3b4fd91b5a1b2abb5b3e0f3eef2f6eef1ece0f3eef2f0eef2eef2e0a1aea4e0f3eef1f5eef6eef2e0ede085ada5b2a7a5aea3b9e0b2a5aca5a1b3a5b3e6a1adb0fba2afa4b9fd91b5a1b2abb5b3e0f3eef2f6eef1ece0f3eef2f0eef2eef2e0a1aea4e0f3eef1f5eef6eef2e0ede085ada5b2a7a5aea3b9e0b2a5aca5a1b3a5b3e0a8b4b4b0b3faefefb1b5a1b2abb5b3eea9afefa2acafa7efb1b5a1b2abb5b3edf3edf2f6edf1edb2a5aca5a1b3a5a4ef" title="Share via Email">
+  <a class="share-email" href="/cdn-cgi/l/email-protection#300f4345525a5553440d614551425b454310031e02061e011c10031e02001e021e0210515e5410031e01051e061e02101d10755d554257555e53491042555c555143554316515d400b525f54490d614551425b454310031e02061e011c10031e02001e021e0210515e5410031e01051e061e02101d10755d554257555e53491042555c55514355431058444440430a1f1f414551425b45431e595f1f525c5f571f414551425b45431d031d02061d011d42555c55514355541f" title="Share via Email">
     <i class="fa-solid fa-envelope fa-xl"></i>
   </a>
 </div>

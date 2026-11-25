@@ -2,16 +2,16 @@
   {
     "name": "pom.xml",
     "path": "integration-tests/opentelemetry/pom.xml",
-    "sha": "b2c5657ff9eab31a6f4d7f44becaff89bb5f520e",
+    "sha": "329ca9d7c6f01ac815337f30838bb1ec4145faed",
     "size": 5072,
     "url": "https://api.github.com/repos/quarkiverse/quarkus-cxf/contents/integration-tests/opentelemetry/pom.xml?ref=main",
     "html_url": "https://github.com/quarkiverse/quarkus-cxf/blob/main/integration-tests/opentelemetry/pom.xml",
-    "git_url": "https://api.github.com/repos/quarkiverse/quarkus-cxf/git/blobs/b2c5657ff9eab31a6f4d7f44becaff89bb5f520e",
+    "git_url": "https://api.github.com/repos/quarkiverse/quarkus-cxf/git/blobs/329ca9d7c6f01ac815337f30838bb1ec4145faed",
     "download_url": "https://raw.githubusercontent.com/quarkiverse/quarkus-cxf/main/integration-tests/opentelemetry/pom.xml",
     "type": "file",
     "_links": {
       "self": "https://api.github.com/repos/quarkiverse/quarkus-cxf/contents/integration-tests/opentelemetry/pom.xml?ref=main",
-      "git": "https://api.github.com/repos/quarkiverse/quarkus-cxf/git/blobs/b2c5657ff9eab31a6f4d7f44becaff89bb5f520e",
+      "git": "https://api.github.com/repos/quarkiverse/quarkus-cxf/git/blobs/329ca9d7c6f01ac815337f30838bb1ec4145faed",
       "html": "https://github.com/quarkiverse/quarkus-cxf/blob/main/integration-tests/opentelemetry/pom.xml"
     }
   },

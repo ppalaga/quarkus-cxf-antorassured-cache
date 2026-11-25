@@ -7910,7 +7910,7 @@ This is useful for:</p>
 <div class="content">
 <pre class="highlightjs highlight"><code class="language-shell hljs" data-lang="shell">quarkus tls lets-encrypt issue-certificate \
   --domain=example.com \
-  <a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="1c313179717d7570217d787175725c79647d716c7079327f7371">[email&#160;protected]</a> \
+  <a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="4a67672f272b2326772b2e2723240a2f322b273a262f64292527">[email&#160;protected]</a> \
   --management-url=https://localhost:9000 \
   --acme-server-url=https://acme.zerossl.com/v2/DV90</code></pre>
 </div>

@@ -34,16 +34,16 @@
   {
     "name": "pom.xml",
     "path": "integration-tests/ws-security/pom.xml",
-    "sha": "820850f2fd3521ea5a45144111b97c38e314d0c0",
+    "sha": "6a7856c38776393ee2e0fc786e7a7f5df76b1a97",
     "size": 22226,
     "url": "https://api.github.com/repos/quarkiverse/quarkus-cxf/contents/integration-tests/ws-security/pom.xml?ref=main",
     "html_url": "https://github.com/quarkiverse/quarkus-cxf/blob/main/integration-tests/ws-security/pom.xml",
-    "git_url": "https://api.github.com/repos/quarkiverse/quarkus-cxf/git/blobs/820850f2fd3521ea5a45144111b97c38e314d0c0",
+    "git_url": "https://api.github.com/repos/quarkiverse/quarkus-cxf/git/blobs/6a7856c38776393ee2e0fc786e7a7f5df76b1a97",
     "download_url": "https://raw.githubusercontent.com/quarkiverse/quarkus-cxf/main/integration-tests/ws-security/pom.xml",
     "type": "file",
     "_links": {
       "self": "https://api.github.com/repos/quarkiverse/quarkus-cxf/contents/integration-tests/ws-security/pom.xml?ref=main",
-      "git": "https://api.github.com/repos/quarkiverse/quarkus-cxf/git/blobs/820850f2fd3521ea5a45144111b97c38e314d0c0",
+      "git": "https://api.github.com/repos/quarkiverse/quarkus-cxf/git/blobs/6a7856c38776393ee2e0fc786e7a7f5df76b1a97",
       "html": "https://github.com/quarkiverse/quarkus-cxf/blob/main/integration-tests/ws-security/pom.xml"
     }
   },

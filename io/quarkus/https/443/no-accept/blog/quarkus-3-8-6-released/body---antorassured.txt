@@ -268,7 +268,7 @@ Once you upgraded to 3.0, also have a look at the <a href="https://github.com/qu
   <a class="share-reddit" href="http://www.reddit.com/submit?url=https://quarkus.io/blog/quarkus-3-8-6-released/" onclick="window.open(this.href, 'pop-up', 'left=20,top=20,width=900,height=500,toolbar=1,resizable=0'); return false;" title="Share on Reddit" >
     <i class="fa-brands fa-square-reddit fa-xl"></i>
   </a>
-  <a class="share-email" href="/cdn-cgi/l/email-protection#26195553444c4345521b775347544d53550615081e08100654434a4347554342060b066b474f48524348474845430654434a4347554300474b561d4449425f1b775347544d53550615081e08100654434a4347554342060b066b474f48524348474845430654434a43475543064e525256551c0909575347544d5355084f4909444a494109575347544d53550b150b1e0b100b54434a434755434209" title="Share via Email">
+  <a class="share-email" href="/cdn-cgi/l/email-protection#58672b2d3a323d3b2c65092d392a332d2b786b7660766e782a3d343d392b3d3c787578153931362c3d3639363b3d782a3d343d392b3d7e393528633a373c2165092d392a332d2b786b7660766e782a3d343d392b3d3c787578153931362c3d3639363b3d782a3d343d392b3d78302c2c282b627777292d392a332d2b763137773a34373f77292d392a332d2b756b7560756e752a3d343d392b3d3c77" title="Share via Email">
     <i class="fa-solid fa-envelope fa-xl"></i>
   </a>
 </div>
