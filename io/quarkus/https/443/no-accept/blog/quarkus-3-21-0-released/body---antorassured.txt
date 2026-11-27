@@ -46,7 +46,7 @@
     <link rel="shortcut icon" type="image/png" href="/favicon.ico" >
     <link rel="stylesheet" href="/guides/stylesheet/config.css" />
     <script type="module" src="/static/bundle/app-UNQQD6ED.js"></script>
-      <link rel="stylesheet" href="/static/bundle/app-HXHLKKAD.css" />
+      <link rel="stylesheet" href="/static/bundle/app-63KZGM2H.css" />
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v6.5.2/css/all.css" crossorigin="anonymous">
     <link rel="alternate" type="application/rss+xml"  href="/feed.xml" title="Quarkus - Supersonic Subatomic Java">
 
@@ -315,7 +315,7 @@ Many many thanks to each and everyone of them.</p>
   <a class="share-reddit" href="http://www.reddit.com/submit?url=https://quarkus.io/blog/quarkus-3-21-0-released/" onclick="window.open(this.href, 'pop-up', 'left=20,top=20,width=900,height=500,toolbar=1,resizable=0'); return false;" title="Share on Reddit" >
     <i class="fa-brands fa-square-reddit fa-xl"></i>
   </a>
-  <a class="share-email" href="/cdn-cgi/l/email-protection#cdf2beb8afa7a8aeb9f09cb8acbfa6b8beedfee3fffcede0ed99819eed9fa8aaa4beb9bfb4edbeb8bdbda2bfb9edaba2bfed80a2a3aaa2898fed8ea1a4a8a3b9ebaca0bdf6afa2a9b4f09cb8acbfa6b8beedfee3fffcede0ed99819eed9fa8aaa4beb9bfb4edbeb8bdbda2bfb9edaba2bfed80a2a3aaa2898fed8ea1a4a8a3b9eda5b9b9bdbef7e2e2bcb8acbfa6b8bee3a4a2e2afa1a2aae2bcb8acbfa6b8bee0fee0fffce0fde0bfa8a1a8acbea8a9e2" title="Share via Email">
+  <a class="share-email" href="/cdn-cgi/l/email-protection#5a65292f38303f392e670b2f3b28312f297a6974686b7a777a0e16097a083f3d33292e28237a292f2a2a35282e7a3c35287a1735343d351e187a1936333f342e7c3b372a6138353e23670b2f3b28312f297a6974686b7a777a0e16097a083f3d33292e28237a292f2a2a35282e7a3c35287a1735343d351e187a1936333f342e7a322e2e2a296075752b2f3b28312f29743335753836353d752b2f3b28312f29776977686b776a77283f363f3b293f3e75" title="Share via Email">
     <i class="fa-solid fa-envelope fa-xl"></i>
   </a>
 </div>

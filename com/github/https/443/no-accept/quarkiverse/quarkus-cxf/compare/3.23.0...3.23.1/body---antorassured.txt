@@ -53,25 +53,25 @@
 
     <link crossorigin="anonymous" media="all" rel="stylesheet" href="https://github.githubassets.com/assets/primer-primitives-7b6f781f48ff31c6.css" />
     <link crossorigin="anonymous" media="all" rel="stylesheet" href="https://github.githubassets.com/assets/primer-8b6d8039ccdd4132.css" />
-    <link crossorigin="anonymous" media="all" rel="stylesheet" href="https://github.githubassets.com/assets/global-af40a4a5125988a5.css" />
+    <link crossorigin="anonymous" media="all" rel="stylesheet" href="https://github.githubassets.com/assets/global-0205e15f8e92a107.css" />
     <link crossorigin="anonymous" media="all" rel="stylesheet" href="https://github.githubassets.com/assets/github-f73c7caa132ed70b.css" />
   <link crossorigin="anonymous" media="all" rel="stylesheet" href="https://github.githubassets.com/assets/repository-6faa8cb3b0c80e0a.css" />
 
   
 
-  <script type="application/json" id="client-env">{"locale":"en","featureFlags":["actions_caches_react_view","actions_enable_background_steps","actions_new_hosted_runner_image_select_sizes_and_versions","actions_workflows_react_toggle","agent_author_search_expansion","agent_author_search_expansion_ui_pulls","agent_sessions_ccr_review_effort","ai_resource_search","alternate_user_config_repo","billing_billable_licenses_complete_day","billing_billable_licenses_cost_center_bucket_fix","billing_budget_expiration","billing_cost_center_list_assigned_resources","billing_discount_threshold_notification","billing_shared_compute_usage","browser_stats_fixed_delivery_window","catalyst_lazy_define_indexed","code_quality_enablement_banner_targeting","code_quality_remove_preview","code_view_raf_sticky_lines","codespaces_prebuild_region_target_update","coding_agent_third_party_model_ui","collab_docs_chat_notifications","copilot-software-factories","copilot_agent_snippy","copilot_api_agentic_issue_marshal_yaml","copilot_automation_continuous_history","copilot_automation_repo_mcp_servers","copilot_automations_pagination","copilot_base_model_policy_row","copilot_chat_auto_mode_v2","copilot_chat_clear_model_selection_for_default_change","copilot_chat_fusion_auto_tiers","copilot_chat_vision_dotcom_chat_ga_gate","copilot_continue_in_github_mobile","copilot_css_textarea_autosize","copilot_custom_copilots","copilot_custom_copilots_feature_preview","copilot_duplicate_thread","copilot_extensions_removal_on_marketplace","copilot_fix_failed_workflows_all_skus","copilot_hide_hovercard","copilot_immersive_task_hyperlinking","copilot_mission_control_agent_merge_fix_ci","copilot_mission_control_agent_merge_resolve_conflicts","copilot_mission_control_automation_grouping","copilot_mission_control_awps_batching","copilot_mission_control_create_pull_request_client_tool","copilot_mission_control_create_repository_client_tool","copilot_mission_control_early_stop","copilot_mission_control_environments_web_kickoff","copilot_mission_control_hide_task_list_counts","copilot_mission_control_messaging_app_dm_steering","copilot_mission_control_needs_attention","copilot_mission_control_pinned_tasks","copilot_mission_control_reasoning_effort","copilot_mission_control_reuse_project_workspace","copilot_mission_control_sandbox_request_image_override","copilot_mission_control_session_client_attribution","copilot_mission_control_task_alive_updates","copilot_mission_control_task_route_preloading","copilot_mission_control_task_sharing","copilot_mission_control_use_api_gateway","copilot_org_policy_page_focus_mode","copilot_policy_ui_refresh","copilot_quick_chat_recent_artifact_sessions","copilot_share_active_subthread","copilot_spaces_ga","copilot_spaces_individual_policies_ga","copilot_swe_agent_authorization_status_ui","copilot_swe_agent_automation_completed_trigger","copilot_swe_agent_automation_failed_trigger","copilot_swe_agent_automation_repository_owned","copilot_swe_agent_automation_resource_scoped_writes","copilot_swe_agent_code_scanning_alert_trigger","copilot_swe_agent_dependabot_alert_trigger","copilot_swe_agent_discussion_comment_trigger","copilot_swe_agent_discussion_opened_trigger","copilot_swe_agent_discussion_updated_trigger","copilot_swe_agent_hide_model_picker_if_only_auto","copilot_swe_agent_issue_assigned_trigger","copilot_swe_agent_issue_closed_trigger","copilot_swe_agent_issue_comment_trigger","copilot_swe_agent_issue_labeled_trigger","copilot_swe_agent_issue_reopened_trigger","copilot_swe_agent_issue_status_changed_trigger","copilot_swe_agent_mcp_permission_gate","copilot_swe_agent_merge_conflict_trigger","copilot_swe_agent_pr_comment_model_picker","copilot_swe_agent_pull_request_assigned_trigger","copilot_swe_agent_pull_request_closed_trigger","copilot_swe_agent_pull_request_comment_trigger","copilot_swe_agent_pull_request_converted_to_draft_trigger","copilot_swe_agent_pull_request_labeled_trigger","copilot_swe_agent_pull_request_merged_trigger","copilot_swe_agent_pull_request_opened_trigger","copilot_swe_agent_pull_request_ready_for_review_trigger","copilot_swe_agent_pull_request_reopened_trigger","copilot_swe_agent_pull_request_review_dismissed_trigger","copilot_swe_agent_pull_request_review_requested_trigger","copilot_swe_agent_pull_request_review_submitted_trigger","copilot_swe_agent_pull_request_review_thread_resolved_trigger","copilot_swe_agent_pull_request_review_thread_unresolved_trigger","copilot_swe_agent_pull_request_synchronize_trigger","copilot_swe_agent_secret_scanning_alert_trigger","copilot_swe_agent_sub_issue_added_trigger","copilot_swe_agent_use_subagents","copilot_task_api_github_rest_style","copilot_task_scoped_alive_channel","copilot_token_based_billing","copilot_user_can_upgrade_plan_field","fgpat_permissions_selector_redesign","glc_code_quality_repo_settings_workflow_config","global_issues_filtered_list_layout","global_nav_context_refresh","home_dashboard_ga","hyperspace_2025_logged_out_batch_1","hyperspace_2025_logged_out_batch_2","hyperspace_2025_logged_out_batch_3","in_product_messaging_datadog_monitoring","ipm_ubb_individual_budget_banner","issue_create_status_header","issue_fields_add_picker","issue_fields_multi_select","issue_inline_avatars","issue_relative_time_micro","issues_board_card_drawer","issues_board_refresh_polling","issues_hide_closed_sub_issues","issues_lazy_load_comment_box_suggestions","issues_react_chrome_container_query_fix","labels_archiving","labels_archiving_info","landing_pages_ninetailed","lifecycle_label_name_updates","marketing_cookie_consent_banner","memex_live_update_hovercard","memex_mwl_filter_field_delimiter","memex_remove_deprecated_type_issue","merge_queue_restricted_pushers_warning","merge_status_header_feedback","new_batched_queries_hook","octocaptcha_origin_optimization","one_copilot_chat_disable_ahp_pings","one_copilot_chat_disable_eager_resume","one_copilot_chat_owner_split_picker","one_copilot_chat_resume_on_intent","one_copilot_grouped_tool_calls","one_copilot_plan_mode","one_copilot_remember_tool_permissions","one_copilot_simplified_environment_picker","planning_board_agent_task_status","primer_react_blankslate_compact_default","primer_react_css_anchor_positioning","primer_react_merged_forwarded_refs","prs_contextual_comment_controls","prs_copilot_app_open_action","prs_copilot_assignee_session_indicator","prs_css_anchor_positioning","prs_desktop_checkout","prs_mergeability_live_updates_trailing","prs_overview_react_public_preview","prs_overview_review_opinion_colors","prs_stale_session_block","pull_request_file_tree_prefetch_on_hover_50ms","pull_request_persister","pull_request_stacks_auto_merge_commit_customization","pull_request_stacks_navigation_shortcuts","pull_request_virtualization_image_estimate","pull_request_virtualization_loader_batching","pull_request_virtualization_scroll_compensation","pull_request_virtualization_scroll_intent","pull_requests_deferred_highlight_fallback","pull_requests_persistent_whitespace_preferences","react_blob_isolate_code_lines","react_blob_ssr_content_visibility","react_data_router_nonblocking_revalidation","react_data_router_tanstack_allowed","react_query_props_with_key","react_sandbox_future_tanstack","repo_app_issues_dashboard","repo_app_pulls_dashboard","repo_app_turbo","repo_issues_sidebar_layout","repos_contributors_limited_default_range","rulesets_actor_list_editor","sample_network_conn_type","sanitize_preset_md2html","scribe_artifacts_api","secret_scanning_public_monitoring_hide_preview_labels","secret_scanning_public_monitoring_hide_validity_coming_soon","see_who_reacted","session_logs_ungroup_reasoning_text","set_sha256_on_repo_creation_form","site_banner_desktop_copilot_app","site_download_options_pixel_mona","site_global_banner_copilot_fusion_usage_2026","site_homepage_refresh_2026","speculation_rules_ui_service","suppress_automated_browser_vitals","swp_forms_disable_octocaptcha","trusted_types_policies","trusted_types_worker","turbo_link_eligibility_optimization","ui_service_gate_aware_external_check","ui_service_notification_shelf","update_issue_suggestions","viewscreen_sandbox","warn_inaccessible_attachments","webp_support"],"githubDomain":"https://github.com","copilotApiOverrideUrl":"https://api.githubcopilot.com","cmcApiUrl":"https://api.github.com/cmc_internal/api"}</script>
+  <script type="application/json" id="client-env">{"locale":"en","featureFlags":["actions_caches_react_view","actions_enable_background_steps","actions_new_hosted_runner_image_select_sizes_and_versions","actions_workflows_react_toggle","agent_author_search_expansion","agent_author_search_expansion_ui_pulls","agent_sessions_ccr_review_effort","ai_resource_search","alternate_user_config_repo","billing_billable_licenses_complete_day","billing_billable_licenses_cost_center_bucket_fix","billing_budget_expiration","billing_cost_center_list_assigned_resources","billing_discount_threshold_notification","billing_shared_compute_usage","browser_stats_fixed_delivery_window","catalyst_lazy_define_indexed","code_quality_enablement_banner_targeting","code_quality_remove_preview","code_view_raf_sticky_lines","codespaces_prebuild_region_target_update","coding_agent_third_party_model_ui","collab_docs_chat_notifications","copilot-software-factories","copilot_agent_snippy","copilot_api_agentic_issue_marshal_yaml","copilot_automation_continuous_history","copilot_automation_repo_mcp_servers","copilot_automations_pagination","copilot_base_model_policy_row","copilot_chat_auto_mode_v2","copilot_chat_clear_model_selection_for_default_change","copilot_chat_fusion_auto_tiers","copilot_chat_vision_dotcom_chat_ga_gate","copilot_css_textarea_autosize","copilot_custom_copilots","copilot_custom_copilots_feature_preview","copilot_duplicate_thread","copilot_extensions_removal_on_marketplace","copilot_fix_failed_workflows_all_skus","copilot_hide_hovercard","copilot_immersive_task_hyperlinking","copilot_mission_control_agent_merge_fix_ci","copilot_mission_control_agent_merge_resolve_conflicts","copilot_mission_control_automation_grouping","copilot_mission_control_awps_batching","copilot_mission_control_create_pull_request_client_tool","copilot_mission_control_create_repository_client_tool","copilot_mission_control_early_stop","copilot_mission_control_environments_web_kickoff","copilot_mission_control_hide_task_list_counts","copilot_mission_control_messaging_app_dm_steering","copilot_mission_control_needs_attention","copilot_mission_control_pinned_tasks","copilot_mission_control_reasoning_effort","copilot_mission_control_reuse_project_workspace","copilot_mission_control_sandbox_request_image_override","copilot_mission_control_session_client_attribution","copilot_mission_control_task_alive_updates","copilot_mission_control_task_route_preloading","copilot_mission_control_task_sharing","copilot_mission_control_use_api_gateway","copilot_org_policy_page_focus_mode","copilot_policy_ui_refresh","copilot_quick_chat_recent_artifact_sessions","copilot_share_active_subthread","copilot_spaces_ga","copilot_spaces_individual_policies_ga","copilot_swe_agent_authorization_status_ui","copilot_swe_agent_automation_completed_trigger","copilot_swe_agent_automation_failed_trigger","copilot_swe_agent_automation_repository_owned","copilot_swe_agent_automation_resource_scoped_writes","copilot_swe_agent_code_scanning_alert_trigger","copilot_swe_agent_dependabot_alert_trigger","copilot_swe_agent_discussion_comment_trigger","copilot_swe_agent_discussion_opened_trigger","copilot_swe_agent_discussion_updated_trigger","copilot_swe_agent_hide_model_picker_if_only_auto","copilot_swe_agent_issue_assigned_trigger","copilot_swe_agent_issue_closed_trigger","copilot_swe_agent_issue_comment_trigger","copilot_swe_agent_issue_labeled_trigger","copilot_swe_agent_issue_reopened_trigger","copilot_swe_agent_issue_status_changed_trigger","copilot_swe_agent_mcp_permission_gate","copilot_swe_agent_merge_conflict_trigger","copilot_swe_agent_pr_comment_model_picker","copilot_swe_agent_pull_request_assigned_trigger","copilot_swe_agent_pull_request_closed_trigger","copilot_swe_agent_pull_request_comment_trigger","copilot_swe_agent_pull_request_converted_to_draft_trigger","copilot_swe_agent_pull_request_labeled_trigger","copilot_swe_agent_pull_request_merged_trigger","copilot_swe_agent_pull_request_opened_trigger","copilot_swe_agent_pull_request_ready_for_review_trigger","copilot_swe_agent_pull_request_reopened_trigger","copilot_swe_agent_pull_request_review_dismissed_trigger","copilot_swe_agent_pull_request_review_requested_trigger","copilot_swe_agent_pull_request_review_submitted_trigger","copilot_swe_agent_pull_request_review_thread_resolved_trigger","copilot_swe_agent_pull_request_review_thread_unresolved_trigger","copilot_swe_agent_pull_request_synchronize_trigger","copilot_swe_agent_secret_scanning_alert_trigger","copilot_swe_agent_sub_issue_added_trigger","copilot_swe_agent_use_subagents","copilot_task_api_github_rest_style","copilot_task_scoped_alive_channel","copilot_token_based_billing","copilot_user_can_upgrade_plan_field","fgpat_permissions_selector_redesign","glc_code_quality_repo_settings_workflow_config","global_issues_filtered_list_layout","global_nav_context_refresh","home_dashboard_ga","hyperspace_2025_logged_out_batch_1","hyperspace_2025_logged_out_batch_2","hyperspace_2025_logged_out_batch_3","in_product_messaging_datadog_monitoring","ipm_ubb_individual_budget_banner","issue_create_status_header","issue_fields_add_picker","issue_fields_multi_select","issue_inline_avatars","issue_relative_time_micro","issues_board_card_drawer","issues_board_refresh_polling","issues_hide_closed_sub_issues","issues_lazy_load_comment_box_suggestions","issues_react_chrome_container_query_fix","labels_archiving","labels_archiving_info","landing_pages_ninetailed","lifecycle_label_name_updates","marketing_cookie_consent_banner","memex_live_update_hovercard","memex_mwl_filter_field_delimiter","memex_remove_deprecated_type_issue","merge_queue_restricted_pushers_warning","merge_status_header_feedback","new_batched_queries_hook","octocaptcha_origin_optimization","one_copilot_chat_disable_ahp_pings","one_copilot_chat_disable_eager_resume","one_copilot_chat_resume_on_intent","one_copilot_grouped_tool_calls","one_copilot_remember_tool_permissions","one_copilot_simplified_environment_picker","planning_board_agent_task_status","primer_react_blankslate_compact_default","primer_react_css_anchor_positioning","primer_react_merged_forwarded_refs","prs_contextual_comment_controls","prs_copilot_app_open_action","prs_copilot_assignee_session_indicator","prs_css_anchor_positioning","prs_desktop_checkout","prs_mergeability_live_updates_trailing","prs_overview_react_public_preview","prs_overview_review_opinion_colors","prs_stale_session_block","pull_request_file_tree_prefetch_on_hover_50ms","pull_request_persister","pull_request_stacks_auto_merge_commit_customization","pull_request_stacks_navigation_shortcuts","pull_request_virtualization_image_estimate","pull_request_virtualization_loader_batching","pull_request_virtualization_scroll_compensation","pull_request_virtualization_scroll_intent","pull_requests_deferred_highlight_fallback","pull_requests_persistent_whitespace_preferences","react_blob_isolate_code_lines","react_blob_ssr_content_visibility","react_data_router_nonblocking_revalidation","react_data_router_tanstack_allowed","react_query_props_with_key","react_sandbox_future_tanstack","repo_app_issues_dashboard","repo_app_pulls_dashboard","repo_app_turbo","repo_issues_sidebar_layout","repos_contributors_limited_default_range","rulesets_actor_list_editor","sample_network_conn_type","scribe_artifacts_api","secret_scanning_public_monitoring_hide_preview_labels","secret_scanning_public_monitoring_hide_validity_coming_soon","see_who_reacted","session_logs_ungroup_reasoning_text","set_sha256_on_repo_creation_form","site_banner_desktop_copilot_app","site_download_options_pixel_mona","site_global_banner_copilot_fusion_usage_2026","site_homepage_refresh_2026","speculation_rules_ui_service","suppress_automated_browser_vitals","swp_forms_disable_octocaptcha","trusted_types_policies","trusted_types_worker","turbo_link_eligibility_optimization","ui_service_gate_aware_external_check","ui_service_notification_shelf","update_issue_suggestions","viewscreen_sandbox","warn_inaccessible_attachments","webp_support"],"githubDomain":"https://github.com","copilotApiOverrideUrl":"https://api.githubcopilot.com","cmcApiUrl":"https://api.github.com/cmc_internal/api"}</script>
 <script crossorigin="anonymous" type="module" src="https://github.githubassets.com/assets/high-contrast-cookie-377d02d81834cc55.js"></script>
-<link crossorigin="anonymous" rel="modulepreload" href="https://github.githubassets.com/assets/wp-runtime-5d257552ff8527da.js" />
-<link crossorigin="anonymous" rel="modulepreload" href="https://github.githubassets.com/assets/app-runtime-cfd1896cfdea6bfb.js" />
+<link crossorigin="anonymous" rel="modulepreload" href="https://github.githubassets.com/assets/wp-runtime-9e84c288eb35c347.js" />
+<link crossorigin="anonymous" rel="modulepreload" href="https://github.githubassets.com/assets/app-runtime-8c7e7201ea7a0a8d.js" />
 <link crossorigin="anonymous" rel="modulepreload" href="https://github.githubassets.com/assets/react-core-1e4c74ac548af45e.js" />
-<link crossorigin="anonymous" rel="modulepreload" href="https://github.githubassets.com/assets/76260-24a0a422938692bf.js" />
-<script crossorigin="anonymous" type="module" src="https://github.githubassets.com/assets/core-3c644cbdb3cc86a0.js" defer="defer"></script>
-<link crossorigin="anonymous" media="all" rel="stylesheet" href="https://github.githubassets.com/assets/app-runtime.228feb2464784d73.module.css" />
+<link crossorigin="anonymous" rel="modulepreload" href="https://github.githubassets.com/assets/76260-e8a0d11cb154fc39.js" />
+<script crossorigin="anonymous" type="module" src="https://github.githubassets.com/assets/core-a1b54d54838202bb.js" defer="defer"></script>
+<link crossorigin="anonymous" media="all" rel="stylesheet" href="https://github.githubassets.com/assets/app-runtime.7d5e4a0a13d0393b.module.css" />
 <link crossorigin="anonymous" media="all" rel="stylesheet" href="https://github.githubassets.com/assets/primer-react-css.33f01c6eb0044c40.module.css" />
 <link crossorigin="anonymous" media="all" rel="stylesheet" href="https://github.githubassets.com/assets/react-core.c0d5671257907fd8.module.css" />
 <link crossorigin="anonymous" rel="modulepreload" href="https://github.githubassets.com/assets/10817-e24c8cca293fbbb3.js" />
-<script crossorigin="anonymous" type="module" src="https://github.githubassets.com/assets/diffs-5f173af18fafc938.js" defer="defer"></script>
-<script crossorigin="anonymous" type="module" src="https://github.githubassets.com/assets/repositories-20b3cea08f8bd188.js" defer="defer"></script>
+<script crossorigin="anonymous" type="module" src="https://github.githubassets.com/assets/diffs-dbd5d64aeaae2379.js" defer="defer"></script>
+<script crossorigin="anonymous" type="module" src="https://github.githubassets.com/assets/repositories-6ff053e8eccfa171.js" defer="defer"></script>
   
 
   <title>Comparing 3.23.0...3.23.1 · quarkiverse/quarkus-cxf · GitHub</title>
@@ -81,13 +81,13 @@
   <meta name="route-pattern" content="/:user_id/:repository/compare/:range" data-turbo-transient>
   <meta name="route-controller" content="compare" data-turbo-transient>
   <meta name="route-action" content="show" data-turbo-transient>
-  <meta name="fetch-nonce" content="v2:c146b189-5430-ee82-f4af-4af7380499f5">
+  <meta name="fetch-nonce" content="v2:abba5f94-63a1-ff00-f199-71bcb4adc2ec">
 
     
   <meta name="current-catalog-service-hash" content="ae870bc5e265a340912cde392f23dad3671a0a881730ffdadd82f2f57d81641b">
 
 
-  <meta name="request-id" content="E420:1CD539:2DAB7D:5D5280:6B06DBDA" data-pjax-transient="true"/><meta name="html-safe-nonce" content="d4c10fe3068040db9fdbf506f5f83fa73c655d37fd2fa0b39f40351cdb29794a" data-pjax-transient="true"/><meta name="visitor-payload" content="eyJyZWZlcnJlciI6IiIsInJlcXVlc3RfaWQiOiJFNDIwOjFDRDUzOToyREFCN0Q6NUQ1MjgwOjZCMDZEQkRBIiwidmlzaXRvcl9pZCI6IjcyNjAwNzUwNDgwNzIzMDU1OTMiLCJyZWdpb25fZWRnZSI6Indlc3R1czIiLCJyZWdpb25fcmVuZGVyIjoid2VzdHVzMiJ9" data-pjax-transient="true"/><meta name="visitor-hmac" content="6070c917d4e02611bde9a146e66aae34283289e06d9d8636360b9e8d586ae6bb" data-pjax-transient="true"/>
+  <meta name="request-id" content="DC30:F4D71:DA47EB:118C370:6B097715" data-pjax-transient="true"/><meta name="html-safe-nonce" content="4bbccd17a774b972116bcb05d7e0bacc34e36a027c1347380b12d1b6d0d25a13" data-pjax-transient="true"/><meta name="visitor-payload" content="eyJyZWZlcnJlciI6IiIsInJlcXVlc3RfaWQiOiJEQzMwOkY0RDcxOkRBNDdFQjoxMThDMzcwOjZCMDk3NzE1IiwidmlzaXRvcl9pZCI6IjQ3NDI3MDY3NTkyNTE2MjE2MjYiLCJyZWdpb25fZWRnZSI6ImlhZCIsInJlZ2lvbl9yZW5kZXIiOiJpYWQifQ==" data-pjax-transient="true"/><meta name="visitor-hmac" content="914fdf841192df97234a319a0c22e06d8310dc106cc0dc2a8386822a57f3ddbb" data-pjax-transient="true"/>
 
 
     <meta name="hovercard-subject-tag" content="repository:308083529" data-turbo-transient>
@@ -143,10 +143,10 @@
         <meta name="expected-hostname" content="github.com">
 
 
-  <meta http-equiv="x-pjax-version" content="a536eb85ead10ca487c0619742e4ffc73121a1bf02ebecfaf7d5acf2e08a8f24" data-turbo-track="reload">
+  <meta http-equiv="x-pjax-version" content="e0107864c9683639c919ed986bf63e5c672d21144e32188dffc446e0da83997f" data-turbo-track="reload">
   <meta http-equiv="x-pjax-csp-version" content="adddfd507de4c4b0b130ff1dbf3c31681ba97e7a45dc69da056946fc5370dfd4" data-turbo-track="reload">
-  <meta http-equiv="x-pjax-css-version" content="965d37e4f14c714b83113f72ac2eaeb62573839533abec322e1f4e981fa4bf41" data-turbo-track="reload">
-  <meta http-equiv="x-pjax-js-version" content="06cadd0061c549662a50be90eb5baba7608f00f521574931eec01db0deb9e636" data-turbo-track="reload">
+  <meta http-equiv="x-pjax-css-version" content="6461f87ecae18a405f89b5f5f023d20a05636d0b2938295d444470acca7728a2" data-turbo-track="reload">
+  <meta http-equiv="x-pjax-js-version" content="c6c1b9ef0b62017aa861c8b26153dd6c9a3e0d0e37e5aa9c0a587feac0ced226" data-turbo-track="reload">
 
   <meta name="turbo-cache-control" content="no-preview" data-turbo-transient="">
 
@@ -174,7 +174,7 @@
 
   <meta name="browser-errors-url" content="https://api.github.com/_private/browser/errors">
 
-  <meta name="release" content="6953c712585a8d7406b7695e48fffcb670fd241d" data-turbo-track="reload">
+  <meta name="release" content="7becd83e3579b3593dba1e5ca2c452d0c6f21dc9" data-turbo-track="reload">
   <meta name="ui-target" content="full">
 
   <link rel="mask-icon" href="https://github.githubassets.com/assets/pinned-octocat-093da3e6fa40.svg" color="#000000">
@@ -241,9 +241,9 @@
                 <link crossorigin="anonymous" rel="modulepreload" href="https://github.githubassets.com/assets/85486-d96ed6712d32b484.js" fetchpriority="low" />
 <link crossorigin="anonymous" rel="modulepreload" href="https://github.githubassets.com/assets/4926-aa172cb923bc2488.js" fetchpriority="low" />
 <link crossorigin="anonymous" rel="modulepreload" href="https://github.githubassets.com/assets/59839-91e62b8d437754c5.js" fetchpriority="low" />
-<link crossorigin="anonymous" rel="modulepreload" href="https://github.githubassets.com/assets/chunk-lazy-react-partial-marketing-header-0a205cb08eab7f46.js" fetchpriority="low" />
+<link crossorigin="anonymous" rel="modulepreload" href="https://github.githubassets.com/assets/chunk-lazy-react-partial-marketing-header-1bd28a78f1642a6d.js" fetchpriority="low" />
 <link crossorigin="anonymous" media="all" rel="stylesheet" href="https://github.githubassets.com/assets/primer-react-brand-css.99dddccb73417aaf.module.css" />
-<link crossorigin="anonymous" media="all" rel="stylesheet" href="https://github.githubassets.com/assets/7207.1e564cabf9e502b5.module.css" />
+<link crossorigin="anonymous" media="all" rel="stylesheet" href="https://github.githubassets.com/assets/7207.76539d6ba501a897.module.css" />
 
 <react-partial
   partial-name="marketing-header"
@@ -269,10 +269,10 @@
           <span class="js-stale-session-flash-signed-out" hidden>You signed out in another tab or window. <a class="Link--inTextBlock" href="">Reload</a> to refresh your session.</span>
           <span class="js-stale-session-flash-switched" hidden>You switched accounts on another tab or window. <a class="Link--inTextBlock" href="">Reload</a> to refresh your session.</span>
 
-    <button id="icon-button-6b3771d1-19eb-4030-a3dd-22b23a2e4248" aria-labelledby="tooltip-d0871823-81b6-4e30-bb6a-becc131b1464" type="button" data-view-component="true" class="Button Button--iconOnly Button--invisible Button--medium flash-close js-flash-close">  <svg aria-hidden="true" data-component="Octicon" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x Button-visual">
+    <button id="icon-button-6917662c-4c14-49ac-ad81-7adc094020c2" aria-labelledby="tooltip-17de879d-5c95-4511-9e38-7e583ec6f831" type="button" data-view-component="true" class="Button Button--iconOnly Button--invisible Button--medium flash-close js-flash-close">  <svg aria-hidden="true" data-component="Octicon" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x Button-visual">
     <path d="M3.72 3.72a.75.75 0 0 1 1.06 0L8 6.94l3.22-3.22a.749.749 0 0 1 1.275.326.749.749 0 0 1-.215.734L9.06 8l3.22 3.22a.749.749 0 0 1-.326 1.275.749.749 0 0 1-.734-.215L8 9.06l-3.22 3.22a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042L6.94 8 3.72 4.78a.75.75 0 0 1 0-1.06Z"></path>
 </svg>
-</button><tool-tip id="tooltip-d0871823-81b6-4e30-bb6a-becc131b1464" for="icon-button-6b3771d1-19eb-4030-a3dd-22b23a2e4248" popover="manual" data-direction="s" data-type="label" data-view-component="true" class="sr-only position-absolute">Dismiss alert</tool-tip>
+</button><tool-tip id="tooltip-17de879d-5c95-4511-9e38-7e583ec6f831" for="icon-button-6917662c-4c14-49ac-ad81-7adc094020c2" popover="manual" data-direction="s" data-type="label" data-view-component="true" class="sr-only position-absolute">Dismiss alert</tool-tip>
 
 
   
@@ -350,27 +350,27 @@
 
     <link crossorigin="anonymous" rel="modulepreload" href="https://github.githubassets.com/assets/primer-react-bf91bfad957f3d3e.js" fetchpriority="low" />
 <link crossorigin="anonymous" rel="modulepreload" href="https://github.githubassets.com/assets/28372-ced5eefd187fcff3.js" fetchpriority="low" />
+<link crossorigin="anonymous" rel="modulepreload" href="https://github.githubassets.com/assets/99405-fe444da8a0691d3d.js" fetchpriority="low" />
 <link crossorigin="anonymous" rel="modulepreload" href="https://github.githubassets.com/assets/34719-486d26d3e006d000.js" fetchpriority="low" />
-<link crossorigin="anonymous" rel="modulepreload" href="https://github.githubassets.com/assets/13856-f73916d5a41ee128.js" fetchpriority="low" />
 <link crossorigin="anonymous" rel="modulepreload" href="https://github.githubassets.com/assets/81650-4f2747c2b64996c9.js" fetchpriority="low" />
-<link crossorigin="anonymous" rel="modulepreload" href="https://github.githubassets.com/assets/59339-5dca1246bfac94a1.js" fetchpriority="low" />
-<link crossorigin="anonymous" rel="modulepreload" href="https://github.githubassets.com/assets/95223-739d0e0d10971ab4.js" fetchpriority="low" />
-<link crossorigin="anonymous" rel="modulepreload" href="https://github.githubassets.com/assets/chunk-88220-d28be3a8ca48586b.js" fetchpriority="low" />
+<link crossorigin="anonymous" rel="modulepreload" href="https://github.githubassets.com/assets/95223-a3ef8b2c125524a4.js" fetchpriority="low" />
+<link crossorigin="anonymous" rel="modulepreload" href="https://github.githubassets.com/assets/43883-5bbb8a54a24236df.js" fetchpriority="low" />
+<link crossorigin="anonymous" rel="modulepreload" href="https://github.githubassets.com/assets/87724-f64976b61a33cec1.js" fetchpriority="low" />
 <link crossorigin="anonymous" rel="modulepreload" href="https://github.githubassets.com/assets/27896-cdce595e0ac92722.js" fetchpriority="low" />
 <link crossorigin="anonymous" rel="modulepreload" href="https://github.githubassets.com/assets/82797-7b35a0cf82b16961.js" fetchpriority="low" />
 <link crossorigin="anonymous" rel="modulepreload" href="https://github.githubassets.com/assets/66860-ae307ed0627cbe0d.js" fetchpriority="low" />
-<link crossorigin="anonymous" rel="modulepreload" href="https://github.githubassets.com/assets/29197-3e62b640b769b4a6.js" fetchpriority="low" />
+<link crossorigin="anonymous" rel="modulepreload" href="https://github.githubassets.com/assets/29197-96134b575b76ce86.js" fetchpriority="low" />
 <link crossorigin="anonymous" rel="modulepreload" href="https://github.githubassets.com/assets/66837-bfbc1a2a2abe7870.js" fetchpriority="low" />
 <link crossorigin="anonymous" rel="modulepreload" href="https://github.githubassets.com/assets/73486-40dc84393340a7ce.js" fetchpriority="low" />
-<link crossorigin="anonymous" rel="modulepreload" href="https://github.githubassets.com/assets/79120-b2e925bad8c63974.js" fetchpriority="low" />
 <link crossorigin="anonymous" rel="modulepreload" href="https://github.githubassets.com/assets/33198-e403e67e7d59d8e8.js" fetchpriority="low" />
-<link crossorigin="anonymous" rel="modulepreload" href="https://github.githubassets.com/assets/45985-36563abf6af4d6bd.js" fetchpriority="low" />
-<link crossorigin="anonymous" rel="modulepreload" href="https://github.githubassets.com/assets/5461-0520482b594286fb.js" fetchpriority="low" />
-<link crossorigin="anonymous" rel="modulepreload" href="https://github.githubassets.com/assets/65973-f6743b5684cc1889.js" fetchpriority="low" />
-<link crossorigin="anonymous" rel="modulepreload" href="https://github.githubassets.com/assets/chunk-34700-4af970284bf7498e.js" fetchpriority="low" />
-<link crossorigin="anonymous" rel="modulepreload" href="https://github.githubassets.com/assets/chunk-50238-28958d4bdeff159a.js" fetchpriority="low" />
-<link crossorigin="anonymous" rel="modulepreload" href="https://github.githubassets.com/assets/chunk-lazy-react-partial-global-nav-bar-5e19b957383c2d9d.js" fetchpriority="low" />
-<link crossorigin="anonymous" media="all" rel="stylesheet" href="https://github.githubassets.com/assets/81758.8fd0c9524ee5fdf4.module.css" />
+<link crossorigin="anonymous" rel="modulepreload" href="https://github.githubassets.com/assets/45985-e17fb47362d17378.js" fetchpriority="low" />
+<link crossorigin="anonymous" rel="modulepreload" href="https://github.githubassets.com/assets/chunk-5461-d7b50d750d000c93.js" fetchpriority="low" />
+<link crossorigin="anonymous" rel="modulepreload" href="https://github.githubassets.com/assets/chunk-58705-b10fab7dec66240c.js" fetchpriority="low" />
+<link crossorigin="anonymous" rel="modulepreload" href="https://github.githubassets.com/assets/6631-ff748e6d0dfa1f42.js" fetchpriority="low" />
+<link crossorigin="anonymous" rel="modulepreload" href="https://github.githubassets.com/assets/chunk-79497-93a2bfec89629785.js" fetchpriority="low" />
+<link crossorigin="anonymous" rel="modulepreload" href="https://github.githubassets.com/assets/chunk-50238-2a1f2e0090ec3818.js" fetchpriority="low" />
+<link crossorigin="anonymous" rel="modulepreload" href="https://github.githubassets.com/assets/chunk-lazy-react-partial-global-nav-bar-6a045d3084135ee0.js" fetchpriority="low" />
+<link crossorigin="anonymous" media="all" rel="stylesheet" href="https://github.githubassets.com/assets/81758.dec32d5bcc6c6a09.module.css" />
 
 <react-partial
   partial-name="global-nav-bar"
@@ -379,8 +379,8 @@
   data-react-profiling="false"
 >
   
-  <script type="application/json" data-target="react-partial.embeddedData">{"props":{"contextRegion":{"crumbs":[{"crumb_type":"organization","label":"quarkiverse","is_root":false,"href":"/quarkiverse"},{"crumb_type":"repository","label":"quarkus-cxf","is_root":false,"href":"/quarkiverse/quarkus-cxf"}],"localNavigation":[{"id":"code","icon":"code","label":"Code","href":"/quarkiverse/quarkus-cxf","selectedLinks":["repo_source","repo_downloads","repo_commits","repo_releases","repo_tags","repo_branches","repo_packages","repo_deployments","repo_attestations"],"popoverTarget":false,"commandId":"repositories:go-to-code","reactNav":{"appTarget":"code-view","anchor":"code-view-repo-link"},"turboNav":{"frame":"repo-content-turbo-frame"}},{"id":"issues","icon":"issue-opened","label":"Issues","href":"/quarkiverse/quarkus-cxf/issues","selectedLinks":["repo_issues","repo_labels","repo_milestones"],"count":55,"popoverTarget":false,"commandId":"repositories:go-to-issues","reactNav":{"appTarget":"repo","anchor":null},"turboNav":{"frame":"repo-content-turbo-frame"}},{"id":"pull-requests","icon":"git-pull-request","label":"Pull requests","href":"/quarkiverse/quarkus-cxf/pulls","selectedLinks":["repo_pulls","checks"],"count":6,"popoverTarget":false,"commandId":"repositories:go-to-pull-requests","reactNav":{"appTarget":null,"anchor":null},"turboNav":{"frame":"repo-content-turbo-frame"}},{"id":"discussions","icon":"comment-discussion","label":"Discussions","href":"/quarkiverse/quarkus-cxf/discussions","selectedLinks":["repo_discussions"],"popoverTarget":false,"commandId":"repositories:go-to-discussions","reactNav":{"appTarget":null,"anchor":null},"turboNav":{"frame":"repo-content-turbo-frame"}},{"id":"actions","icon":"play","label":"Actions","href":"/quarkiverse/quarkus-cxf/actions","selectedLinks":["repo_actions"],"popoverTarget":false,"commandId":"repositories:go-to-actions","reactNav":{"appTarget":"repo","anchor":null},"turboNav":{"frame":"repo-content-turbo-frame"}},{"id":"projects","icon":"table","label":"Projects","href":"/quarkiverse/quarkus-cxf/projects","selectedLinks":["repo_projects","new_repo_project","repo_project"],"popoverTarget":false,"commandId":"repositories:go-to-projects","reactNav":{"appTarget":"repo","anchor":null},"turboNav":{"frame":"repo-content-turbo-frame"}},{"id":"security-and-quality","icon":"shield","label":"Security and quality","href":"/quarkiverse/quarkus-cxf/security","selectedLinks":["security","overview","alerts","policy","token_scanning","code_scanning"],"count":0,"popoverTarget":false,"commandId":"repositories:go-to-security","reactNav":{"appTarget":null,"anchor":null},"turboNav":{"frame":"repo-content-turbo-frame"}},{"id":"insights","icon":"graph","label":"Insights","href":"/quarkiverse/quarkus-cxf/insights","selectedLinks":["repo_graphs","repo_contributors","dependency_graph","dependabot_updates","pulse","people","community"],"popoverTarget":false,"commandId":"repositories:go-to-insights","reactNav":{"appTarget":null,"anchor":null},"turboNav":{"frame":"repo-content-turbo-frame"}}],"localNavigationUpdateChannel":null,"selectedLink":null,"currentPath":"/quarkiverse/quarkus-cxf/compare/3.23.0...3.23.1"},"owner":null,"headerLogo":{"href":"/","aria-label":"Homepage "},"notifications":{"indicatorMode":"disabled","websocketChannel":null,"fetchIndicatorSrc":"/notifications/indicator","fetchIndicatorEnabled":false},"issues":{"href":"/issues"},"pulls":{"href":"/pulls"},"contributedRepos":{"href":"/repos"},"copilot":{"show":false,"showAgentsButton":false,"showRelaunchAnnouncement":false,"licenseGrantNudge":null,"copilotChatUrl":null,"copilotApiUrl":"https://api.githubcopilot.com"},"search":{"show":true,"showCommandPalette":false,"isSearchPage":false,"isJumpToSearch":false,"searchContext":{"scope":"repo:quarkiverse/quarkus-cxf","current_repo_name":"quarkus-cxf","current_repo_nwo":"quarkiverse/quarkus-cxf","current_repo_org":"quarkiverse","user_id":"quarkiverse"}},"commandPalette":null,"enterpriseBar":{"show":false},"globalTransactionalMessage":[],"ipmNudgeDelivery":null,"payloadsUrl":"/_global-navigation/payloads.json?can_toggle_site_admin_and_employee_status=0\u0026is_admin_mode_on=0\u0026is_ui_opted_out=0\u0026show_ui_opt_out=0\u0026v=9","contextRegionUrl":null}}</script>
-  <div data-target="react-partial.reactRoot"><header aria-label="Global navigation menu" data-component="Stack" class="GlobalNav appHeader__6OmbvL prc-Stack-Stack-UQ9k6" data-gap="none" data-direction="vertical" data-align="stretch" data-wrap="nowrap" data-justify="start" data-padding="none"><div data-component="Stack" class="prc-Stack-Stack-UQ9k6" data-direction="horizontal" data-align="center" data-wrap="nowrap" data-justify="center" data-padding="none"><div data-testid="top-nav-center" data-component="Stack" class="center__f1ujjY withLocalNavigation__FzpnU6 loggedOut__--dPuC prc-Stack-Stack-UQ9k6" data-gap="condensed" data-direction="horizontal" data-align="stretch" data-wrap="nowrap" data-justify="start" data-padding="normal"><nav class="contextRegion__Wb1-GR prc-Breadcrumbs-BreadcrumbsBase-3Gb-B" aria-label="Breadcrumbs" data-overflow="menu" data-variant="normal" data-component="Breadcrumbs"><ol class="prc-Breadcrumbs-BreadcrumbsList-BKjpe"><li class="prc-Breadcrumbs-ItemWrapper-k0NLn" data-index="0"><a class="contextCrumb__Q8nET8 prc-Breadcrumbs-Item-jcraJ" data-component="Breadcrumbs.Item" href="/quarkiverse" data-discover="true"><span class="">quarkiverse</span></a></li><li class="prc-Breadcrumbs-ItemWrapper-k0NLn" data-index="1"><a class="contextCrumb__Q8nET8 prc-Breadcrumbs-Item-jcraJ" data-component="Breadcrumbs.Item" href="/quarkiverse/quarkus-cxf" data-discover="true"><span class="contextCrumbLast__l2P28s">quarkus-cxf</span></a></li></ol></nav></div><div data-testid="top-nav-right" data-component="Stack" class="right__5m36ST withLocalNavigation__FzpnU6 rightWithResponsiveCreateButton__JePGAt prc-Stack-Stack-UQ9k6" data-gap="condensed" data-direction="horizontal" data-align="center" data-wrap="nowrap" data-justify="start" data-padding="normal"></div></div><h2 class="prc-src-InternalVisuallyHidden-2YaI6">Repository navigation</h2><nav class="prc-components-UnderlineWrapper-eT-Yj prc-UnderlineNav-UnderlineWrapper-GWONT LocalNavigation__QHRW7C" aria-label="Repository" data-variant="inset" data-overflow-mode="wrap" data-hide-icons-breakpoint="medium"><ul class="prc-UnderlineNav-ItemsList-oj8gN prc-components-UnderlineItemList-xKlKC" role="list"><li role="presentation" aria-hidden="true" class="prc-UnderlineNav-WrapSpacer--aLgz"></li><li class="prc-UnderlineNav-UnderlineNavItem-syRjR"><a aria-current="page" data-tab-item="code" data-react-nav="code-view" data-react-nav-anchor="code-view-repo-link" data-turbo-frame="repo-content-turbo-frame" class="prc-components-UnderlineItem-7fP-n" href="/quarkiverse/quarkus-cxf" data-discover="true"><span data-component="icon"><svg data-component="Octicon" aria-hidden="true" focusable="false" class="octicon octicon-code" viewBox="0 0 16 16" width="16" height="16" fill="currentColor" display="inline-block" overflow="visible" style="vertical-align:text-bottom"><path d="m11.28 3.22 4.25 4.25a.75.75 0 0 1 0 1.06l-4.25 4.25a.749.749 0 0 1-1.275-.326.749.749 0 0 1 .215-.734L13.94 8l-3.72-3.72a.749.749 0 0 1 .326-1.275.749.749 0 0 1 .734.215Zm-6.56 0a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042L2.06 8l3.72 3.72a.749.749 0 0 1-.326 1.275.749.749 0 0 1-.734-.215L.47 8.53a.75.75 0 0 1 0-1.06Z"></path></svg></span><span data-component="text" data-content="Code">Code</span></a></li><li class="prc-UnderlineNav-UnderlineNavItem-syRjR"><a data-tab-item="issues" data-react-nav="repo" data-turbo-frame="repo-content-turbo-frame" class="prc-components-UnderlineItem-7fP-n" href="/quarkiverse/quarkus-cxf/issues" data-discover="true"><span data-component="icon"><svg data-component="Octicon" aria-hidden="true" focusable="false" class="octicon octicon-issue-opened" viewBox="0 0 16 16" width="16" height="16" fill="currentColor" display="inline-block" overflow="visible" style="vertical-align:text-bottom"><path d="M8 9.5a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3Z"></path><path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Z"></path></svg></span><span data-component="text" data-content="Issues">Issues</span><span data-component="counter"><span aria-hidden="true" data-variant="secondary" data-component="CounterLabel" class="prc-CounterLabel-CounterLabel-X-kRU">55</span><span class="prc-VisuallyHidden-VisuallyHidden-Q0qSB"> (<!-- -->55<!-- -->)</span></span></a></li><li class="prc-UnderlineNav-UnderlineNavItem-syRjR"><a data-tab-item="pull-requests" data-turbo-frame="repo-content-turbo-frame" class="prc-components-UnderlineItem-7fP-n" href="/quarkiverse/quarkus-cxf/pulls" data-discover="true"><span data-component="icon"><svg data-component="Octicon" aria-hidden="true" focusable="false" class="octicon octicon-git-pull-request" viewBox="0 0 16 16" width="16" height="16" fill="currentColor" display="inline-block" overflow="visible" style="vertical-align:text-bottom"><path d="M1.5 3.25a2.25 2.25 0 1 1 3 2.122v5.256a2.251 2.251 0 1 1-1.5 0V5.372A2.25 2.25 0 0 1 1.5 3.25Zm5.677-.177L9.573.677A.25.25 0 0 1 10 .854V2.5h1A2.5 2.5 0 0 1 13.5 5v5.628a2.251 2.251 0 1 1-1.5 0V5a1 1 0 0 0-1-1h-1v1.646a.25.25 0 0 1-.427.177L7.177 3.427a.25.25 0 0 1 0-.354ZM3.75 2.5a.75.75 0 1 0 0 1.5.75.75 0 0 0 0-1.5Zm0 9.5a.75.75 0 1 0 0 1.5.75.75 0 0 0 0-1.5Zm8.25.75a.75.75 0 1 0 1.5 0 .75.75 0 0 0-1.5 0Z"></path></svg></span><span data-component="text" data-content="Pull requests">Pull requests</span><span data-component="counter"><span aria-hidden="true" data-variant="secondary" data-component="CounterLabel" class="prc-CounterLabel-CounterLabel-X-kRU">6</span><span class="prc-VisuallyHidden-VisuallyHidden-Q0qSB"> (<!-- -->6<!-- -->)</span></span></a></li><li class="prc-UnderlineNav-UnderlineNavItem-syRjR"><a data-tab-item="discussions" data-turbo-frame="repo-content-turbo-frame" class="prc-components-UnderlineItem-7fP-n" href="/quarkiverse/quarkus-cxf/discussions" data-discover="true"><span data-component="icon"><svg data-component="Octicon" aria-hidden="true" focusable="false" class="octicon octicon-comment-discussion" viewBox="0 0 16 16" width="16" height="16" fill="currentColor" display="inline-block" overflow="visible" style="vertical-align:text-bottom"><path d="M1.75 1h8.5c.966 0 1.75.784 1.75 1.75v5.5A1.75 1.75 0 0 1 10.25 10H7.061l-2.574 2.573A1.458 1.458 0 0 1 2 11.543V10h-.25A1.75 1.75 0 0 1 0 8.25v-5.5C0 1.784.784 1 1.75 1ZM1.5 2.75v5.5c0 .138.112.25.25.25h1a.75.75 0 0 1 .75.75v2.19l2.72-2.72a.749.749 0 0 1 .53-.22h3.5a.25.25 0 0 0 .25-.25v-5.5a.25.25 0 0 0-.25-.25h-8.5a.25.25 0 0 0-.25.25Zm13 2a.25.25 0 0 0-.25-.25h-.5a.75.75 0 0 1 0-1.5h.5c.966 0 1.75.784 1.75 1.75v5.5A1.75 1.75 0 0 1 14.25 12H14v1.543a1.458 1.458 0 0 1-2.487 1.03L9.22 12.28a.749.749 0 0 1 .326-1.275.749.749 0 0 1 .734.215l2.22 2.22v-2.19a.75.75 0 0 1 .75-.75h1a.25.25 0 0 0 .25-.25Z"></path></svg></span><span data-component="text" data-content="Discussions">Discussions</span></a></li><li class="prc-UnderlineNav-UnderlineNavItem-syRjR"><a data-tab-item="actions" data-react-nav="repo" data-turbo-frame="repo-content-turbo-frame" class="prc-components-UnderlineItem-7fP-n" href="/quarkiverse/quarkus-cxf/actions" data-discover="true"><span data-component="icon"><svg data-component="Octicon" aria-hidden="true" focusable="false" class="octicon octicon-play" viewBox="0 0 16 16" width="16" height="16" fill="currentColor" display="inline-block" overflow="visible" style="vertical-align:text-bottom"><path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Zm4.879-2.773 4.264 2.559a.25.25 0 0 1 0 .428l-4.264 2.559A.25.25 0 0 1 6 10.559V5.442a.25.25 0 0 1 .379-.215Z"></path></svg></span><span data-component="text" data-content="Actions">Actions</span></a></li><li class="prc-UnderlineNav-UnderlineNavItem-syRjR"><a data-tab-item="projects" data-react-nav="repo" data-turbo-frame="repo-content-turbo-frame" class="prc-components-UnderlineItem-7fP-n" href="/quarkiverse/quarkus-cxf/projects" data-discover="true"><span data-component="icon"><svg data-component="Octicon" aria-hidden="true" focusable="false" class="octicon octicon-table" viewBox="0 0 16 16" width="16" height="16" fill="currentColor" display="inline-block" overflow="visible" style="vertical-align:text-bottom"><path d="M0 1.75C0 .784.784 0 1.75 0h12.5C15.216 0 16 .784 16 1.75v12.5A1.75 1.75 0 0 1 14.25 16H1.75A1.75 1.75 0 0 1 0 14.25ZM6.5 6.5v8h7.75a.25.25 0 0 0 .25-.25V6.5Zm8-1.5V1.75a.25.25 0 0 0-.25-.25H6.5V5Zm-13 1.5v7.75c0 .138.112.25.25.25H5v-8ZM5 5V1.5H1.75a.25.25 0 0 0-.25.25V5Z"></path></svg></span><span data-component="text" data-content="Projects">Projects</span></a></li><li class="prc-UnderlineNav-UnderlineNavItem-syRjR"><a data-tab-item="security-and-quality" data-turbo-frame="repo-content-turbo-frame" class="prc-components-UnderlineItem-7fP-n" href="/quarkiverse/quarkus-cxf/security" data-discover="true"><span data-component="icon"><svg data-component="Octicon" aria-hidden="true" focusable="false" class="octicon octicon-shield" viewBox="0 0 16 16" width="16" height="16" fill="currentColor" display="inline-block" overflow="visible" style="vertical-align:text-bottom"><path d="M7.467.133a1.748 1.748 0 0 1 1.066 0l5.25 1.68A1.75 1.75 0 0 1 15 3.48V7c0 1.566-.32 3.182-1.303 4.682-.983 1.498-2.585 2.813-5.032 3.855a1.697 1.697 0 0 1-1.33 0c-2.447-1.042-4.049-2.357-5.032-3.855C1.32 10.182 1 8.566 1 7V3.48a1.75 1.75 0 0 1 1.217-1.667Zm.61 1.429a.25.25 0 0 0-.153 0l-5.25 1.68a.25.25 0 0 0-.174.238V7c0 1.358.275 2.666 1.057 3.86.784 1.194 2.121 2.34 4.366 3.297a.196.196 0 0 0 .154 0c2.245-.956 3.582-2.104 4.366-3.298C13.225 9.666 13.5 8.36 13.5 7V3.48a.251.251 0 0 0-.174-.237l-5.25-1.68ZM8.75 4.75v3a.75.75 0 0 1-1.5 0v-3a.75.75 0 0 1 1.5 0ZM9 10.5a1 1 0 1 1-2 0 1 1 0 0 1 2 0Z"></path></svg></span><span data-component="text" data-content="Security and quality">Security and quality</span></a></li><li class="prc-UnderlineNav-UnderlineNavItem-syRjR"><a data-tab-item="insights" data-turbo-frame="repo-content-turbo-frame" class="prc-components-UnderlineItem-7fP-n" href="/quarkiverse/quarkus-cxf/insights" data-discover="true"><span data-component="icon"><svg data-component="Octicon" aria-hidden="true" focusable="false" class="octicon octicon-graph" viewBox="0 0 16 16" width="16" height="16" fill="currentColor" display="inline-block" overflow="visible" style="vertical-align:text-bottom"><path d="M1.5 1.75V13.5h13.75a.75.75 0 0 1 0 1.5H.75a.75.75 0 0 1-.75-.75V1.75a.75.75 0 0 1 1.5 0Zm14.28 2.53-5.25 5.25a.75.75 0 0 1-1.06 0L7 7.06 4.28 9.78a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042l3.25-3.25a.75.75 0 0 1 1.06 0L10 7.94l4.72-4.72a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042Z"></path></svg></span><span data-component="text" data-content="Insights">Insights</span></a></li></ul><div class="prc-UnderlineNav-MoreButtonContainer-Dnrq6"><div class="prc-UnderlineNav-MoreButtonDivider-dN0a-"></div><button data-component="overflow-menu-button" type="button" aria-haspopup="true" aria-expanded="false" tabindex="0" class="prc-Button-ButtonBase-9n-Xk prc-UnderlineNav-MoreButton-Y8soj" data-loading="false" data-size="medium" data-variant="invisible" id="_R_2ktp_"><span data-component="buttonContent" data-align="center" class="prc-Button-ButtonContent-Iohp5"><span data-component="text" class="prc-Button-Label-FWkx3"><span>More<span class="prc-src-InternalVisuallyHidden-2YaI6"> items</span></span></span></span><span data-component="trailingAction" class="prc-Button-Visual-YNt2F prc-Button-VisualWrap-E4cnq"><svg data-component="Octicon" aria-hidden="true" focusable="false" class="octicon octicon-triangle-down" viewBox="0 0 16 16" width="16" height="16" fill="currentColor" display="inline-block" overflow="visible" style="vertical-align:text-bottom"><path d="m4.427 7.427 3.396 3.396a.25.25 0 0 0 .354 0l3.396-3.396A.25.25 0 0 0 11.396 7H4.604a.25.25 0 0 0-.177.427Z"></path></svg></span></button></div></nav><div class="d-none"></div></header></div>
+  <script type="application/json" data-target="react-partial.embeddedData">{"props":{"contextRegion":{"crumbs":[{"crumb_type":"organization","label":"quarkiverse","is_root":false,"href":"/quarkiverse"},{"crumb_type":"repository","label":"quarkus-cxf","is_root":false,"href":"/quarkiverse/quarkus-cxf"}],"localNavigation":[{"id":"code","icon":"code","label":"Code","href":"/quarkiverse/quarkus-cxf","selectedLinks":["repo_source","repo_downloads","repo_commits","repo_releases","repo_tags","repo_branches","repo_packages","repo_deployments","repo_attestations"],"popoverTarget":false,"commandId":"repositories:go-to-code","reactNav":{"appTarget":"code-view","anchor":"code-view-repo-link"},"turboNav":{"frame":"repo-content-turbo-frame"}},{"id":"issues","icon":"issue-opened","label":"Issues","href":"/quarkiverse/quarkus-cxf/issues","selectedLinks":["repo_issues","repo_labels","repo_milestones"],"count":55,"popoverTarget":false,"commandId":"repositories:go-to-issues","reactNav":{"appTarget":"repo","anchor":null},"turboNav":{"frame":"repo-content-turbo-frame"}},{"id":"pull-requests","icon":"git-pull-request","label":"Pull requests","href":"/quarkiverse/quarkus-cxf/pulls","selectedLinks":["repo_pulls","checks"],"count":7,"popoverTarget":false,"commandId":"repositories:go-to-pull-requests","reactNav":{"appTarget":null,"anchor":null},"turboNav":{"frame":"repo-content-turbo-frame"}},{"id":"discussions","icon":"comment-discussion","label":"Discussions","href":"/quarkiverse/quarkus-cxf/discussions","selectedLinks":["repo_discussions"],"popoverTarget":false,"commandId":"repositories:go-to-discussions","reactNav":{"appTarget":null,"anchor":null},"turboNav":{"frame":"repo-content-turbo-frame"}},{"id":"actions","icon":"play","label":"Actions","href":"/quarkiverse/quarkus-cxf/actions","selectedLinks":["repo_actions"],"popoverTarget":false,"commandId":"repositories:go-to-actions","reactNav":{"appTarget":"repo","anchor":null},"turboNav":{"frame":"repo-content-turbo-frame"}},{"id":"projects","icon":"table","label":"Projects","href":"/quarkiverse/quarkus-cxf/projects","selectedLinks":["repo_projects","new_repo_project","repo_project"],"popoverTarget":false,"commandId":"repositories:go-to-projects","reactNav":{"appTarget":"repo","anchor":null},"turboNav":{"frame":"repo-content-turbo-frame"}},{"id":"security-and-quality","icon":"shield","label":"Security and quality","href":"/quarkiverse/quarkus-cxf/security","selectedLinks":["security","overview","alerts","policy","token_scanning","code_scanning"],"count":0,"popoverTarget":false,"commandId":"repositories:go-to-security","reactNav":{"appTarget":null,"anchor":null},"turboNav":{"frame":"repo-content-turbo-frame"}},{"id":"insights","icon":"graph","label":"Insights","href":"/quarkiverse/quarkus-cxf/insights","selectedLinks":["repo_graphs","repo_contributors","dependency_graph","dependabot_updates","pulse","people","community"],"popoverTarget":false,"commandId":"repositories:go-to-insights","reactNav":{"appTarget":null,"anchor":null},"turboNav":{"frame":"repo-content-turbo-frame"}}],"localNavigationUpdateChannel":null,"selectedLink":null,"currentPath":"/quarkiverse/quarkus-cxf/compare/3.23.0...3.23.1"},"owner":null,"headerLogo":{"href":"/","aria-label":"Homepage "},"notifications":{"indicatorMode":"disabled","websocketChannel":null,"fetchIndicatorSrc":"/notifications/indicator","fetchIndicatorEnabled":false},"issues":{"href":"/issues"},"pulls":{"href":"/pulls"},"contributedRepos":{"href":"/repos"},"copilot":{"show":false,"showAgentsButton":false,"showRelaunchAnnouncement":false,"licenseGrantNudge":null,"copilotChatUrl":null,"copilotApiUrl":"https://api.githubcopilot.com"},"search":{"show":true,"showCommandPalette":false,"isSearchPage":false,"isJumpToSearch":false,"searchContext":{"scope":"repo:quarkiverse/quarkus-cxf","current_repo_name":"quarkus-cxf","current_repo_nwo":"quarkiverse/quarkus-cxf","current_repo_org":"quarkiverse","user_id":"quarkiverse"}},"commandPalette":null,"enterpriseBar":{"show":false},"globalTransactionalMessage":[],"ipmNudgeDelivery":null,"payloadsUrl":"/_global-navigation/payloads.json?can_toggle_site_admin_and_employee_status=0\u0026is_admin_mode_on=0\u0026is_ui_opted_out=0\u0026show_ui_opt_out=0\u0026v=9","contextRegionUrl":null}}</script>
+  <div data-target="react-partial.reactRoot"><header aria-label="Global navigation menu" data-telemetry-action="global.header.region" data-component="Stack" class="GlobalNav appHeader__6OmbvL prc-Stack-Stack-UQ9k6" data-gap="none" data-direction="vertical" data-align="stretch" data-wrap="nowrap" data-justify="start" data-padding="none"><div data-component="Stack" class="prc-Stack-Stack-UQ9k6" data-direction="horizontal" data-align="center" data-wrap="nowrap" data-justify="center" data-padding="none"><div data-testid="top-nav-center" data-component="Stack" class="center__f1ujjY withLocalNavigation__FzpnU6 loggedOut__--dPuC prc-Stack-Stack-UQ9k6" data-gap="condensed" data-direction="horizontal" data-align="stretch" data-wrap="nowrap" data-justify="start" data-padding="normal"><nav class="contextRegion__Wb1-GR prc-Breadcrumbs-BreadcrumbsBase-3Gb-B" aria-label="Breadcrumbs" data-overflow="menu" data-variant="normal" data-component="Breadcrumbs"><ol class="prc-Breadcrumbs-BreadcrumbsList-BKjpe"><li class="prc-Breadcrumbs-ItemWrapper-k0NLn" data-index="0"><a class="contextCrumb__Q8nET8 prc-Breadcrumbs-Item-jcraJ" data-component="Breadcrumbs.Item" href="/quarkiverse" data-discover="true"><span class="">quarkiverse</span></a></li><li class="prc-Breadcrumbs-ItemWrapper-k0NLn" data-index="1"><a class="contextCrumb__Q8nET8 prc-Breadcrumbs-Item-jcraJ" data-component="Breadcrumbs.Item" href="/quarkiverse/quarkus-cxf" data-discover="true"><span class="contextCrumbLast__l2P28s">quarkus-cxf</span></a></li></ol></nav></div><div data-testid="top-nav-right" data-component="Stack" class="right__5m36ST withLocalNavigation__FzpnU6 rightWithResponsiveCreateButton__JePGAt prc-Stack-Stack-UQ9k6" data-gap="condensed" data-direction="horizontal" data-align="center" data-wrap="nowrap" data-justify="start" data-padding="normal"></div></div><h2 class="prc-src-InternalVisuallyHidden-2YaI6">Repository navigation</h2><nav class="prc-components-UnderlineWrapper-eT-Yj prc-UnderlineNav-UnderlineWrapper-GWONT LocalNavigation__QHRW7C" aria-label="Repository" data-variant="inset" data-overflow-mode="wrap" data-hide-icons-breakpoint="medium"><ul class="prc-UnderlineNav-ItemsList-oj8gN prc-components-UnderlineItemList-xKlKC" role="list"><li role="presentation" aria-hidden="true" class="prc-UnderlineNav-WrapSpacer--aLgz"></li><li class="prc-UnderlineNav-UnderlineNavItem-syRjR"><a aria-current="page" data-tab-item="code" data-react-nav="code-view" data-react-nav-anchor="code-view-repo-link" data-turbo-frame="repo-content-turbo-frame" class="prc-components-UnderlineItem-7fP-n" href="/quarkiverse/quarkus-cxf" data-discover="true"><span data-component="icon"><svg data-component="Octicon" aria-hidden="true" focusable="false" class="octicon octicon-code" viewBox="0 0 16 16" width="16" height="16" fill="currentColor" display="inline-block" overflow="visible" style="vertical-align:text-bottom"><path d="m11.28 3.22 4.25 4.25a.75.75 0 0 1 0 1.06l-4.25 4.25a.749.749 0 0 1-1.275-.326.749.749 0 0 1 .215-.734L13.94 8l-3.72-3.72a.749.749 0 0 1 .326-1.275.749.749 0 0 1 .734.215Zm-6.56 0a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042L2.06 8l3.72 3.72a.749.749 0 0 1-.326 1.275.749.749 0 0 1-.734-.215L.47 8.53a.75.75 0 0 1 0-1.06Z"></path></svg></span><span data-component="text" data-content="Code">Code</span></a></li><li class="prc-UnderlineNav-UnderlineNavItem-syRjR"><a data-tab-item="issues" data-react-nav="repo" data-turbo-frame="repo-content-turbo-frame" class="prc-components-UnderlineItem-7fP-n" href="/quarkiverse/quarkus-cxf/issues" data-discover="true"><span data-component="icon"><svg data-component="Octicon" aria-hidden="true" focusable="false" class="octicon octicon-issue-opened" viewBox="0 0 16 16" width="16" height="16" fill="currentColor" display="inline-block" overflow="visible" style="vertical-align:text-bottom"><path d="M8 9.5a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3Z"></path><path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Z"></path></svg></span><span data-component="text" data-content="Issues">Issues</span><span data-component="counter"><span aria-hidden="true" data-variant="secondary" data-component="CounterLabel" class="prc-CounterLabel-CounterLabel-X-kRU">55</span><span class="prc-VisuallyHidden-VisuallyHidden-Q0qSB"> (<!-- -->55<!-- -->)</span></span></a></li><li class="prc-UnderlineNav-UnderlineNavItem-syRjR"><a data-tab-item="pull-requests" data-turbo-frame="repo-content-turbo-frame" class="prc-components-UnderlineItem-7fP-n" href="/quarkiverse/quarkus-cxf/pulls" data-discover="true"><span data-component="icon"><svg data-component="Octicon" aria-hidden="true" focusable="false" class="octicon octicon-git-pull-request" viewBox="0 0 16 16" width="16" height="16" fill="currentColor" display="inline-block" overflow="visible" style="vertical-align:text-bottom"><path d="M1.5 3.25a2.25 2.25 0 1 1 3 2.122v5.256a2.251 2.251 0 1 1-1.5 0V5.372A2.25 2.25 0 0 1 1.5 3.25Zm5.677-.177L9.573.677A.25.25 0 0 1 10 .854V2.5h1A2.5 2.5 0 0 1 13.5 5v5.628a2.251 2.251 0 1 1-1.5 0V5a1 1 0 0 0-1-1h-1v1.646a.25.25 0 0 1-.427.177L7.177 3.427a.25.25 0 0 1 0-.354ZM3.75 2.5a.75.75 0 1 0 0 1.5.75.75 0 0 0 0-1.5Zm0 9.5a.75.75 0 1 0 0 1.5.75.75 0 0 0 0-1.5Zm8.25.75a.75.75 0 1 0 1.5 0 .75.75 0 0 0-1.5 0Z"></path></svg></span><span data-component="text" data-content="Pull requests">Pull requests</span><span data-component="counter"><span aria-hidden="true" data-variant="secondary" data-component="CounterLabel" class="prc-CounterLabel-CounterLabel-X-kRU">7</span><span class="prc-VisuallyHidden-VisuallyHidden-Q0qSB"> (<!-- -->7<!-- -->)</span></span></a></li><li class="prc-UnderlineNav-UnderlineNavItem-syRjR"><a data-tab-item="discussions" data-turbo-frame="repo-content-turbo-frame" class="prc-components-UnderlineItem-7fP-n" href="/quarkiverse/quarkus-cxf/discussions" data-discover="true"><span data-component="icon"><svg data-component="Octicon" aria-hidden="true" focusable="false" class="octicon octicon-comment-discussion" viewBox="0 0 16 16" width="16" height="16" fill="currentColor" display="inline-block" overflow="visible" style="vertical-align:text-bottom"><path d="M1.75 1h8.5c.966 0 1.75.784 1.75 1.75v5.5A1.75 1.75 0 0 1 10.25 10H7.061l-2.574 2.573A1.458 1.458 0 0 1 2 11.543V10h-.25A1.75 1.75 0 0 1 0 8.25v-5.5C0 1.784.784 1 1.75 1ZM1.5 2.75v5.5c0 .138.112.25.25.25h1a.75.75 0 0 1 .75.75v2.19l2.72-2.72a.749.749 0 0 1 .53-.22h3.5a.25.25 0 0 0 .25-.25v-5.5a.25.25 0 0 0-.25-.25h-8.5a.25.25 0 0 0-.25.25Zm13 2a.25.25 0 0 0-.25-.25h-.5a.75.75 0 0 1 0-1.5h.5c.966 0 1.75.784 1.75 1.75v5.5A1.75 1.75 0 0 1 14.25 12H14v1.543a1.458 1.458 0 0 1-2.487 1.03L9.22 12.28a.749.749 0 0 1 .326-1.275.749.749 0 0 1 .734.215l2.22 2.22v-2.19a.75.75 0 0 1 .75-.75h1a.25.25 0 0 0 .25-.25Z"></path></svg></span><span data-component="text" data-content="Discussions">Discussions</span></a></li><li class="prc-UnderlineNav-UnderlineNavItem-syRjR"><a data-tab-item="actions" data-react-nav="repo" data-turbo-frame="repo-content-turbo-frame" class="prc-components-UnderlineItem-7fP-n" href="/quarkiverse/quarkus-cxf/actions" data-discover="true"><span data-component="icon"><svg data-component="Octicon" aria-hidden="true" focusable="false" class="octicon octicon-play" viewBox="0 0 16 16" width="16" height="16" fill="currentColor" display="inline-block" overflow="visible" style="vertical-align:text-bottom"><path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Zm4.879-2.773 4.264 2.559a.25.25 0 0 1 0 .428l-4.264 2.559A.25.25 0 0 1 6 10.559V5.442a.25.25 0 0 1 .379-.215Z"></path></svg></span><span data-component="text" data-content="Actions">Actions</span></a></li><li class="prc-UnderlineNav-UnderlineNavItem-syRjR"><a data-tab-item="projects" data-react-nav="repo" data-turbo-frame="repo-content-turbo-frame" class="prc-components-UnderlineItem-7fP-n" href="/quarkiverse/quarkus-cxf/projects" data-discover="true"><span data-component="icon"><svg data-component="Octicon" aria-hidden="true" focusable="false" class="octicon octicon-table" viewBox="0 0 16 16" width="16" height="16" fill="currentColor" display="inline-block" overflow="visible" style="vertical-align:text-bottom"><path d="M0 1.75C0 .784.784 0 1.75 0h12.5C15.216 0 16 .784 16 1.75v12.5A1.75 1.75 0 0 1 14.25 16H1.75A1.75 1.75 0 0 1 0 14.25ZM6.5 6.5v8h7.75a.25.25 0 0 0 .25-.25V6.5Zm8-1.5V1.75a.25.25 0 0 0-.25-.25H6.5V5Zm-13 1.5v7.75c0 .138.112.25.25.25H5v-8ZM5 5V1.5H1.75a.25.25 0 0 0-.25.25V5Z"></path></svg></span><span data-component="text" data-content="Projects">Projects</span></a></li><li class="prc-UnderlineNav-UnderlineNavItem-syRjR"><a data-tab-item="security-and-quality" data-turbo-frame="repo-content-turbo-frame" class="prc-components-UnderlineItem-7fP-n" href="/quarkiverse/quarkus-cxf/security" data-discover="true"><span data-component="icon"><svg data-component="Octicon" aria-hidden="true" focusable="false" class="octicon octicon-shield" viewBox="0 0 16 16" width="16" height="16" fill="currentColor" display="inline-block" overflow="visible" style="vertical-align:text-bottom"><path d="M7.467.133a1.748 1.748 0 0 1 1.066 0l5.25 1.68A1.75 1.75 0 0 1 15 3.48V7c0 1.566-.32 3.182-1.303 4.682-.983 1.498-2.585 2.813-5.032 3.855a1.697 1.697 0 0 1-1.33 0c-2.447-1.042-4.049-2.357-5.032-3.855C1.32 10.182 1 8.566 1 7V3.48a1.75 1.75 0 0 1 1.217-1.667Zm.61 1.429a.25.25 0 0 0-.153 0l-5.25 1.68a.25.25 0 0 0-.174.238V7c0 1.358.275 2.666 1.057 3.86.784 1.194 2.121 2.34 4.366 3.297a.196.196 0 0 0 .154 0c2.245-.956 3.582-2.104 4.366-3.298C13.225 9.666 13.5 8.36 13.5 7V3.48a.251.251 0 0 0-.174-.237l-5.25-1.68ZM8.75 4.75v3a.75.75 0 0 1-1.5 0v-3a.75.75 0 0 1 1.5 0ZM9 10.5a1 1 0 1 1-2 0 1 1 0 0 1 2 0Z"></path></svg></span><span data-component="text" data-content="Security and quality">Security and quality</span></a></li><li class="prc-UnderlineNav-UnderlineNavItem-syRjR"><a data-tab-item="insights" data-turbo-frame="repo-content-turbo-frame" class="prc-components-UnderlineItem-7fP-n" href="/quarkiverse/quarkus-cxf/insights" data-discover="true"><span data-component="icon"><svg data-component="Octicon" aria-hidden="true" focusable="false" class="octicon octicon-graph" viewBox="0 0 16 16" width="16" height="16" fill="currentColor" display="inline-block" overflow="visible" style="vertical-align:text-bottom"><path d="M1.5 1.75V13.5h13.75a.75.75 0 0 1 0 1.5H.75a.75.75 0 0 1-.75-.75V1.75a.75.75 0 0 1 1.5 0Zm14.28 2.53-5.25 5.25a.75.75 0 0 1-1.06 0L7 7.06 4.28 9.78a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042l3.25-3.25a.75.75 0 0 1 1.06 0L10 7.94l4.72-4.72a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042Z"></path></svg></span><span data-component="text" data-content="Insights">Insights</span></a></li></ul><div class="prc-UnderlineNav-MoreButtonContainer-Dnrq6"><div class="prc-UnderlineNav-MoreButtonDivider-dN0a-"></div><button data-component="overflow-menu-button" type="button" aria-haspopup="true" aria-expanded="false" tabindex="0" class="prc-Button-ButtonBase-9n-Xk prc-UnderlineNav-MoreButton-Y8soj" data-loading="false" data-size="medium" data-variant="invisible" id="_R_2ktp_"><span data-component="buttonContent" data-align="center" class="prc-Button-ButtonContent-Iohp5"><span data-component="text" class="prc-Button-Label-FWkx3"><span>More<span class="prc-src-InternalVisuallyHidden-2YaI6"> items</span></span></span></span><span data-component="trailingAction" class="prc-Button-Visual-YNt2F prc-Button-VisualWrap-E4cnq"><svg data-component="Octicon" aria-hidden="true" focusable="false" class="octicon octicon-triangle-down" viewBox="0 0 16 16" width="16" height="16" fill="currentColor" display="inline-block" overflow="visible" style="vertical-align:text-bottom"><path d="m4.427 7.427 3.396 3.396a.25.25 0 0 0 .354 0l3.396-3.396A.25.25 0 0 0 11.396 7H4.604a.25.25 0 0 0-.177.427Z"></path></svg></span></button></div></nav><div class="d-none"></div></header></div>
 </react-partial>
 
 
@@ -433,7 +433,7 @@
 </summary>
 
   <details-menu class="select-menu-modal position-absolute" style="z-index: 99;" data-pjax src="/quarkiverse/quarkus-cxf/compare/repository-list?range=3.23.0...3.23.1&amp;repository=quarkus-cxf&amp;selected=quarkiverse%2Fquarkus-cxf&amp;type=base&amp;user_id=quarkiverse" preload>
-    <include-fragment data-nonce="v2:c146b189-5430-ee82-f4af-4af7380499f5" data-view-component="true">
+    <include-fragment data-nonce="v2:abba5f94-63a1-ff00-f199-71bcb4adc2ec" data-view-component="true">
   
       <div class="select-menu-blankslate select-menu-error" style="text-wrap: balance;">
         Failed to load repositories. Confirm that selected base ref is valid, then try again.
@@ -518,7 +518,7 @@
             "
             query-endpoint="/quarkiverse/quarkus-cxf/refs"
             
-            cache-key="v0:1795557142.0"
+            cache-key="v0:1795719164.0"
             current-committish="My4yMy4w"
             default-branch="bWFpbg=="
             name-with-owner="cXVhcmtpdmVyc2UvcXVhcmt1cy1jeGY="
@@ -571,7 +571,7 @@
             "
             data-targets="input-demux.sinks"
             query-endpoint="/quarkiverse/quarkus-cxf/refs"
-            cache-key="v0:1795557142.0"
+            cache-key="v0:1795719164.0"
             current-committish="My4yMy4w"
             default-branch="bWFpbg=="
             name-with-owner="cXVhcmtpdmVyc2UvcXVhcmt1cy1jeGY="
@@ -641,7 +641,7 @@
 </summary>
 
   <details-menu class="select-menu-modal position-absolute" style="z-index: 99;" data-pjax src="/quarkiverse/quarkus-cxf/compare/repository-list?range=3.23.0...3.23.1&amp;repository=quarkus-cxf&amp;selected=quarkiverse%2Fquarkus-cxf&amp;type=head&amp;user_id=quarkiverse" preload>
-    <include-fragment data-nonce="v2:c146b189-5430-ee82-f4af-4af7380499f5" data-view-component="true">
+    <include-fragment data-nonce="v2:abba5f94-63a1-ff00-f199-71bcb4adc2ec" data-view-component="true">
   
       <div class="select-menu-blankslate select-menu-error" style="text-wrap: balance;">
         Failed to load repositories. Confirm that selected head ref is valid, then try again.
@@ -726,7 +726,7 @@
             "
             query-endpoint="/quarkiverse/quarkus-cxf/refs"
             
-            cache-key="v0:1795557142.0"
+            cache-key="v0:1795719164.0"
             current-committish="My4yMy4x"
             default-branch="bWFpbg=="
             name-with-owner="cXVhcmtpdmVyc2UvcXVhcmt1cy1jeGY="
@@ -779,7 +779,7 @@
             "
             data-targets="input-demux.sinks"
             query-endpoint="/quarkiverse/quarkus-cxf/refs"
-            cache-key="v0:1795557142.0"
+            cache-key="v0:1795719164.0"
             current-committish="My4yMy4x"
             default-branch="bWFpbg=="
             name-with-owner="cXVhcmtpdmVyc2UvcXVhcmt1cy1jeGY="
@@ -875,7 +875,7 @@
   <div data-view-component="true" class="TimelineItem-body">      <h3 class="f5 text-normal color-fg-muted" >Commits on May 22, 2025</h3>
         <ol class="tmp-mt-3 list-style-none Box Box--condensed tmp-ml-n6 tmp-ml-sm-0 position-relative" >
             <li class="Box-row Box-row--focus-gray mt-0 d-flex js-commits-list-item js-navigation-item"
-    data-channel="eyJjIjoicmVwbzozMDgwODM1Mjk6Y29tbWl0Ojg1NTE5MzY3M2I1ZTQ2NDEzYzNiNzZlYjE2NDU1MDI2ZmVmZTI4OTEiLCJ0IjoxNzk1NjExNjEwfQ==--ac1742c18b901781204dda883770a06778d454cb4cf7d535082b81496bff3b04"
+    data-channel="eyJjIjoicmVwbzozMDgwODM1Mjk6Y29tbWl0Ojg1NTE5MzY3M2I1ZTQ2NDEzYzNiNzZlYjE2NDU1MDI2ZmVmZTI4OTEiLCJ0IjoxNzk1NzgyNDIyfQ==--fd5138624244bb8c9265eb20b83c6d7fe295c118f299de9e5400dee84fc72614"
     data-url="/quarkiverse/quarkus-cxf/commits/855193673b5e46413c3b76eb16455026fefe2891/commits_list_item"
     
     
@@ -922,22 +922,22 @@
 
     <action-menu data-select-variant="none" data-view-component="true" class="d-flex d-sm-none">
   <focus-group direction="vertical" mnemonics retain>
-    <button id="action-menu-0f271466-6195-4583-9b21-e896c5be3844-button" popovertarget="action-menu-0f271466-6195-4583-9b21-e896c5be3844-overlay" aria-controls="action-menu-0f271466-6195-4583-9b21-e896c5be3844-list" aria-haspopup="true" aria-labelledby="tooltip-b3f55ffa-d217-49a5-8eb0-eb64ec7a21bc" type="button" data-view-component="true" class="Button Button--iconOnly Button--invisible Button--small">  <svg aria-hidden="true" data-component="Octicon" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-kebab-horizontal Button-visual">
+    <button id="action-menu-8240b7e6-71ea-4432-b0c5-c1381b99b19a-button" popovertarget="action-menu-8240b7e6-71ea-4432-b0c5-c1381b99b19a-overlay" aria-controls="action-menu-8240b7e6-71ea-4432-b0c5-c1381b99b19a-list" aria-haspopup="true" aria-labelledby="tooltip-f1142e71-223a-44b2-a866-3f8c8b4e5e2e" type="button" data-view-component="true" class="Button Button--iconOnly Button--invisible Button--small">  <svg aria-hidden="true" data-component="Octicon" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-kebab-horizontal Button-visual">
     <path d="M8 9a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3ZM1.5 9a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3Zm13 0a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3Z"></path>
 </svg>
-</button><tool-tip id="tooltip-b3f55ffa-d217-49a5-8eb0-eb64ec7a21bc" for="action-menu-0f271466-6195-4583-9b21-e896c5be3844-button" popover="manual" data-direction="s" data-type="label" data-view-component="true" class="sr-only position-absolute">Configuration menu</tool-tip>
+</button><tool-tip id="tooltip-f1142e71-223a-44b2-a866-3f8c8b4e5e2e" for="action-menu-8240b7e6-71ea-4432-b0c5-c1381b99b19a-button" popover="manual" data-direction="s" data-type="label" data-view-component="true" class="sr-only position-absolute">Configuration menu</tool-tip>
 
 
-<anchored-position data-target="action-menu.overlay" id="action-menu-0f271466-6195-4583-9b21-e896c5be3844-overlay" anchor="action-menu-0f271466-6195-4583-9b21-e896c5be3844-button" align="start" side="outside-bottom" anchor-offset="normal" popover="auto" data-view-component="true">
+<anchored-position data-target="action-menu.overlay" id="action-menu-8240b7e6-71ea-4432-b0c5-c1381b99b19a-overlay" anchor="action-menu-8240b7e6-71ea-4432-b0c5-c1381b99b19a-button" align="start" side="outside-bottom" anchor-offset="normal" popover="auto" data-view-component="true">
   <div data-view-component="true" class="Overlay Overlay--size-auto">
     
       <div data-view-component="true" class="Overlay-body Overlay-body--paddingNone">          <action-list>
   <div data-view-component="true">
-    <ul aria-labelledby="action-menu-0f271466-6195-4583-9b21-e896c5be3844-button" id="action-menu-0f271466-6195-4583-9b21-e896c5be3844-list" role="menu" data-view-component="true" class="ActionListWrap--inset ActionListWrap">
+    <ul aria-labelledby="action-menu-8240b7e6-71ea-4432-b0c5-c1381b99b19a-button" id="action-menu-8240b7e6-71ea-4432-b0c5-c1381b99b19a-list" role="menu" data-view-component="true" class="ActionListWrap--inset ActionListWrap">
         <li data-targets="action-list.items" role="none" data-view-component="true" class="ActionListItem">
     
     
-    <a tabindex="-1" id="item-bee4df2b-e3f7-4908-ad23-7fe4ea6afa94" href="/quarkiverse/quarkus-cxf/commit/855193673b5e46413c3b76eb16455026fefe2891" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
+    <a tabindex="-1" id="item-7ce75a85-c8c5-4e95-aed6-3d05b18aa793" href="/quarkiverse/quarkus-cxf/commit/855193673b5e46413c3b76eb16455026fefe2891" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
         <span class="ActionListItem-visual ActionListItem-visual--leading">
           <svg aria-hidden="true" data-component="Octicon" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-git-commit">
     <path d="M11.93 8.5a4.002 4.002 0 0 1-7.86 0H.75a.75.75 0 0 1 0-1.5h3.32a4.002 4.002 0 0 1 7.86 0h3.32a.75.75 0 0 1 0 1.5Zm-1.43-.75a2.5 2.5 0 1 0-5 0 2.5 2.5 0 0 0 5 0Z"></path>
@@ -953,7 +953,7 @@
         <li data-targets="action-list.items" role="none" data-view-component="true" class="ActionListItem">
     
     
-    <clipboard-copy value="855193673b5e46413c3b76eb16455026fefe2891" tabindex="-1" id="item-25011a36-8b39-4872-9770-21ac8573bf49" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
+    <clipboard-copy value="855193673b5e46413c3b76eb16455026fefe2891" tabindex="-1" id="item-e8bec4dd-4ab0-4b9e-9e42-cb596819b946" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
         <span class="ActionListItem-visual ActionListItem-visual--leading">
           <svg aria-hidden="true" data-component="Octicon" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-copy">
     <path d="M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 0 1 0 1.5h-1.5a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-1.5a.75.75 0 0 1 1.5 0v1.5A1.75 1.75 0 0 1 9.25 16h-7.5A1.75 1.75 0 0 1 0 14.25Z"></path><path d="M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0 1 14.25 11h-7.5A1.75 1.75 0 0 1 5 9.25Zm1.75-.25a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-7.5a.25.25 0 0 0-.25-.25Z"></path>
@@ -969,7 +969,7 @@
         <li data-targets="action-list.items" role="none" data-view-component="true" class="ActionListItem">
     
     
-    <a tabindex="-1" id="item-db100bf9-bf11-48a8-baab-988ee46e454f" href="/quarkiverse/quarkus-cxf/tree/855193673b5e46413c3b76eb16455026fefe2891" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
+    <a tabindex="-1" id="item-35cfc5ab-ce3d-4349-98a7-9e36aa64ef0b" href="/quarkiverse/quarkus-cxf/tree/855193673b5e46413c3b76eb16455026fefe2891" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
         <span class="ActionListItem-visual ActionListItem-visual--leading">
           <svg aria-hidden="true" data-component="Octicon" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-code">
     <path d="m11.28 3.22 4.25 4.25a.75.75 0 0 1 0 1.06l-4.25 4.25a.749.749 0 0 1-1.275-.326.749.749 0 0 1 .215-.734L13.94 8l-3.72-3.72a.749.749 0 0 1 .326-1.275.749.749 0 0 1 .734.215Zm-6.56 0a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042L2.06 8l3.72 3.72a.749.749 0 0 1-.326 1.275.749.749 0 0 1-.734-.215L.47 8.53a.75.75 0 0 1 0-1.06Z"></path>
@@ -1001,23 +1001,23 @@
     <path d="M13.78 4.22a.75.75 0 0 1 0 1.06l-7.25 7.25a.75.75 0 0 1-1.06 0L2.22 9.28a.751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018L6 10.94l6.72-6.72a.75.75 0 0 1 1.06 0Z"></path>
 </svg>
 </clipboard-copy>  <div aria-live="polite" aria-atomic="true" class="sr-only" data-clipboard-copy-feedback></div>
-</span><tool-tip id="tooltip-cfe3b7b3-58ea-4451-afea-ac4c74efd14d" for="copy-commit-855193673b5e46413c3b76eb16455026fefe2891" popover="manual" data-direction="s" data-type="description" data-view-component="true" class="sr-only position-absolute">Copy the full SHA</tool-tip>
+</span><tool-tip id="tooltip-bcdf5381-8e85-4123-95b2-4869e9ff9b84" for="copy-commit-855193673b5e46413c3b76eb16455026fefe2891" popover="manual" data-direction="s" data-type="description" data-view-component="true" class="sr-only position-absolute">Copy the full SHA</tool-tip>
 
     </div>
     <div>
       <a id="commit-details-855193673b5e46413c3b76eb16455026fefe2891" href="/quarkiverse/quarkus-cxf/commit/855193673b5e46413c3b76eb16455026fefe2891" data-view-component="true" class="Button--secondary Button--small Button text-mono f6">  <span class="Button-content">
     <span class="Button-label">8551936</span>
   </span>
-</a><tool-tip id="tooltip-a71ede50-38a8-4a90-a23e-22f7ef873bcf" for="commit-details-855193673b5e46413c3b76eb16455026fefe2891" popover="manual" data-direction="s" data-type="description" data-view-component="true" class="sr-only position-absolute">View commit details</tool-tip>
+</a><tool-tip id="tooltip-84737bca-00bc-46eb-8137-c883569d18d3" for="commit-details-855193673b5e46413c3b76eb16455026fefe2891" popover="manual" data-direction="s" data-type="description" data-view-component="true" class="sr-only position-absolute">View commit details</tool-tip>
 
     </div>
 </div>
     <div data-view-component="true" class="ButtonGroup d-none d-sm-flex">
     <div>
-      <a id="history-link-855193673b5e46413c3b76eb16455026fefe2891" href="/quarkiverse/quarkus-cxf/tree/855193673b5e46413c3b76eb16455026fefe2891" aria-labelledby="tooltip-17f1236d-4fd7-4928-83b2-4b052f40a8e6" data-view-component="true" class="Button Button--iconOnly Button--secondary Button--small">  <svg aria-hidden="true" data-component="Octicon" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-code Button-visual">
+      <a id="history-link-855193673b5e46413c3b76eb16455026fefe2891" href="/quarkiverse/quarkus-cxf/tree/855193673b5e46413c3b76eb16455026fefe2891" aria-labelledby="tooltip-2b3ee31f-354c-440c-b103-e8641a37f9dc" data-view-component="true" class="Button Button--iconOnly Button--secondary Button--small">  <svg aria-hidden="true" data-component="Octicon" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-code Button-visual">
     <path d="m11.28 3.22 4.25 4.25a.75.75 0 0 1 0 1.06l-4.25 4.25a.749.749 0 0 1-1.275-.326.749.749 0 0 1 .215-.734L13.94 8l-3.72-3.72a.749.749 0 0 1 .326-1.275.749.749 0 0 1 .734.215Zm-6.56 0a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042L2.06 8l3.72 3.72a.749.749 0 0 1-.326 1.275.749.749 0 0 1-.734-.215L.47 8.53a.75.75 0 0 1 0-1.06Z"></path>
 </svg>
-</a><tool-tip id="tooltip-17f1236d-4fd7-4928-83b2-4b052f40a8e6" for="history-link-855193673b5e46413c3b76eb16455026fefe2891" popover="manual" data-direction="s" data-type="label" data-view-component="true" class="sr-only position-absolute">Browse the repository at this point in the history</tool-tip>
+</a><tool-tip id="tooltip-2b3ee31f-354c-440c-b103-e8641a37f9dc" for="history-link-855193673b5e46413c3b76eb16455026fefe2891" popover="manual" data-direction="s" data-type="label" data-view-component="true" class="sr-only position-absolute">Browse the repository at this point in the history</tool-tip>
 
     </div>
 </div>  </div>
@@ -1033,7 +1033,7 @@
   <div data-view-component="true" class="TimelineItem-body">      <h3 class="f5 text-normal color-fg-muted" >Commits on May 23, 2025</h3>
         <ol class="tmp-mt-3 list-style-none Box Box--condensed tmp-ml-n6 tmp-ml-sm-0 position-relative" >
             <li class="Box-row Box-row--focus-gray mt-0 d-flex js-commits-list-item js-navigation-item"
-    data-channel="eyJjIjoicmVwbzozMDgwODM1Mjk6Y29tbWl0OjQ5ZDBiNDMwNzI5MTRmN2E2YjEyMTNiY2I0ZDc2NDFiYjg2M2E0YjQiLCJ0IjoxNzk1NjExNjEwfQ==--7c32f0a2ad35cf1190b79f6794aec2f50a3d1b05b4deff1257514f1449a451f7"
+    data-channel="eyJjIjoicmVwbzozMDgwODM1Mjk6Y29tbWl0OjQ5ZDBiNDMwNzI5MTRmN2E2YjEyMTNiY2I0ZDc2NDFiYjg2M2E0YjQiLCJ0IjoxNzk1NzgyNDIyfQ==--42f0c93d2bc2db41ec439ce651d03becf17e399f4cb2db7230c2bc628a16799c"
     data-url="/quarkiverse/quarkus-cxf/commits/49d0b43072914f7a6b1213bcb4d7641bb863a4b4/commits_list_item"
     
     
@@ -1088,22 +1088,22 @@
 
     <action-menu data-select-variant="none" data-view-component="true" class="d-flex d-sm-none">
   <focus-group direction="vertical" mnemonics retain>
-    <button id="action-menu-265d7eda-2130-4f42-b06c-aeb498024b83-button" popovertarget="action-menu-265d7eda-2130-4f42-b06c-aeb498024b83-overlay" aria-controls="action-menu-265d7eda-2130-4f42-b06c-aeb498024b83-list" aria-haspopup="true" aria-labelledby="tooltip-961717e6-fe0d-40ff-83f4-dc22070517d8" type="button" data-view-component="true" class="Button Button--iconOnly Button--invisible Button--small">  <svg aria-hidden="true" data-component="Octicon" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-kebab-horizontal Button-visual">
+    <button id="action-menu-e31350d7-d97f-4351-92aa-9e65c7c82be1-button" popovertarget="action-menu-e31350d7-d97f-4351-92aa-9e65c7c82be1-overlay" aria-controls="action-menu-e31350d7-d97f-4351-92aa-9e65c7c82be1-list" aria-haspopup="true" aria-labelledby="tooltip-cd21bd43-c5d4-499b-a94b-b8c55a1db52a" type="button" data-view-component="true" class="Button Button--iconOnly Button--invisible Button--small">  <svg aria-hidden="true" data-component="Octicon" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-kebab-horizontal Button-visual">
     <path d="M8 9a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3ZM1.5 9a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3Zm13 0a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3Z"></path>
 </svg>
-</button><tool-tip id="tooltip-961717e6-fe0d-40ff-83f4-dc22070517d8" for="action-menu-265d7eda-2130-4f42-b06c-aeb498024b83-button" popover="manual" data-direction="s" data-type="label" data-view-component="true" class="sr-only position-absolute">Configuration menu</tool-tip>
+</button><tool-tip id="tooltip-cd21bd43-c5d4-499b-a94b-b8c55a1db52a" for="action-menu-e31350d7-d97f-4351-92aa-9e65c7c82be1-button" popover="manual" data-direction="s" data-type="label" data-view-component="true" class="sr-only position-absolute">Configuration menu</tool-tip>
 
 
-<anchored-position data-target="action-menu.overlay" id="action-menu-265d7eda-2130-4f42-b06c-aeb498024b83-overlay" anchor="action-menu-265d7eda-2130-4f42-b06c-aeb498024b83-button" align="start" side="outside-bottom" anchor-offset="normal" popover="auto" data-view-component="true">
+<anchored-position data-target="action-menu.overlay" id="action-menu-e31350d7-d97f-4351-92aa-9e65c7c82be1-overlay" anchor="action-menu-e31350d7-d97f-4351-92aa-9e65c7c82be1-button" align="start" side="outside-bottom" anchor-offset="normal" popover="auto" data-view-component="true">
   <div data-view-component="true" class="Overlay Overlay--size-auto">
     
       <div data-view-component="true" class="Overlay-body Overlay-body--paddingNone">          <action-list>
   <div data-view-component="true">
-    <ul aria-labelledby="action-menu-265d7eda-2130-4f42-b06c-aeb498024b83-button" id="action-menu-265d7eda-2130-4f42-b06c-aeb498024b83-list" role="menu" data-view-component="true" class="ActionListWrap--inset ActionListWrap">
+    <ul aria-labelledby="action-menu-e31350d7-d97f-4351-92aa-9e65c7c82be1-button" id="action-menu-e31350d7-d97f-4351-92aa-9e65c7c82be1-list" role="menu" data-view-component="true" class="ActionListWrap--inset ActionListWrap">
         <li data-targets="action-list.items" role="none" data-view-component="true" class="ActionListItem">
     
     
-    <a tabindex="-1" id="item-e6232c17-ad02-4d38-a408-5309c1a0f60b" href="/quarkiverse/quarkus-cxf/commit/49d0b43072914f7a6b1213bcb4d7641bb863a4b4" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
+    <a tabindex="-1" id="item-c27d31a5-f390-4629-9316-67124ec7522c" href="/quarkiverse/quarkus-cxf/commit/49d0b43072914f7a6b1213bcb4d7641bb863a4b4" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
         <span class="ActionListItem-visual ActionListItem-visual--leading">
           <svg aria-hidden="true" data-component="Octicon" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-git-commit">
     <path d="M11.93 8.5a4.002 4.002 0 0 1-7.86 0H.75a.75.75 0 0 1 0-1.5h3.32a4.002 4.002 0 0 1 7.86 0h3.32a.75.75 0 0 1 0 1.5Zm-1.43-.75a2.5 2.5 0 1 0-5 0 2.5 2.5 0 0 0 5 0Z"></path>
@@ -1119,7 +1119,7 @@
         <li data-targets="action-list.items" role="none" data-view-component="true" class="ActionListItem">
     
     
-    <clipboard-copy value="49d0b43072914f7a6b1213bcb4d7641bb863a4b4" tabindex="-1" id="item-41d24ee7-6a3b-4cb0-a006-cd01879c377c" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
+    <clipboard-copy value="49d0b43072914f7a6b1213bcb4d7641bb863a4b4" tabindex="-1" id="item-a8482dd2-18c7-4c5e-9ceb-9866d89f795a" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
         <span class="ActionListItem-visual ActionListItem-visual--leading">
           <svg aria-hidden="true" data-component="Octicon" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-copy">
     <path d="M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 0 1 0 1.5h-1.5a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-1.5a.75.75 0 0 1 1.5 0v1.5A1.75 1.75 0 0 1 9.25 16h-7.5A1.75 1.75 0 0 1 0 14.25Z"></path><path d="M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0 1 14.25 11h-7.5A1.75 1.75 0 0 1 5 9.25Zm1.75-.25a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-7.5a.25.25 0 0 0-.25-.25Z"></path>
@@ -1135,7 +1135,7 @@
         <li data-targets="action-list.items" role="none" data-view-component="true" class="ActionListItem">
     
     
-    <a tabindex="-1" id="item-d70da65a-02cc-4856-a769-e7ccf3c1b45b" href="/quarkiverse/quarkus-cxf/tree/49d0b43072914f7a6b1213bcb4d7641bb863a4b4" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
+    <a tabindex="-1" id="item-6e270631-77cd-4d31-9ce3-20ab6444e40e" href="/quarkiverse/quarkus-cxf/tree/49d0b43072914f7a6b1213bcb4d7641bb863a4b4" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
         <span class="ActionListItem-visual ActionListItem-visual--leading">
           <svg aria-hidden="true" data-component="Octicon" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-code">
     <path d="m11.28 3.22 4.25 4.25a.75.75 0 0 1 0 1.06l-4.25 4.25a.749.749 0 0 1-1.275-.326.749.749 0 0 1 .215-.734L13.94 8l-3.72-3.72a.749.749 0 0 1 .326-1.275.749.749 0 0 1 .734.215Zm-6.56 0a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042L2.06 8l3.72 3.72a.749.749 0 0 1-.326 1.275.749.749 0 0 1-.734-.215L.47 8.53a.75.75 0 0 1 0-1.06Z"></path>
@@ -1167,23 +1167,23 @@
     <path d="M13.78 4.22a.75.75 0 0 1 0 1.06l-7.25 7.25a.75.75 0 0 1-1.06 0L2.22 9.28a.751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018L6 10.94l6.72-6.72a.75.75 0 0 1 1.06 0Z"></path>
 </svg>
 </clipboard-copy>  <div aria-live="polite" aria-atomic="true" class="sr-only" data-clipboard-copy-feedback></div>
-</span><tool-tip id="tooltip-66caabe2-5c6c-4b55-8410-a8227ca7e182" for="copy-commit-49d0b43072914f7a6b1213bcb4d7641bb863a4b4" popover="manual" data-direction="s" data-type="description" data-view-component="true" class="sr-only position-absolute">Copy the full SHA</tool-tip>
+</span><tool-tip id="tooltip-e28c6831-a32e-4786-8890-ccb3761e92d5" for="copy-commit-49d0b43072914f7a6b1213bcb4d7641bb863a4b4" popover="manual" data-direction="s" data-type="description" data-view-component="true" class="sr-only position-absolute">Copy the full SHA</tool-tip>
 
     </div>
     <div>
       <a id="commit-details-49d0b43072914f7a6b1213bcb4d7641bb863a4b4" href="/quarkiverse/quarkus-cxf/commit/49d0b43072914f7a6b1213bcb4d7641bb863a4b4" data-view-component="true" class="Button--secondary Button--small Button text-mono f6">  <span class="Button-content">
     <span class="Button-label">49d0b43</span>
   </span>
-</a><tool-tip id="tooltip-7da186c9-984d-417a-ad01-26488506a26c" for="commit-details-49d0b43072914f7a6b1213bcb4d7641bb863a4b4" popover="manual" data-direction="s" data-type="description" data-view-component="true" class="sr-only position-absolute">View commit details</tool-tip>
+</a><tool-tip id="tooltip-702432a7-1955-45f4-88a3-0d3d62a5c9b3" for="commit-details-49d0b43072914f7a6b1213bcb4d7641bb863a4b4" popover="manual" data-direction="s" data-type="description" data-view-component="true" class="sr-only position-absolute">View commit details</tool-tip>
 
     </div>
 </div>
     <div data-view-component="true" class="ButtonGroup d-none d-sm-flex">
     <div>
-      <a id="history-link-49d0b43072914f7a6b1213bcb4d7641bb863a4b4" href="/quarkiverse/quarkus-cxf/tree/49d0b43072914f7a6b1213bcb4d7641bb863a4b4" aria-labelledby="tooltip-66e2da97-4ffe-4dd8-b9b2-8f24921744d9" data-view-component="true" class="Button Button--iconOnly Button--secondary Button--small">  <svg aria-hidden="true" data-component="Octicon" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-code Button-visual">
+      <a id="history-link-49d0b43072914f7a6b1213bcb4d7641bb863a4b4" href="/quarkiverse/quarkus-cxf/tree/49d0b43072914f7a6b1213bcb4d7641bb863a4b4" aria-labelledby="tooltip-9c638524-e6a3-4dcd-b1a2-f1f5920740f3" data-view-component="true" class="Button Button--iconOnly Button--secondary Button--small">  <svg aria-hidden="true" data-component="Octicon" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-code Button-visual">
     <path d="m11.28 3.22 4.25 4.25a.75.75 0 0 1 0 1.06l-4.25 4.25a.749.749 0 0 1-1.275-.326.749.749 0 0 1 .215-.734L13.94 8l-3.72-3.72a.749.749 0 0 1 .326-1.275.749.749 0 0 1 .734.215Zm-6.56 0a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042L2.06 8l3.72 3.72a.749.749 0 0 1-.326 1.275.749.749 0 0 1-.734-.215L.47 8.53a.75.75 0 0 1 0-1.06Z"></path>
 </svg>
-</a><tool-tip id="tooltip-66e2da97-4ffe-4dd8-b9b2-8f24921744d9" for="history-link-49d0b43072914f7a6b1213bcb4d7641bb863a4b4" popover="manual" data-direction="s" data-type="label" data-view-component="true" class="sr-only position-absolute">Browse the repository at this point in the history</tool-tip>
+</a><tool-tip id="tooltip-9c638524-e6a3-4dcd-b1a2-f1f5920740f3" for="history-link-49d0b43072914f7a6b1213bcb4d7641bb863a4b4" popover="manual" data-direction="s" data-type="label" data-view-component="true" class="sr-only position-absolute">Browse the repository at this point in the history</tool-tip>
 
     </div>
 </div>  </div>
@@ -1199,7 +1199,7 @@
   <div data-view-component="true" class="TimelineItem-body">      <h3 class="f5 text-normal color-fg-muted" >Commits on May 25, 2025</h3>
         <ol class="tmp-mt-3 list-style-none Box Box--condensed tmp-ml-n6 tmp-ml-sm-0 position-relative" >
             <li class="Box-row Box-row--focus-gray mt-0 d-flex js-commits-list-item js-navigation-item"
-    data-channel="eyJjIjoicmVwbzozMDgwODM1Mjk6Y29tbWl0OjliOTNiZGQ2Y2I5MWVhY2Y0ZTcwMzEwYmZiODVhNzViYWJmMDdlYWIiLCJ0IjoxNzk1NjExNjEwfQ==--ba1940f8a53cb08b1d83e6de3c53545b9e1143a3b19d5bc0d58b96e7d78e9d05"
+    data-channel="eyJjIjoicmVwbzozMDgwODM1Mjk6Y29tbWl0OjliOTNiZGQ2Y2I5MWVhY2Y0ZTcwMzEwYmZiODVhNzViYWJmMDdlYWIiLCJ0IjoxNzk1NzgyNDIyfQ==--6aa220aa57905598a80169e9dbccf0638f2eea8d9c28e1469ef4acc33a80e2a0"
     data-url="/quarkiverse/quarkus-cxf/commits/9b93bdd6cb91eacf4e70310bfb85a75babf07eab/commits_list_item"
     
     
@@ -1250,22 +1250,22 @@
 
     <action-menu data-select-variant="none" data-view-component="true" class="d-flex d-sm-none">
   <focus-group direction="vertical" mnemonics retain>
-    <button id="action-menu-83067576-0058-4e22-998d-7d8e2f702aab-button" popovertarget="action-menu-83067576-0058-4e22-998d-7d8e2f702aab-overlay" aria-controls="action-menu-83067576-0058-4e22-998d-7d8e2f702aab-list" aria-haspopup="true" aria-labelledby="tooltip-e7afad83-7f13-4777-8ab6-a06b47f4d6ac" type="button" data-view-component="true" class="Button Button--iconOnly Button--invisible Button--small">  <svg aria-hidden="true" data-component="Octicon" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-kebab-horizontal Button-visual">
+    <button id="action-menu-fb5187a0-e2d7-498c-bc2f-db3694c3e8d0-button" popovertarget="action-menu-fb5187a0-e2d7-498c-bc2f-db3694c3e8d0-overlay" aria-controls="action-menu-fb5187a0-e2d7-498c-bc2f-db3694c3e8d0-list" aria-haspopup="true" aria-labelledby="tooltip-798081cc-0a47-4d9d-912c-1510f5a36ad0" type="button" data-view-component="true" class="Button Button--iconOnly Button--invisible Button--small">  <svg aria-hidden="true" data-component="Octicon" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-kebab-horizontal Button-visual">
     <path d="M8 9a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3ZM1.5 9a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3Zm13 0a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3Z"></path>
 </svg>
-</button><tool-tip id="tooltip-e7afad83-7f13-4777-8ab6-a06b47f4d6ac" for="action-menu-83067576-0058-4e22-998d-7d8e2f702aab-button" popover="manual" data-direction="s" data-type="label" data-view-component="true" class="sr-only position-absolute">Configuration menu</tool-tip>
+</button><tool-tip id="tooltip-798081cc-0a47-4d9d-912c-1510f5a36ad0" for="action-menu-fb5187a0-e2d7-498c-bc2f-db3694c3e8d0-button" popover="manual" data-direction="s" data-type="label" data-view-component="true" class="sr-only position-absolute">Configuration menu</tool-tip>
 
 
-<anchored-position data-target="action-menu.overlay" id="action-menu-83067576-0058-4e22-998d-7d8e2f702aab-overlay" anchor="action-menu-83067576-0058-4e22-998d-7d8e2f702aab-button" align="start" side="outside-bottom" anchor-offset="normal" popover="auto" data-view-component="true">
+<anchored-position data-target="action-menu.overlay" id="action-menu-fb5187a0-e2d7-498c-bc2f-db3694c3e8d0-overlay" anchor="action-menu-fb5187a0-e2d7-498c-bc2f-db3694c3e8d0-button" align="start" side="outside-bottom" anchor-offset="normal" popover="auto" data-view-component="true">
   <div data-view-component="true" class="Overlay Overlay--size-auto">
     
       <div data-view-component="true" class="Overlay-body Overlay-body--paddingNone">          <action-list>
   <div data-view-component="true">
-    <ul aria-labelledby="action-menu-83067576-0058-4e22-998d-7d8e2f702aab-button" id="action-menu-83067576-0058-4e22-998d-7d8e2f702aab-list" role="menu" data-view-component="true" class="ActionListWrap--inset ActionListWrap">
+    <ul aria-labelledby="action-menu-fb5187a0-e2d7-498c-bc2f-db3694c3e8d0-button" id="action-menu-fb5187a0-e2d7-498c-bc2f-db3694c3e8d0-list" role="menu" data-view-component="true" class="ActionListWrap--inset ActionListWrap">
         <li data-targets="action-list.items" role="none" data-view-component="true" class="ActionListItem">
     
     
-    <a tabindex="-1" id="item-0c38ae69-21e6-4d7c-9501-7ca3d96d9d24" href="/quarkiverse/quarkus-cxf/commit/9b93bdd6cb91eacf4e70310bfb85a75babf07eab" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
+    <a tabindex="-1" id="item-3d9544d3-b134-4236-988e-fd186b380356" href="/quarkiverse/quarkus-cxf/commit/9b93bdd6cb91eacf4e70310bfb85a75babf07eab" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
         <span class="ActionListItem-visual ActionListItem-visual--leading">
           <svg aria-hidden="true" data-component="Octicon" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-git-commit">
     <path d="M11.93 8.5a4.002 4.002 0 0 1-7.86 0H.75a.75.75 0 0 1 0-1.5h3.32a4.002 4.002 0 0 1 7.86 0h3.32a.75.75 0 0 1 0 1.5Zm-1.43-.75a2.5 2.5 0 1 0-5 0 2.5 2.5 0 0 0 5 0Z"></path>
@@ -1281,7 +1281,7 @@
         <li data-targets="action-list.items" role="none" data-view-component="true" class="ActionListItem">
     
     
-    <clipboard-copy value="9b93bdd6cb91eacf4e70310bfb85a75babf07eab" tabindex="-1" id="item-12fd6fe1-3884-404c-9667-f7e1719e11fa" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
+    <clipboard-copy value="9b93bdd6cb91eacf4e70310bfb85a75babf07eab" tabindex="-1" id="item-b29a5972-a117-4dd8-a989-2afc2e351919" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
         <span class="ActionListItem-visual ActionListItem-visual--leading">
           <svg aria-hidden="true" data-component="Octicon" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-copy">
     <path d="M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 0 1 0 1.5h-1.5a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-1.5a.75.75 0 0 1 1.5 0v1.5A1.75 1.75 0 0 1 9.25 16h-7.5A1.75 1.75 0 0 1 0 14.25Z"></path><path d="M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0 1 14.25 11h-7.5A1.75 1.75 0 0 1 5 9.25Zm1.75-.25a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-7.5a.25.25 0 0 0-.25-.25Z"></path>
@@ -1297,7 +1297,7 @@
         <li data-targets="action-list.items" role="none" data-view-component="true" class="ActionListItem">
     
     
-    <a tabindex="-1" id="item-bbc779a2-d48e-41ec-9a7d-6a6ef85bbd5e" href="/quarkiverse/quarkus-cxf/tree/9b93bdd6cb91eacf4e70310bfb85a75babf07eab" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
+    <a tabindex="-1" id="item-db27a9db-aba3-4d89-8290-8e80385436af" href="/quarkiverse/quarkus-cxf/tree/9b93bdd6cb91eacf4e70310bfb85a75babf07eab" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
         <span class="ActionListItem-visual ActionListItem-visual--leading">
           <svg aria-hidden="true" data-component="Octicon" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-code">
     <path d="m11.28 3.22 4.25 4.25a.75.75 0 0 1 0 1.06l-4.25 4.25a.749.749 0 0 1-1.275-.326.749.749 0 0 1 .215-.734L13.94 8l-3.72-3.72a.749.749 0 0 1 .326-1.275.749.749 0 0 1 .734.215Zm-6.56 0a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042L2.06 8l3.72 3.72a.749.749 0 0 1-.326 1.275.749.749 0 0 1-.734-.215L.47 8.53a.75.75 0 0 1 0-1.06Z"></path>
@@ -1329,23 +1329,23 @@
     <path d="M13.78 4.22a.75.75 0 0 1 0 1.06l-7.25 7.25a.75.75 0 0 1-1.06 0L2.22 9.28a.751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018L6 10.94l6.72-6.72a.75.75 0 0 1 1.06 0Z"></path>
 </svg>
 </clipboard-copy>  <div aria-live="polite" aria-atomic="true" class="sr-only" data-clipboard-copy-feedback></div>
-</span><tool-tip id="tooltip-c8e0b05d-db17-4543-a7b9-10d4adbe232e" for="copy-commit-9b93bdd6cb91eacf4e70310bfb85a75babf07eab" popover="manual" data-direction="s" data-type="description" data-view-component="true" class="sr-only position-absolute">Copy the full SHA</tool-tip>
+</span><tool-tip id="tooltip-9dd5c515-7ebd-4399-bf6a-8270ead854e3" for="copy-commit-9b93bdd6cb91eacf4e70310bfb85a75babf07eab" popover="manual" data-direction="s" data-type="description" data-view-component="true" class="sr-only position-absolute">Copy the full SHA</tool-tip>
 
     </div>
     <div>
       <a id="commit-details-9b93bdd6cb91eacf4e70310bfb85a75babf07eab" href="/quarkiverse/quarkus-cxf/commit/9b93bdd6cb91eacf4e70310bfb85a75babf07eab" data-view-component="true" class="Button--secondary Button--small Button text-mono f6">  <span class="Button-content">
     <span class="Button-label">9b93bdd</span>
   </span>
-</a><tool-tip id="tooltip-c7971fca-db94-4536-8f28-e87c55899a56" for="commit-details-9b93bdd6cb91eacf4e70310bfb85a75babf07eab" popover="manual" data-direction="s" data-type="description" data-view-component="true" class="sr-only position-absolute">View commit details</tool-tip>
+</a><tool-tip id="tooltip-b6a2e82d-dfd4-4074-ad30-ccb123153e91" for="commit-details-9b93bdd6cb91eacf4e70310bfb85a75babf07eab" popover="manual" data-direction="s" data-type="description" data-view-component="true" class="sr-only position-absolute">View commit details</tool-tip>
 
     </div>
 </div>
     <div data-view-component="true" class="ButtonGroup d-none d-sm-flex">
     <div>
-      <a id="history-link-9b93bdd6cb91eacf4e70310bfb85a75babf07eab" href="/quarkiverse/quarkus-cxf/tree/9b93bdd6cb91eacf4e70310bfb85a75babf07eab" aria-labelledby="tooltip-c44ee608-3530-4606-a4bd-de03c360ff33" data-view-component="true" class="Button Button--iconOnly Button--secondary Button--small">  <svg aria-hidden="true" data-component="Octicon" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-code Button-visual">
+      <a id="history-link-9b93bdd6cb91eacf4e70310bfb85a75babf07eab" href="/quarkiverse/quarkus-cxf/tree/9b93bdd6cb91eacf4e70310bfb85a75babf07eab" aria-labelledby="tooltip-b04bf4cc-b920-4db3-987c-0f73d28bb43d" data-view-component="true" class="Button Button--iconOnly Button--secondary Button--small">  <svg aria-hidden="true" data-component="Octicon" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-code Button-visual">
     <path d="m11.28 3.22 4.25 4.25a.75.75 0 0 1 0 1.06l-4.25 4.25a.749.749 0 0 1-1.275-.326.749.749 0 0 1 .215-.734L13.94 8l-3.72-3.72a.749.749 0 0 1 .326-1.275.749.749 0 0 1 .734.215Zm-6.56 0a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042L2.06 8l3.72 3.72a.749.749 0 0 1-.326 1.275.749.749 0 0 1-.734-.215L.47 8.53a.75.75 0 0 1 0-1.06Z"></path>
 </svg>
-</a><tool-tip id="tooltip-c44ee608-3530-4606-a4bd-de03c360ff33" for="history-link-9b93bdd6cb91eacf4e70310bfb85a75babf07eab" popover="manual" data-direction="s" data-type="label" data-view-component="true" class="sr-only position-absolute">Browse the repository at this point in the history</tool-tip>
+</a><tool-tip id="tooltip-b04bf4cc-b920-4db3-987c-0f73d28bb43d" for="history-link-9b93bdd6cb91eacf4e70310bfb85a75babf07eab" popover="manual" data-direction="s" data-type="label" data-view-component="true" class="sr-only position-absolute">Browse the repository at this point in the history</tool-tip>
 
     </div>
 </div>  </div>
@@ -1361,7 +1361,7 @@
   <div data-view-component="true" class="TimelineItem-body">      <h3 class="f5 text-normal color-fg-muted" >Commits on May 26, 2025</h3>
         <ol class="tmp-mt-3 list-style-none Box Box--condensed tmp-ml-n6 tmp-ml-sm-0 position-relative" >
             <li class="Box-row Box-row--focus-gray mt-0 d-flex js-commits-list-item js-navigation-item"
-    data-channel="eyJjIjoicmVwbzozMDgwODM1Mjk6Y29tbWl0OjliODljMzhhNDU5MzRhMDhjZDNkNjY5NDdiMDdjZTZjZTVkNWJmMjgiLCJ0IjoxNzk1NjExNjEwfQ==--fb5685ab037037e5998b734f16fad99e5188b58d4884a2c7e455f2750d6b5ca6"
+    data-channel="eyJjIjoicmVwbzozMDgwODM1Mjk6Y29tbWl0OjliODljMzhhNDU5MzRhMDhjZDNkNjY5NDdiMDdjZTZjZTVkNWJmMjgiLCJ0IjoxNzk1NzgyNDIyfQ==--34e4956d9300d92da0daef9bfab8c60e8b83247cf62da5c54f76e25579bfbb5d"
     data-url="/quarkiverse/quarkus-cxf/commits/9b89c38a45934a08cd3d66947b07ce6ce5d5bf28/commits_list_item"
     
     
@@ -1412,22 +1412,22 @@
 
     <action-menu data-select-variant="none" data-view-component="true" class="d-flex d-sm-none">
   <focus-group direction="vertical" mnemonics retain>
-    <button id="action-menu-29b5cfba-a414-4a02-b69b-0fad49ba4052-button" popovertarget="action-menu-29b5cfba-a414-4a02-b69b-0fad49ba4052-overlay" aria-controls="action-menu-29b5cfba-a414-4a02-b69b-0fad49ba4052-list" aria-haspopup="true" aria-labelledby="tooltip-1f3fa4a8-ea82-4e50-be8e-51f6af96ac11" type="button" data-view-component="true" class="Button Button--iconOnly Button--invisible Button--small">  <svg aria-hidden="true" data-component="Octicon" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-kebab-horizontal Button-visual">
+    <button id="action-menu-25188ad4-a693-4233-bf49-f95a076e0f66-button" popovertarget="action-menu-25188ad4-a693-4233-bf49-f95a076e0f66-overlay" aria-controls="action-menu-25188ad4-a693-4233-bf49-f95a076e0f66-list" aria-haspopup="true" aria-labelledby="tooltip-22ab9b55-8167-43b2-a0fb-ad3776d57d65" type="button" data-view-component="true" class="Button Button--iconOnly Button--invisible Button--small">  <svg aria-hidden="true" data-component="Octicon" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-kebab-horizontal Button-visual">
     <path d="M8 9a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3ZM1.5 9a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3Zm13 0a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3Z"></path>
 </svg>
-</button><tool-tip id="tooltip-1f3fa4a8-ea82-4e50-be8e-51f6af96ac11" for="action-menu-29b5cfba-a414-4a02-b69b-0fad49ba4052-button" popover="manual" data-direction="s" data-type="label" data-view-component="true" class="sr-only position-absolute">Configuration menu</tool-tip>
+</button><tool-tip id="tooltip-22ab9b55-8167-43b2-a0fb-ad3776d57d65" for="action-menu-25188ad4-a693-4233-bf49-f95a076e0f66-button" popover="manual" data-direction="s" data-type="label" data-view-component="true" class="sr-only position-absolute">Configuration menu</tool-tip>
 
 
-<anchored-position data-target="action-menu.overlay" id="action-menu-29b5cfba-a414-4a02-b69b-0fad49ba4052-overlay" anchor="action-menu-29b5cfba-a414-4a02-b69b-0fad49ba4052-button" align="start" side="outside-bottom" anchor-offset="normal" popover="auto" data-view-component="true">
+<anchored-position data-target="action-menu.overlay" id="action-menu-25188ad4-a693-4233-bf49-f95a076e0f66-overlay" anchor="action-menu-25188ad4-a693-4233-bf49-f95a076e0f66-button" align="start" side="outside-bottom" anchor-offset="normal" popover="auto" data-view-component="true">
   <div data-view-component="true" class="Overlay Overlay--size-auto">
     
       <div data-view-component="true" class="Overlay-body Overlay-body--paddingNone">          <action-list>
   <div data-view-component="true">
-    <ul aria-labelledby="action-menu-29b5cfba-a414-4a02-b69b-0fad49ba4052-button" id="action-menu-29b5cfba-a414-4a02-b69b-0fad49ba4052-list" role="menu" data-view-component="true" class="ActionListWrap--inset ActionListWrap">
+    <ul aria-labelledby="action-menu-25188ad4-a693-4233-bf49-f95a076e0f66-button" id="action-menu-25188ad4-a693-4233-bf49-f95a076e0f66-list" role="menu" data-view-component="true" class="ActionListWrap--inset ActionListWrap">
         <li data-targets="action-list.items" role="none" data-view-component="true" class="ActionListItem">
     
     
-    <a tabindex="-1" id="item-fa18678b-19d5-40ac-8fed-2dae410e7b12" href="/quarkiverse/quarkus-cxf/commit/9b89c38a45934a08cd3d66947b07ce6ce5d5bf28" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
+    <a tabindex="-1" id="item-232174ba-5ddd-4e64-86b8-e5d85021d3f9" href="/quarkiverse/quarkus-cxf/commit/9b89c38a45934a08cd3d66947b07ce6ce5d5bf28" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
         <span class="ActionListItem-visual ActionListItem-visual--leading">
           <svg aria-hidden="true" data-component="Octicon" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-git-commit">
     <path d="M11.93 8.5a4.002 4.002 0 0 1-7.86 0H.75a.75.75 0 0 1 0-1.5h3.32a4.002 4.002 0 0 1 7.86 0h3.32a.75.75 0 0 1 0 1.5Zm-1.43-.75a2.5 2.5 0 1 0-5 0 2.5 2.5 0 0 0 5 0Z"></path>
@@ -1443,7 +1443,7 @@
         <li data-targets="action-list.items" role="none" data-view-component="true" class="ActionListItem">
     
     
-    <clipboard-copy value="9b89c38a45934a08cd3d66947b07ce6ce5d5bf28" tabindex="-1" id="item-03154668-6a7a-49c0-adb6-2f110170ba44" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
+    <clipboard-copy value="9b89c38a45934a08cd3d66947b07ce6ce5d5bf28" tabindex="-1" id="item-734849b9-af73-4550-bba2-9e2929e68158" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
         <span class="ActionListItem-visual ActionListItem-visual--leading">
           <svg aria-hidden="true" data-component="Octicon" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-copy">
     <path d="M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 0 1 0 1.5h-1.5a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-1.5a.75.75 0 0 1 1.5 0v1.5A1.75 1.75 0 0 1 9.25 16h-7.5A1.75 1.75 0 0 1 0 14.25Z"></path><path d="M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0 1 14.25 11h-7.5A1.75 1.75 0 0 1 5 9.25Zm1.75-.25a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-7.5a.25.25 0 0 0-.25-.25Z"></path>
@@ -1459,7 +1459,7 @@
         <li data-targets="action-list.items" role="none" data-view-component="true" class="ActionListItem">
     
     
-    <a tabindex="-1" id="item-2ed168d2-4ac3-42ee-9bf1-af322967371a" href="/quarkiverse/quarkus-cxf/tree/9b89c38a45934a08cd3d66947b07ce6ce5d5bf28" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
+    <a tabindex="-1" id="item-fc2eeef7-e610-4dca-a1f5-1901adc267b4" href="/quarkiverse/quarkus-cxf/tree/9b89c38a45934a08cd3d66947b07ce6ce5d5bf28" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
         <span class="ActionListItem-visual ActionListItem-visual--leading">
           <svg aria-hidden="true" data-component="Octicon" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-code">
     <path d="m11.28 3.22 4.25 4.25a.75.75 0 0 1 0 1.06l-4.25 4.25a.749.749 0 0 1-1.275-.326.749.749 0 0 1 .215-.734L13.94 8l-3.72-3.72a.749.749 0 0 1 .326-1.275.749.749 0 0 1 .734.215Zm-6.56 0a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042L2.06 8l3.72 3.72a.749.749 0 0 1-.326 1.275.749.749 0 0 1-.734-.215L.47 8.53a.75.75 0 0 1 0-1.06Z"></path>
@@ -1491,30 +1491,30 @@
     <path d="M13.78 4.22a.75.75 0 0 1 0 1.06l-7.25 7.25a.75.75 0 0 1-1.06 0L2.22 9.28a.751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018L6 10.94l6.72-6.72a.75.75 0 0 1 1.06 0Z"></path>
 </svg>
 </clipboard-copy>  <div aria-live="polite" aria-atomic="true" class="sr-only" data-clipboard-copy-feedback></div>
-</span><tool-tip id="tooltip-f961c3f5-431a-4c4b-9af1-98464bc2aa5b" for="copy-commit-9b89c38a45934a08cd3d66947b07ce6ce5d5bf28" popover="manual" data-direction="s" data-type="description" data-view-component="true" class="sr-only position-absolute">Copy the full SHA</tool-tip>
+</span><tool-tip id="tooltip-3baf0f21-9bd6-4ca1-87f3-735078fd8274" for="copy-commit-9b89c38a45934a08cd3d66947b07ce6ce5d5bf28" popover="manual" data-direction="s" data-type="description" data-view-component="true" class="sr-only position-absolute">Copy the full SHA</tool-tip>
 
     </div>
     <div>
       <a id="commit-details-9b89c38a45934a08cd3d66947b07ce6ce5d5bf28" href="/quarkiverse/quarkus-cxf/commit/9b89c38a45934a08cd3d66947b07ce6ce5d5bf28" data-view-component="true" class="Button--secondary Button--small Button text-mono f6">  <span class="Button-content">
     <span class="Button-label">9b89c38</span>
   </span>
-</a><tool-tip id="tooltip-742747eb-c884-4555-8fa1-37ee3c84c87e" for="commit-details-9b89c38a45934a08cd3d66947b07ce6ce5d5bf28" popover="manual" data-direction="s" data-type="description" data-view-component="true" class="sr-only position-absolute">View commit details</tool-tip>
+</a><tool-tip id="tooltip-c21e73b4-70cb-4809-b478-1c9d9f2d4f49" for="commit-details-9b89c38a45934a08cd3d66947b07ce6ce5d5bf28" popover="manual" data-direction="s" data-type="description" data-view-component="true" class="sr-only position-absolute">View commit details</tool-tip>
 
     </div>
 </div>
     <div data-view-component="true" class="ButtonGroup d-none d-sm-flex">
     <div>
-      <a id="history-link-9b89c38a45934a08cd3d66947b07ce6ce5d5bf28" href="/quarkiverse/quarkus-cxf/tree/9b89c38a45934a08cd3d66947b07ce6ce5d5bf28" aria-labelledby="tooltip-b082313e-0692-4399-9a95-db62968530d3" data-view-component="true" class="Button Button--iconOnly Button--secondary Button--small">  <svg aria-hidden="true" data-component="Octicon" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-code Button-visual">
+      <a id="history-link-9b89c38a45934a08cd3d66947b07ce6ce5d5bf28" href="/quarkiverse/quarkus-cxf/tree/9b89c38a45934a08cd3d66947b07ce6ce5d5bf28" aria-labelledby="tooltip-44b07013-8188-43db-995b-941db1ace5bb" data-view-component="true" class="Button Button--iconOnly Button--secondary Button--small">  <svg aria-hidden="true" data-component="Octicon" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-code Button-visual">
     <path d="m11.28 3.22 4.25 4.25a.75.75 0 0 1 0 1.06l-4.25 4.25a.749.749 0 0 1-1.275-.326.749.749 0 0 1 .215-.734L13.94 8l-3.72-3.72a.749.749 0 0 1 .326-1.275.749.749 0 0 1 .734.215Zm-6.56 0a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042L2.06 8l3.72 3.72a.749.749 0 0 1-.326 1.275.749.749 0 0 1-.734-.215L.47 8.53a.75.75 0 0 1 0-1.06Z"></path>
 </svg>
-</a><tool-tip id="tooltip-b082313e-0692-4399-9a95-db62968530d3" for="history-link-9b89c38a45934a08cd3d66947b07ce6ce5d5bf28" popover="manual" data-direction="s" data-type="label" data-view-component="true" class="sr-only position-absolute">Browse the repository at this point in the history</tool-tip>
+</a><tool-tip id="tooltip-44b07013-8188-43db-995b-941db1ace5bb" for="history-link-9b89c38a45934a08cd3d66947b07ce6ce5d5bf28" popover="manual" data-direction="s" data-type="label" data-view-component="true" class="sr-only position-absolute">Browse the repository at this point in the history</tool-tip>
 
     </div>
 </div>  </div>
 </li>
 
             <li class="Box-row Box-row--focus-gray mt-0 d-flex js-commits-list-item js-navigation-item"
-    data-channel="eyJjIjoicmVwbzozMDgwODM1Mjk6Y29tbWl0OjY3ZmJkNDNlMTVkNzZhZmIzN2I5MGVjYTAzMTM3YzA0NTdmYTM2ZTIiLCJ0IjoxNzk1NjExNjEwfQ==--e096f8924a1df014725cd813119b6701dd4be3185928191049454e2e5d5e23ed"
+    data-channel="eyJjIjoicmVwbzozMDgwODM1Mjk6Y29tbWl0OjY3ZmJkNDNlMTVkNzZhZmIzN2I5MGVjYTAzMTM3YzA0NTdmYTM2ZTIiLCJ0IjoxNzk1NzgyNDIyfQ==--d2b1fc36935f017641ab1179d1ecbc85df318e296c384e199928b0646551e1ba"
     data-url="/quarkiverse/quarkus-cxf/commits/67fbd43e15d76afb37b90eca03137c0457fa36e2/commits_list_item"
     
     
@@ -1561,22 +1561,22 @@
 
     <action-menu data-select-variant="none" data-view-component="true" class="d-flex d-sm-none">
   <focus-group direction="vertical" mnemonics retain>
-    <button id="action-menu-5d3a7217-2fc9-4048-b5ce-f9ad5754ee71-button" popovertarget="action-menu-5d3a7217-2fc9-4048-b5ce-f9ad5754ee71-overlay" aria-controls="action-menu-5d3a7217-2fc9-4048-b5ce-f9ad5754ee71-list" aria-haspopup="true" aria-labelledby="tooltip-d9007f62-ec99-4f79-8f33-091925b8e116" type="button" data-view-component="true" class="Button Button--iconOnly Button--invisible Button--small">  <svg aria-hidden="true" data-component="Octicon" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-kebab-horizontal Button-visual">
+    <button id="action-menu-21ce5722-544c-4c4b-83ee-a1577ca6142a-button" popovertarget="action-menu-21ce5722-544c-4c4b-83ee-a1577ca6142a-overlay" aria-controls="action-menu-21ce5722-544c-4c4b-83ee-a1577ca6142a-list" aria-haspopup="true" aria-labelledby="tooltip-970c6105-1c95-47d8-8fd5-c1ebb9a45750" type="button" data-view-component="true" class="Button Button--iconOnly Button--invisible Button--small">  <svg aria-hidden="true" data-component="Octicon" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-kebab-horizontal Button-visual">
     <path d="M8 9a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3ZM1.5 9a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3Zm13 0a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3Z"></path>
 </svg>
-</button><tool-tip id="tooltip-d9007f62-ec99-4f79-8f33-091925b8e116" for="action-menu-5d3a7217-2fc9-4048-b5ce-f9ad5754ee71-button" popover="manual" data-direction="s" data-type="label" data-view-component="true" class="sr-only position-absolute">Configuration menu</tool-tip>
+</button><tool-tip id="tooltip-970c6105-1c95-47d8-8fd5-c1ebb9a45750" for="action-menu-21ce5722-544c-4c4b-83ee-a1577ca6142a-button" popover="manual" data-direction="s" data-type="label" data-view-component="true" class="sr-only position-absolute">Configuration menu</tool-tip>
 
 
-<anchored-position data-target="action-menu.overlay" id="action-menu-5d3a7217-2fc9-4048-b5ce-f9ad5754ee71-overlay" anchor="action-menu-5d3a7217-2fc9-4048-b5ce-f9ad5754ee71-button" align="start" side="outside-bottom" anchor-offset="normal" popover="auto" data-view-component="true">
+<anchored-position data-target="action-menu.overlay" id="action-menu-21ce5722-544c-4c4b-83ee-a1577ca6142a-overlay" anchor="action-menu-21ce5722-544c-4c4b-83ee-a1577ca6142a-button" align="start" side="outside-bottom" anchor-offset="normal" popover="auto" data-view-component="true">
   <div data-view-component="true" class="Overlay Overlay--size-auto">
     
       <div data-view-component="true" class="Overlay-body Overlay-body--paddingNone">          <action-list>
   <div data-view-component="true">
-    <ul aria-labelledby="action-menu-5d3a7217-2fc9-4048-b5ce-f9ad5754ee71-button" id="action-menu-5d3a7217-2fc9-4048-b5ce-f9ad5754ee71-list" role="menu" data-view-component="true" class="ActionListWrap--inset ActionListWrap">
+    <ul aria-labelledby="action-menu-21ce5722-544c-4c4b-83ee-a1577ca6142a-button" id="action-menu-21ce5722-544c-4c4b-83ee-a1577ca6142a-list" role="menu" data-view-component="true" class="ActionListWrap--inset ActionListWrap">
         <li data-targets="action-list.items" role="none" data-view-component="true" class="ActionListItem">
     
     
-    <a tabindex="-1" id="item-35821e85-d1d4-4dc8-8373-6e72dad15316" href="/quarkiverse/quarkus-cxf/commit/67fbd43e15d76afb37b90eca03137c0457fa36e2" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
+    <a tabindex="-1" id="item-52a137ee-4d9d-4f54-83cb-4cd16bc59cf4" href="/quarkiverse/quarkus-cxf/commit/67fbd43e15d76afb37b90eca03137c0457fa36e2" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
         <span class="ActionListItem-visual ActionListItem-visual--leading">
           <svg aria-hidden="true" data-component="Octicon" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-git-commit">
     <path d="M11.93 8.5a4.002 4.002 0 0 1-7.86 0H.75a.75.75 0 0 1 0-1.5h3.32a4.002 4.002 0 0 1 7.86 0h3.32a.75.75 0 0 1 0 1.5Zm-1.43-.75a2.5 2.5 0 1 0-5 0 2.5 2.5 0 0 0 5 0Z"></path>
@@ -1592,7 +1592,7 @@
         <li data-targets="action-list.items" role="none" data-view-component="true" class="ActionListItem">
     
     
-    <clipboard-copy value="67fbd43e15d76afb37b90eca03137c0457fa36e2" tabindex="-1" id="item-1e179f09-6630-4e99-b4bf-783d149de049" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
+    <clipboard-copy value="67fbd43e15d76afb37b90eca03137c0457fa36e2" tabindex="-1" id="item-aa61840d-cea6-4261-9849-3225e6491ebb" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
         <span class="ActionListItem-visual ActionListItem-visual--leading">
           <svg aria-hidden="true" data-component="Octicon" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-copy">
     <path d="M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 0 1 0 1.5h-1.5a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-1.5a.75.75 0 0 1 1.5 0v1.5A1.75 1.75 0 0 1 9.25 16h-7.5A1.75 1.75 0 0 1 0 14.25Z"></path><path d="M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0 1 14.25 11h-7.5A1.75 1.75 0 0 1 5 9.25Zm1.75-.25a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-7.5a.25.25 0 0 0-.25-.25Z"></path>
@@ -1608,7 +1608,7 @@
         <li data-targets="action-list.items" role="none" data-view-component="true" class="ActionListItem">
     
     
-    <a tabindex="-1" id="item-e0d451a5-f6a8-41ff-abc4-ffe161baec4c" href="/quarkiverse/quarkus-cxf/tree/67fbd43e15d76afb37b90eca03137c0457fa36e2" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
+    <a tabindex="-1" id="item-6905ab0e-f9bf-4c46-9f11-a6659450a588" href="/quarkiverse/quarkus-cxf/tree/67fbd43e15d76afb37b90eca03137c0457fa36e2" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
         <span class="ActionListItem-visual ActionListItem-visual--leading">
           <svg aria-hidden="true" data-component="Octicon" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-code">
     <path d="m11.28 3.22 4.25 4.25a.75.75 0 0 1 0 1.06l-4.25 4.25a.749.749 0 0 1-1.275-.326.749.749 0 0 1 .215-.734L13.94 8l-3.72-3.72a.749.749 0 0 1 .326-1.275.749.749 0 0 1 .734.215Zm-6.56 0a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042L2.06 8l3.72 3.72a.749.749 0 0 1-.326 1.275.749.749 0 0 1-.734-.215L.47 8.53a.75.75 0 0 1 0-1.06Z"></path>
@@ -1640,30 +1640,30 @@
     <path d="M13.78 4.22a.75.75 0 0 1 0 1.06l-7.25 7.25a.75.75 0 0 1-1.06 0L2.22 9.28a.751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018L6 10.94l6.72-6.72a.75.75 0 0 1 1.06 0Z"></path>
 </svg>
 </clipboard-copy>  <div aria-live="polite" aria-atomic="true" class="sr-only" data-clipboard-copy-feedback></div>
-</span><tool-tip id="tooltip-54bc91b2-17ea-4421-9b45-d56206ce7d2d" for="copy-commit-67fbd43e15d76afb37b90eca03137c0457fa36e2" popover="manual" data-direction="s" data-type="description" data-view-component="true" class="sr-only position-absolute">Copy the full SHA</tool-tip>
+</span><tool-tip id="tooltip-dd8eee70-a6a3-41c3-a71e-720155b1709e" for="copy-commit-67fbd43e15d76afb37b90eca03137c0457fa36e2" popover="manual" data-direction="s" data-type="description" data-view-component="true" class="sr-only position-absolute">Copy the full SHA</tool-tip>
 
     </div>
     <div>
       <a id="commit-details-67fbd43e15d76afb37b90eca03137c0457fa36e2" href="/quarkiverse/quarkus-cxf/commit/67fbd43e15d76afb37b90eca03137c0457fa36e2" data-view-component="true" class="Button--secondary Button--small Button text-mono f6">  <span class="Button-content">
     <span class="Button-label">67fbd43</span>
   </span>
-</a><tool-tip id="tooltip-30902716-168e-4bc5-9458-531f6b377d9b" for="commit-details-67fbd43e15d76afb37b90eca03137c0457fa36e2" popover="manual" data-direction="s" data-type="description" data-view-component="true" class="sr-only position-absolute">View commit details</tool-tip>
+</a><tool-tip id="tooltip-5fe9cdb5-2d6e-4a09-ac86-e1ebed980865" for="commit-details-67fbd43e15d76afb37b90eca03137c0457fa36e2" popover="manual" data-direction="s" data-type="description" data-view-component="true" class="sr-only position-absolute">View commit details</tool-tip>
 
     </div>
 </div>
     <div data-view-component="true" class="ButtonGroup d-none d-sm-flex">
     <div>
-      <a id="history-link-67fbd43e15d76afb37b90eca03137c0457fa36e2" href="/quarkiverse/quarkus-cxf/tree/67fbd43e15d76afb37b90eca03137c0457fa36e2" aria-labelledby="tooltip-d69e0cdc-4f68-48ee-abe8-56ccc48176ba" data-view-component="true" class="Button Button--iconOnly Button--secondary Button--small">  <svg aria-hidden="true" data-component="Octicon" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-code Button-visual">
+      <a id="history-link-67fbd43e15d76afb37b90eca03137c0457fa36e2" href="/quarkiverse/quarkus-cxf/tree/67fbd43e15d76afb37b90eca03137c0457fa36e2" aria-labelledby="tooltip-ff2d9aaa-ecc8-4908-91f0-0b0dd22ad5f0" data-view-component="true" class="Button Button--iconOnly Button--secondary Button--small">  <svg aria-hidden="true" data-component="Octicon" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-code Button-visual">
     <path d="m11.28 3.22 4.25 4.25a.75.75 0 0 1 0 1.06l-4.25 4.25a.749.749 0 0 1-1.275-.326.749.749 0 0 1 .215-.734L13.94 8l-3.72-3.72a.749.749 0 0 1 .326-1.275.749.749 0 0 1 .734.215Zm-6.56 0a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042L2.06 8l3.72 3.72a.749.749 0 0 1-.326 1.275.749.749 0 0 1-.734-.215L.47 8.53a.75.75 0 0 1 0-1.06Z"></path>
 </svg>
-</a><tool-tip id="tooltip-d69e0cdc-4f68-48ee-abe8-56ccc48176ba" for="history-link-67fbd43e15d76afb37b90eca03137c0457fa36e2" popover="manual" data-direction="s" data-type="label" data-view-component="true" class="sr-only position-absolute">Browse the repository at this point in the history</tool-tip>
+</a><tool-tip id="tooltip-ff2d9aaa-ecc8-4908-91f0-0b0dd22ad5f0" for="history-link-67fbd43e15d76afb37b90eca03137c0457fa36e2" popover="manual" data-direction="s" data-type="label" data-view-component="true" class="sr-only position-absolute">Browse the repository at this point in the history</tool-tip>
 
     </div>
 </div>  </div>
 </li>
 
             <li class="Box-row Box-row--focus-gray mt-0 d-flex js-commits-list-item js-navigation-item"
-    data-channel="eyJjIjoicmVwbzozMDgwODM1Mjk6Y29tbWl0OjIxZDQ0YWY4OGVhNWU2MDYxNDM3MTU2MDJjMzM4YWVhOTYzZjQwNDQiLCJ0IjoxNzk1NjExNjEwfQ==--6996ee0096bfe69ebc6f35e6930c76844444a54eb4656a4f11dd3704b8224e8b"
+    data-channel="eyJjIjoicmVwbzozMDgwODM1Mjk6Y29tbWl0OjIxZDQ0YWY4OGVhNWU2MDYxNDM3MTU2MDJjMzM4YWVhOTYzZjQwNDQiLCJ0IjoxNzk1NzgyNDIyfQ==--dfb5e06c5fd153c3e0026fbd552d57ba1d4881e5291948cceda0ca52d2ca6274"
     data-url="/quarkiverse/quarkus-cxf/commits/21d44af88ea5e606143715602c338aea963f4044/commits_list_item"
     
     
@@ -1710,22 +1710,22 @@
 
     <action-menu data-select-variant="none" data-view-component="true" class="d-flex d-sm-none">
   <focus-group direction="vertical" mnemonics retain>
-    <button id="action-menu-1b8e9788-d772-4af6-866b-27bd45dc844e-button" popovertarget="action-menu-1b8e9788-d772-4af6-866b-27bd45dc844e-overlay" aria-controls="action-menu-1b8e9788-d772-4af6-866b-27bd45dc844e-list" aria-haspopup="true" aria-labelledby="tooltip-6095082e-e42f-41f9-999c-b063af7361fe" type="button" data-view-component="true" class="Button Button--iconOnly Button--invisible Button--small">  <svg aria-hidden="true" data-component="Octicon" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-kebab-horizontal Button-visual">
+    <button id="action-menu-7553c033-52b3-4a99-b2b0-05eca37ce751-button" popovertarget="action-menu-7553c033-52b3-4a99-b2b0-05eca37ce751-overlay" aria-controls="action-menu-7553c033-52b3-4a99-b2b0-05eca37ce751-list" aria-haspopup="true" aria-labelledby="tooltip-91e0266c-10f6-4f85-b254-5b2fb4aecac7" type="button" data-view-component="true" class="Button Button--iconOnly Button--invisible Button--small">  <svg aria-hidden="true" data-component="Octicon" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-kebab-horizontal Button-visual">
     <path d="M8 9a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3ZM1.5 9a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3Zm13 0a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3Z"></path>
 </svg>
-</button><tool-tip id="tooltip-6095082e-e42f-41f9-999c-b063af7361fe" for="action-menu-1b8e9788-d772-4af6-866b-27bd45dc844e-button" popover="manual" data-direction="s" data-type="label" data-view-component="true" class="sr-only position-absolute">Configuration menu</tool-tip>
+</button><tool-tip id="tooltip-91e0266c-10f6-4f85-b254-5b2fb4aecac7" for="action-menu-7553c033-52b3-4a99-b2b0-05eca37ce751-button" popover="manual" data-direction="s" data-type="label" data-view-component="true" class="sr-only position-absolute">Configuration menu</tool-tip>
 
 
-<anchored-position data-target="action-menu.overlay" id="action-menu-1b8e9788-d772-4af6-866b-27bd45dc844e-overlay" anchor="action-menu-1b8e9788-d772-4af6-866b-27bd45dc844e-button" align="start" side="outside-bottom" anchor-offset="normal" popover="auto" data-view-component="true">
+<anchored-position data-target="action-menu.overlay" id="action-menu-7553c033-52b3-4a99-b2b0-05eca37ce751-overlay" anchor="action-menu-7553c033-52b3-4a99-b2b0-05eca37ce751-button" align="start" side="outside-bottom" anchor-offset="normal" popover="auto" data-view-component="true">
   <div data-view-component="true" class="Overlay Overlay--size-auto">
     
       <div data-view-component="true" class="Overlay-body Overlay-body--paddingNone">          <action-list>
   <div data-view-component="true">
-    <ul aria-labelledby="action-menu-1b8e9788-d772-4af6-866b-27bd45dc844e-button" id="action-menu-1b8e9788-d772-4af6-866b-27bd45dc844e-list" role="menu" data-view-component="true" class="ActionListWrap--inset ActionListWrap">
+    <ul aria-labelledby="action-menu-7553c033-52b3-4a99-b2b0-05eca37ce751-button" id="action-menu-7553c033-52b3-4a99-b2b0-05eca37ce751-list" role="menu" data-view-component="true" class="ActionListWrap--inset ActionListWrap">
         <li data-targets="action-list.items" role="none" data-view-component="true" class="ActionListItem">
     
     
-    <a tabindex="-1" id="item-5c913405-ff96-4201-b11f-823ea9ae657c" href="/quarkiverse/quarkus-cxf/commit/21d44af88ea5e606143715602c338aea963f4044" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
+    <a tabindex="-1" id="item-8785145a-6de0-494d-9730-6a7e8dbe1361" href="/quarkiverse/quarkus-cxf/commit/21d44af88ea5e606143715602c338aea963f4044" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
         <span class="ActionListItem-visual ActionListItem-visual--leading">
           <svg aria-hidden="true" data-component="Octicon" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-git-commit">
     <path d="M11.93 8.5a4.002 4.002 0 0 1-7.86 0H.75a.75.75 0 0 1 0-1.5h3.32a4.002 4.002 0 0 1 7.86 0h3.32a.75.75 0 0 1 0 1.5Zm-1.43-.75a2.5 2.5 0 1 0-5 0 2.5 2.5 0 0 0 5 0Z"></path>
@@ -1741,7 +1741,7 @@
         <li data-targets="action-list.items" role="none" data-view-component="true" class="ActionListItem">
     
     
-    <clipboard-copy value="21d44af88ea5e606143715602c338aea963f4044" tabindex="-1" id="item-9e0a9ff6-c5e3-49e0-a14a-6f05dd0a411c" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
+    <clipboard-copy value="21d44af88ea5e606143715602c338aea963f4044" tabindex="-1" id="item-dc6fefe9-ff5c-44c9-ac0e-fb99ba24c927" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
         <span class="ActionListItem-visual ActionListItem-visual--leading">
           <svg aria-hidden="true" data-component="Octicon" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-copy">
     <path d="M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 0 1 0 1.5h-1.5a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-1.5a.75.75 0 0 1 1.5 0v1.5A1.75 1.75 0 0 1 9.25 16h-7.5A1.75 1.75 0 0 1 0 14.25Z"></path><path d="M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0 1 14.25 11h-7.5A1.75 1.75 0 0 1 5 9.25Zm1.75-.25a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-7.5a.25.25 0 0 0-.25-.25Z"></path>
@@ -1757,7 +1757,7 @@
         <li data-targets="action-list.items" role="none" data-view-component="true" class="ActionListItem">
     
     
-    <a tabindex="-1" id="item-00755d58-8e8c-44f3-a47b-7de85f35e87a" href="/quarkiverse/quarkus-cxf/tree/21d44af88ea5e606143715602c338aea963f4044" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
+    <a tabindex="-1" id="item-420c9d1b-0043-46fb-b0bb-aedd42f3d8ff" href="/quarkiverse/quarkus-cxf/tree/21d44af88ea5e606143715602c338aea963f4044" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
         <span class="ActionListItem-visual ActionListItem-visual--leading">
           <svg aria-hidden="true" data-component="Octicon" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-code">
     <path d="m11.28 3.22 4.25 4.25a.75.75 0 0 1 0 1.06l-4.25 4.25a.749.749 0 0 1-1.275-.326.749.749 0 0 1 .215-.734L13.94 8l-3.72-3.72a.749.749 0 0 1 .326-1.275.749.749 0 0 1 .734.215Zm-6.56 0a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042L2.06 8l3.72 3.72a.749.749 0 0 1-.326 1.275.749.749 0 0 1-.734-.215L.47 8.53a.75.75 0 0 1 0-1.06Z"></path>
@@ -1789,30 +1789,30 @@
     <path d="M13.78 4.22a.75.75 0 0 1 0 1.06l-7.25 7.25a.75.75 0 0 1-1.06 0L2.22 9.28a.751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018L6 10.94l6.72-6.72a.75.75 0 0 1 1.06 0Z"></path>
 </svg>
 </clipboard-copy>  <div aria-live="polite" aria-atomic="true" class="sr-only" data-clipboard-copy-feedback></div>
-</span><tool-tip id="tooltip-d9b660a9-7ece-4ffe-b4ce-8d017c45646a" for="copy-commit-21d44af88ea5e606143715602c338aea963f4044" popover="manual" data-direction="s" data-type="description" data-view-component="true" class="sr-only position-absolute">Copy the full SHA</tool-tip>
+</span><tool-tip id="tooltip-07b8b119-1f64-463e-a72b-0760e6f2f1f9" for="copy-commit-21d44af88ea5e606143715602c338aea963f4044" popover="manual" data-direction="s" data-type="description" data-view-component="true" class="sr-only position-absolute">Copy the full SHA</tool-tip>
 
     </div>
     <div>
       <a id="commit-details-21d44af88ea5e606143715602c338aea963f4044" href="/quarkiverse/quarkus-cxf/commit/21d44af88ea5e606143715602c338aea963f4044" data-view-component="true" class="Button--secondary Button--small Button text-mono f6">  <span class="Button-content">
     <span class="Button-label">21d44af</span>
   </span>
-</a><tool-tip id="tooltip-d9af5c19-e4e4-49e6-bb66-d989728c1c67" for="commit-details-21d44af88ea5e606143715602c338aea963f4044" popover="manual" data-direction="s" data-type="description" data-view-component="true" class="sr-only position-absolute">View commit details</tool-tip>
+</a><tool-tip id="tooltip-358e96d0-c9a3-44ab-8bed-0088b8fd5557" for="commit-details-21d44af88ea5e606143715602c338aea963f4044" popover="manual" data-direction="s" data-type="description" data-view-component="true" class="sr-only position-absolute">View commit details</tool-tip>
 
     </div>
 </div>
     <div data-view-component="true" class="ButtonGroup d-none d-sm-flex">
     <div>
-      <a id="history-link-21d44af88ea5e606143715602c338aea963f4044" href="/quarkiverse/quarkus-cxf/tree/21d44af88ea5e606143715602c338aea963f4044" aria-labelledby="tooltip-c01f5c98-919c-41ea-ab5b-dcbae2d13805" data-view-component="true" class="Button Button--iconOnly Button--secondary Button--small">  <svg aria-hidden="true" data-component="Octicon" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-code Button-visual">
+      <a id="history-link-21d44af88ea5e606143715602c338aea963f4044" href="/quarkiverse/quarkus-cxf/tree/21d44af88ea5e606143715602c338aea963f4044" aria-labelledby="tooltip-a5d3f0b2-8b91-4d08-8bf0-4631dfa90732" data-view-component="true" class="Button Button--iconOnly Button--secondary Button--small">  <svg aria-hidden="true" data-component="Octicon" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-code Button-visual">
     <path d="m11.28 3.22 4.25 4.25a.75.75 0 0 1 0 1.06l-4.25 4.25a.749.749 0 0 1-1.275-.326.749.749 0 0 1 .215-.734L13.94 8l-3.72-3.72a.749.749 0 0 1 .326-1.275.749.749 0 0 1 .734.215Zm-6.56 0a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042L2.06 8l3.72 3.72a.749.749 0 0 1-.326 1.275.749.749 0 0 1-.734-.215L.47 8.53a.75.75 0 0 1 0-1.06Z"></path>
 </svg>
-</a><tool-tip id="tooltip-c01f5c98-919c-41ea-ab5b-dcbae2d13805" for="history-link-21d44af88ea5e606143715602c338aea963f4044" popover="manual" data-direction="s" data-type="label" data-view-component="true" class="sr-only position-absolute">Browse the repository at this point in the history</tool-tip>
+</a><tool-tip id="tooltip-a5d3f0b2-8b91-4d08-8bf0-4631dfa90732" for="history-link-21d44af88ea5e606143715602c338aea963f4044" popover="manual" data-direction="s" data-type="label" data-view-component="true" class="sr-only position-absolute">Browse the repository at this point in the history</tool-tip>
 
     </div>
 </div>  </div>
 </li>
 
             <li class="Box-row Box-row--focus-gray mt-0 d-flex js-commits-list-item js-navigation-item"
-    data-channel="eyJjIjoicmVwbzozMDgwODM1Mjk6Y29tbWl0OmQ2ZTExYjg1YzU5ODE0YWVkM2Q5NDUwMTM5ZjRlYjgwMDZjYmJiN2MiLCJ0IjoxNzk1NjExNjEwfQ==--d6612db39f88509dcb58a9d0973ebe02aed2109ddddb1b4f148ead24a751a695"
+    data-channel="eyJjIjoicmVwbzozMDgwODM1Mjk6Y29tbWl0OmQ2ZTExYjg1YzU5ODE0YWVkM2Q5NDUwMTM5ZjRlYjgwMDZjYmJiN2MiLCJ0IjoxNzk1NzgyNDIyfQ==--d2ecc955fb755b0310cb9eb9dc7e60d7c91f0e575021c87fd87fe928b8f016ad"
     data-url="/quarkiverse/quarkus-cxf/commits/d6e11b85c59814aed3d9450139f4eb8006cbbb7c/commits_list_item"
     
     
@@ -1859,22 +1859,22 @@
 
     <action-menu data-select-variant="none" data-view-component="true" class="d-flex d-sm-none">
   <focus-group direction="vertical" mnemonics retain>
-    <button id="action-menu-b42170a0-21ed-4c26-8775-bc6303e2187e-button" popovertarget="action-menu-b42170a0-21ed-4c26-8775-bc6303e2187e-overlay" aria-controls="action-menu-b42170a0-21ed-4c26-8775-bc6303e2187e-list" aria-haspopup="true" aria-labelledby="tooltip-536a3a33-6027-4f8f-91f9-0703ff735627" type="button" data-view-component="true" class="Button Button--iconOnly Button--invisible Button--small">  <svg aria-hidden="true" data-component="Octicon" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-kebab-horizontal Button-visual">
+    <button id="action-menu-7e9ed6ec-8c10-4967-9cf5-b0a43c3ccef4-button" popovertarget="action-menu-7e9ed6ec-8c10-4967-9cf5-b0a43c3ccef4-overlay" aria-controls="action-menu-7e9ed6ec-8c10-4967-9cf5-b0a43c3ccef4-list" aria-haspopup="true" aria-labelledby="tooltip-49dbd1f9-2eb3-4c1d-b2d0-6902fcd51e6e" type="button" data-view-component="true" class="Button Button--iconOnly Button--invisible Button--small">  <svg aria-hidden="true" data-component="Octicon" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-kebab-horizontal Button-visual">
     <path d="M8 9a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3ZM1.5 9a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3Zm13 0a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3Z"></path>
 </svg>
-</button><tool-tip id="tooltip-536a3a33-6027-4f8f-91f9-0703ff735627" for="action-menu-b42170a0-21ed-4c26-8775-bc6303e2187e-button" popover="manual" data-direction="s" data-type="label" data-view-component="true" class="sr-only position-absolute">Configuration menu</tool-tip>
+</button><tool-tip id="tooltip-49dbd1f9-2eb3-4c1d-b2d0-6902fcd51e6e" for="action-menu-7e9ed6ec-8c10-4967-9cf5-b0a43c3ccef4-button" popover="manual" data-direction="s" data-type="label" data-view-component="true" class="sr-only position-absolute">Configuration menu</tool-tip>
 
 
-<anchored-position data-target="action-menu.overlay" id="action-menu-b42170a0-21ed-4c26-8775-bc6303e2187e-overlay" anchor="action-menu-b42170a0-21ed-4c26-8775-bc6303e2187e-button" align="start" side="outside-bottom" anchor-offset="normal" popover="auto" data-view-component="true">
+<anchored-position data-target="action-menu.overlay" id="action-menu-7e9ed6ec-8c10-4967-9cf5-b0a43c3ccef4-overlay" anchor="action-menu-7e9ed6ec-8c10-4967-9cf5-b0a43c3ccef4-button" align="start" side="outside-bottom" anchor-offset="normal" popover="auto" data-view-component="true">
   <div data-view-component="true" class="Overlay Overlay--size-auto">
     
       <div data-view-component="true" class="Overlay-body Overlay-body--paddingNone">          <action-list>
   <div data-view-component="true">
-    <ul aria-labelledby="action-menu-b42170a0-21ed-4c26-8775-bc6303e2187e-button" id="action-menu-b42170a0-21ed-4c26-8775-bc6303e2187e-list" role="menu" data-view-component="true" class="ActionListWrap--inset ActionListWrap">
+    <ul aria-labelledby="action-menu-7e9ed6ec-8c10-4967-9cf5-b0a43c3ccef4-button" id="action-menu-7e9ed6ec-8c10-4967-9cf5-b0a43c3ccef4-list" role="menu" data-view-component="true" class="ActionListWrap--inset ActionListWrap">
         <li data-targets="action-list.items" role="none" data-view-component="true" class="ActionListItem">
     
     
-    <a tabindex="-1" id="item-7b85382f-025b-4370-b9f4-c849df9c6e75" href="/quarkiverse/quarkus-cxf/commit/d6e11b85c59814aed3d9450139f4eb8006cbbb7c" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
+    <a tabindex="-1" id="item-f26b4cf1-0d40-409d-b3a9-ebd21bb74b25" href="/quarkiverse/quarkus-cxf/commit/d6e11b85c59814aed3d9450139f4eb8006cbbb7c" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
         <span class="ActionListItem-visual ActionListItem-visual--leading">
           <svg aria-hidden="true" data-component="Octicon" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-git-commit">
     <path d="M11.93 8.5a4.002 4.002 0 0 1-7.86 0H.75a.75.75 0 0 1 0-1.5h3.32a4.002 4.002 0 0 1 7.86 0h3.32a.75.75 0 0 1 0 1.5Zm-1.43-.75a2.5 2.5 0 1 0-5 0 2.5 2.5 0 0 0 5 0Z"></path>
@@ -1890,7 +1890,7 @@
         <li data-targets="action-list.items" role="none" data-view-component="true" class="ActionListItem">
     
     
-    <clipboard-copy value="d6e11b85c59814aed3d9450139f4eb8006cbbb7c" tabindex="-1" id="item-ebbd5f4f-bcae-4246-bb4c-e0663c40715d" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
+    <clipboard-copy value="d6e11b85c59814aed3d9450139f4eb8006cbbb7c" tabindex="-1" id="item-12c831f3-2a0f-4153-b316-23ee6b064ed3" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
         <span class="ActionListItem-visual ActionListItem-visual--leading">
           <svg aria-hidden="true" data-component="Octicon" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-copy">
     <path d="M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 0 1 0 1.5h-1.5a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-1.5a.75.75 0 0 1 1.5 0v1.5A1.75 1.75 0 0 1 9.25 16h-7.5A1.75 1.75 0 0 1 0 14.25Z"></path><path d="M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0 1 14.25 11h-7.5A1.75 1.75 0 0 1 5 9.25Zm1.75-.25a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-7.5a.25.25 0 0 0-.25-.25Z"></path>
@@ -1906,7 +1906,7 @@
         <li data-targets="action-list.items" role="none" data-view-component="true" class="ActionListItem">
     
     
-    <a tabindex="-1" id="item-9c4622f7-5e4c-4ee3-bf48-18b6d6e9e4cd" href="/quarkiverse/quarkus-cxf/tree/d6e11b85c59814aed3d9450139f4eb8006cbbb7c" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
+    <a tabindex="-1" id="item-2993018c-a11c-43c4-88f0-6559d28681b5" href="/quarkiverse/quarkus-cxf/tree/d6e11b85c59814aed3d9450139f4eb8006cbbb7c" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
         <span class="ActionListItem-visual ActionListItem-visual--leading">
           <svg aria-hidden="true" data-component="Octicon" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-code">
     <path d="m11.28 3.22 4.25 4.25a.75.75 0 0 1 0 1.06l-4.25 4.25a.749.749 0 0 1-1.275-.326.749.749 0 0 1 .215-.734L13.94 8l-3.72-3.72a.749.749 0 0 1 .326-1.275.749.749 0 0 1 .734.215Zm-6.56 0a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042L2.06 8l3.72 3.72a.749.749 0 0 1-.326 1.275.749.749 0 0 1-.734-.215L.47 8.53a.75.75 0 0 1 0-1.06Z"></path>
@@ -1938,30 +1938,30 @@
     <path d="M13.78 4.22a.75.75 0 0 1 0 1.06l-7.25 7.25a.75.75 0 0 1-1.06 0L2.22 9.28a.751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018L6 10.94l6.72-6.72a.75.75 0 0 1 1.06 0Z"></path>
 </svg>
 </clipboard-copy>  <div aria-live="polite" aria-atomic="true" class="sr-only" data-clipboard-copy-feedback></div>
-</span><tool-tip id="tooltip-560649f5-a60d-4158-9767-ddce754e1b70" for="copy-commit-d6e11b85c59814aed3d9450139f4eb8006cbbb7c" popover="manual" data-direction="s" data-type="description" data-view-component="true" class="sr-only position-absolute">Copy the full SHA</tool-tip>
+</span><tool-tip id="tooltip-55001255-2cf3-4524-8e40-22490425f832" for="copy-commit-d6e11b85c59814aed3d9450139f4eb8006cbbb7c" popover="manual" data-direction="s" data-type="description" data-view-component="true" class="sr-only position-absolute">Copy the full SHA</tool-tip>
 
     </div>
     <div>
       <a id="commit-details-d6e11b85c59814aed3d9450139f4eb8006cbbb7c" href="/quarkiverse/quarkus-cxf/commit/d6e11b85c59814aed3d9450139f4eb8006cbbb7c" data-view-component="true" class="Button--secondary Button--small Button text-mono f6">  <span class="Button-content">
     <span class="Button-label">d6e11b8</span>
   </span>
-</a><tool-tip id="tooltip-9153912d-9df2-4453-a3e2-7f862756644e" for="commit-details-d6e11b85c59814aed3d9450139f4eb8006cbbb7c" popover="manual" data-direction="s" data-type="description" data-view-component="true" class="sr-only position-absolute">View commit details</tool-tip>
+</a><tool-tip id="tooltip-6c60b4bc-20a4-47a5-bbf2-1ca5bdabfdba" for="commit-details-d6e11b85c59814aed3d9450139f4eb8006cbbb7c" popover="manual" data-direction="s" data-type="description" data-view-component="true" class="sr-only position-absolute">View commit details</tool-tip>
 
     </div>
 </div>
     <div data-view-component="true" class="ButtonGroup d-none d-sm-flex">
     <div>
-      <a id="history-link-d6e11b85c59814aed3d9450139f4eb8006cbbb7c" href="/quarkiverse/quarkus-cxf/tree/d6e11b85c59814aed3d9450139f4eb8006cbbb7c" aria-labelledby="tooltip-bb3fcad3-97e8-49fa-8d7d-d31bf5005758" data-view-component="true" class="Button Button--iconOnly Button--secondary Button--small">  <svg aria-hidden="true" data-component="Octicon" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-code Button-visual">
+      <a id="history-link-d6e11b85c59814aed3d9450139f4eb8006cbbb7c" href="/quarkiverse/quarkus-cxf/tree/d6e11b85c59814aed3d9450139f4eb8006cbbb7c" aria-labelledby="tooltip-488853a3-4dbb-4c04-b4fe-0021b171547c" data-view-component="true" class="Button Button--iconOnly Button--secondary Button--small">  <svg aria-hidden="true" data-component="Octicon" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-code Button-visual">
     <path d="m11.28 3.22 4.25 4.25a.75.75 0 0 1 0 1.06l-4.25 4.25a.749.749 0 0 1-1.275-.326.749.749 0 0 1 .215-.734L13.94 8l-3.72-3.72a.749.749 0 0 1 .326-1.275.749.749 0 0 1 .734.215Zm-6.56 0a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042L2.06 8l3.72 3.72a.749.749 0 0 1-.326 1.275.749.749 0 0 1-.734-.215L.47 8.53a.75.75 0 0 1 0-1.06Z"></path>
 </svg>
-</a><tool-tip id="tooltip-bb3fcad3-97e8-49fa-8d7d-d31bf5005758" for="history-link-d6e11b85c59814aed3d9450139f4eb8006cbbb7c" popover="manual" data-direction="s" data-type="label" data-view-component="true" class="sr-only position-absolute">Browse the repository at this point in the history</tool-tip>
+</a><tool-tip id="tooltip-488853a3-4dbb-4c04-b4fe-0021b171547c" for="history-link-d6e11b85c59814aed3d9450139f4eb8006cbbb7c" popover="manual" data-direction="s" data-type="label" data-view-component="true" class="sr-only position-absolute">Browse the repository at this point in the history</tool-tip>
 
     </div>
 </div>  </div>
 </li>
 
             <li class="Box-row Box-row--focus-gray mt-0 d-flex js-commits-list-item js-navigation-item"
-    data-channel="eyJjIjoicmVwbzozMDgwODM1Mjk6Y29tbWl0OjAxZjg1OWQzMTBkZTNkNzIzNDdmOTRjODNiOTQxOWE4MzY0YmZmZjIiLCJ0IjoxNzk1NjExNjEwfQ==--bb322ad9060ef8e3d6ca406d65de84db7dfaa4f98e8ff55ed031f91ab9e1ffe0"
+    data-channel="eyJjIjoicmVwbzozMDgwODM1Mjk6Y29tbWl0OjAxZjg1OWQzMTBkZTNkNzIzNDdmOTRjODNiOTQxOWE4MzY0YmZmZjIiLCJ0IjoxNzk1NzgyNDIyfQ==--e8d9a99a5d561fb80a31fa214486cd7ae5b21c92b8e68a05fd6287e873a1d0e2"
     data-url="/quarkiverse/quarkus-cxf/commits/01f859d310de3d72347f94c83b9419a8364bfff2/commits_list_item"
     
     
@@ -2008,22 +2008,22 @@
 
     <action-menu data-select-variant="none" data-view-component="true" class="d-flex d-sm-none">
   <focus-group direction="vertical" mnemonics retain>
-    <button id="action-menu-f0b5d38c-7ff0-472e-adcb-0a0cfd4345cb-button" popovertarget="action-menu-f0b5d38c-7ff0-472e-adcb-0a0cfd4345cb-overlay" aria-controls="action-menu-f0b5d38c-7ff0-472e-adcb-0a0cfd4345cb-list" aria-haspopup="true" aria-labelledby="tooltip-cca57174-389a-4665-a41f-11490cc287dd" type="button" data-view-component="true" class="Button Button--iconOnly Button--invisible Button--small">  <svg aria-hidden="true" data-component="Octicon" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-kebab-horizontal Button-visual">
+    <button id="action-menu-1a72e6b5-c144-4ef5-933d-a6fc86478f2d-button" popovertarget="action-menu-1a72e6b5-c144-4ef5-933d-a6fc86478f2d-overlay" aria-controls="action-menu-1a72e6b5-c144-4ef5-933d-a6fc86478f2d-list" aria-haspopup="true" aria-labelledby="tooltip-7a39587b-55fb-4503-b671-c45a634b379f" type="button" data-view-component="true" class="Button Button--iconOnly Button--invisible Button--small">  <svg aria-hidden="true" data-component="Octicon" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-kebab-horizontal Button-visual">
     <path d="M8 9a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3ZM1.5 9a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3Zm13 0a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3Z"></path>
 </svg>
-</button><tool-tip id="tooltip-cca57174-389a-4665-a41f-11490cc287dd" for="action-menu-f0b5d38c-7ff0-472e-adcb-0a0cfd4345cb-button" popover="manual" data-direction="s" data-type="label" data-view-component="true" class="sr-only position-absolute">Configuration menu</tool-tip>
+</button><tool-tip id="tooltip-7a39587b-55fb-4503-b671-c45a634b379f" for="action-menu-1a72e6b5-c144-4ef5-933d-a6fc86478f2d-button" popover="manual" data-direction="s" data-type="label" data-view-component="true" class="sr-only position-absolute">Configuration menu</tool-tip>
 
 
-<anchored-position data-target="action-menu.overlay" id="action-menu-f0b5d38c-7ff0-472e-adcb-0a0cfd4345cb-overlay" anchor="action-menu-f0b5d38c-7ff0-472e-adcb-0a0cfd4345cb-button" align="start" side="outside-bottom" anchor-offset="normal" popover="auto" data-view-component="true">
+<anchored-position data-target="action-menu.overlay" id="action-menu-1a72e6b5-c144-4ef5-933d-a6fc86478f2d-overlay" anchor="action-menu-1a72e6b5-c144-4ef5-933d-a6fc86478f2d-button" align="start" side="outside-bottom" anchor-offset="normal" popover="auto" data-view-component="true">
   <div data-view-component="true" class="Overlay Overlay--size-auto">
     
       <div data-view-component="true" class="Overlay-body Overlay-body--paddingNone">          <action-list>
   <div data-view-component="true">
-    <ul aria-labelledby="action-menu-f0b5d38c-7ff0-472e-adcb-0a0cfd4345cb-button" id="action-menu-f0b5d38c-7ff0-472e-adcb-0a0cfd4345cb-list" role="menu" data-view-component="true" class="ActionListWrap--inset ActionListWrap">
+    <ul aria-labelledby="action-menu-1a72e6b5-c144-4ef5-933d-a6fc86478f2d-button" id="action-menu-1a72e6b5-c144-4ef5-933d-a6fc86478f2d-list" role="menu" data-view-component="true" class="ActionListWrap--inset ActionListWrap">
         <li data-targets="action-list.items" role="none" data-view-component="true" class="ActionListItem">
     
     
-    <a tabindex="-1" id="item-65c5df20-0dba-4a54-9c89-060923674003" href="/quarkiverse/quarkus-cxf/commit/01f859d310de3d72347f94c83b9419a8364bfff2" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
+    <a tabindex="-1" id="item-e87a7a72-bf22-450f-83cb-0f6ac8971371" href="/quarkiverse/quarkus-cxf/commit/01f859d310de3d72347f94c83b9419a8364bfff2" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
         <span class="ActionListItem-visual ActionListItem-visual--leading">
           <svg aria-hidden="true" data-component="Octicon" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-git-commit">
     <path d="M11.93 8.5a4.002 4.002 0 0 1-7.86 0H.75a.75.75 0 0 1 0-1.5h3.32a4.002 4.002 0 0 1 7.86 0h3.32a.75.75 0 0 1 0 1.5Zm-1.43-.75a2.5 2.5 0 1 0-5 0 2.5 2.5 0 0 0 5 0Z"></path>
@@ -2039,7 +2039,7 @@
         <li data-targets="action-list.items" role="none" data-view-component="true" class="ActionListItem">
     
     
-    <clipboard-copy value="01f859d310de3d72347f94c83b9419a8364bfff2" tabindex="-1" id="item-9b82365a-bf3a-48ec-921d-ecd7b955a76c" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
+    <clipboard-copy value="01f859d310de3d72347f94c83b9419a8364bfff2" tabindex="-1" id="item-3152e6d2-a3d5-4be8-8e01-2ee5e27f7f03" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
         <span class="ActionListItem-visual ActionListItem-visual--leading">
           <svg aria-hidden="true" data-component="Octicon" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-copy">
     <path d="M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 0 1 0 1.5h-1.5a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-1.5a.75.75 0 0 1 1.5 0v1.5A1.75 1.75 0 0 1 9.25 16h-7.5A1.75 1.75 0 0 1 0 14.25Z"></path><path d="M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0 1 14.25 11h-7.5A1.75 1.75 0 0 1 5 9.25Zm1.75-.25a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-7.5a.25.25 0 0 0-.25-.25Z"></path>
@@ -2055,7 +2055,7 @@
         <li data-targets="action-list.items" role="none" data-view-component="true" class="ActionListItem">
     
     
-    <a tabindex="-1" id="item-7a1192e7-37f4-4ff5-a119-105ded45c69e" href="/quarkiverse/quarkus-cxf/tree/01f859d310de3d72347f94c83b9419a8364bfff2" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
+    <a tabindex="-1" id="item-ba54e039-4cb0-4fe1-b599-90e7b9c3d249" href="/quarkiverse/quarkus-cxf/tree/01f859d310de3d72347f94c83b9419a8364bfff2" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
         <span class="ActionListItem-visual ActionListItem-visual--leading">
           <svg aria-hidden="true" data-component="Octicon" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-code">
     <path d="m11.28 3.22 4.25 4.25a.75.75 0 0 1 0 1.06l-4.25 4.25a.749.749 0 0 1-1.275-.326.749.749 0 0 1 .215-.734L13.94 8l-3.72-3.72a.749.749 0 0 1 .326-1.275.749.749 0 0 1 .734.215Zm-6.56 0a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042L2.06 8l3.72 3.72a.749.749 0 0 1-.326 1.275.749.749 0 0 1-.734-.215L.47 8.53a.75.75 0 0 1 0-1.06Z"></path>
@@ -2087,23 +2087,23 @@
     <path d="M13.78 4.22a.75.75 0 0 1 0 1.06l-7.25 7.25a.75.75 0 0 1-1.06 0L2.22 9.28a.751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018L6 10.94l6.72-6.72a.75.75 0 0 1 1.06 0Z"></path>
 </svg>
 </clipboard-copy>  <div aria-live="polite" aria-atomic="true" class="sr-only" data-clipboard-copy-feedback></div>
-</span><tool-tip id="tooltip-d088f1d9-53b6-49cc-b1e1-de1214108f05" for="copy-commit-01f859d310de3d72347f94c83b9419a8364bfff2" popover="manual" data-direction="s" data-type="description" data-view-component="true" class="sr-only position-absolute">Copy the full SHA</tool-tip>
+</span><tool-tip id="tooltip-9453d0ff-7d24-4078-ae4a-6a51c725117c" for="copy-commit-01f859d310de3d72347f94c83b9419a8364bfff2" popover="manual" data-direction="s" data-type="description" data-view-component="true" class="sr-only position-absolute">Copy the full SHA</tool-tip>
 
     </div>
     <div>
       <a id="commit-details-01f859d310de3d72347f94c83b9419a8364bfff2" href="/quarkiverse/quarkus-cxf/commit/01f859d310de3d72347f94c83b9419a8364bfff2" data-view-component="true" class="Button--secondary Button--small Button text-mono f6">  <span class="Button-content">
     <span class="Button-label">01f859d</span>
   </span>
-</a><tool-tip id="tooltip-694d4827-845c-440a-862a-a3fc2e06196a" for="commit-details-01f859d310de3d72347f94c83b9419a8364bfff2" popover="manual" data-direction="s" data-type="description" data-view-component="true" class="sr-only position-absolute">View commit details</tool-tip>
+</a><tool-tip id="tooltip-333a6670-9e49-46bc-b4b1-32c899aed4f1" for="commit-details-01f859d310de3d72347f94c83b9419a8364bfff2" popover="manual" data-direction="s" data-type="description" data-view-component="true" class="sr-only position-absolute">View commit details</tool-tip>
 
     </div>
 </div>
     <div data-view-component="true" class="ButtonGroup d-none d-sm-flex">
     <div>
-      <a id="history-link-01f859d310de3d72347f94c83b9419a8364bfff2" href="/quarkiverse/quarkus-cxf/tree/01f859d310de3d72347f94c83b9419a8364bfff2" aria-labelledby="tooltip-471d872c-1d5e-4e77-8d4a-e2429a3c0f2f" data-view-component="true" class="Button Button--iconOnly Button--secondary Button--small">  <svg aria-hidden="true" data-component="Octicon" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-code Button-visual">
+      <a id="history-link-01f859d310de3d72347f94c83b9419a8364bfff2" href="/quarkiverse/quarkus-cxf/tree/01f859d310de3d72347f94c83b9419a8364bfff2" aria-labelledby="tooltip-14cead1b-a07a-437b-bf33-c61f2e076286" data-view-component="true" class="Button Button--iconOnly Button--secondary Button--small">  <svg aria-hidden="true" data-component="Octicon" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-code Button-visual">
     <path d="m11.28 3.22 4.25 4.25a.75.75 0 0 1 0 1.06l-4.25 4.25a.749.749 0 0 1-1.275-.326.749.749 0 0 1 .215-.734L13.94 8l-3.72-3.72a.749.749 0 0 1 .326-1.275.749.749 0 0 1 .734.215Zm-6.56 0a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042L2.06 8l3.72 3.72a.749.749 0 0 1-.326 1.275.749.749 0 0 1-.734-.215L.47 8.53a.75.75 0 0 1 0-1.06Z"></path>
 </svg>
-</a><tool-tip id="tooltip-471d872c-1d5e-4e77-8d4a-e2429a3c0f2f" for="history-link-01f859d310de3d72347f94c83b9419a8364bfff2" popover="manual" data-direction="s" data-type="label" data-view-component="true" class="sr-only position-absolute">Browse the repository at this point in the history</tool-tip>
+</a><tool-tip id="tooltip-14cead1b-a07a-437b-bf33-c61f2e076286" for="history-link-01f859d310de3d72347f94c83b9419a8364bfff2" popover="manual" data-direction="s" data-type="label" data-view-component="true" class="sr-only position-absolute">Browse the repository at this point in the history</tool-tip>
 
     </div>
 </div>  </div>
@@ -2116,7 +2116,7 @@
         </div>
 
   <div id="files_bucket" class="files-bucket " >
-    <include-fragment aria-label="Loading Files" src="/quarkiverse/quarkus-cxf/compare/file-list?range=3.23.0...3.23.1" data-nonce="v2:c146b189-5430-ee82-f4af-4af7380499f5" data-view-component="true">
+    <include-fragment aria-label="Loading Files" src="/quarkiverse/quarkus-cxf/compare/file-list?range=3.23.0...3.23.1" data-nonce="v2:abba5f94-63a1-ff00-f199-71bcb4adc2ec" data-view-component="true">
   
       <div data-hide-on-error>
         <span data-view-component="true">

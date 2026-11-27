@@ -62,7 +62,7 @@
 
 
     
-<meta id="atlassian-token" name="atlassian-token" content="A5KQ-2QAV-T4JA-FDED_9ad4751ed93fdbcfa3fd01eb9a7eb13e668ad31f_lout">
+<meta id="atlassian-token" name="atlassian-token" content="A5KQ-2QAV-T4JA-FDED_9d06e91437f124d5212d430e85ef4e08ac38e296_lout">
 
 
 
@@ -141,7 +141,7 @@ window.WRM=window.WRM||{};window.WRM._unparsedData=window.WRM._unparsedData||{};
 WRM._unparsedData["project-key"]="\u0022CXF\u0022";
 WRM._unparsedData["project-name"]="\u0022CXF\u0022";
 WRM._unparsedData["projectType"]="\u0022software\u0022";
-WRM._unparsedData["jira.request.correlation-id"]="\u0022b1ece78437a274\u0022";
+WRM._unparsedData["jira.request.correlation-id"]="\u0022434df2554054af\u0022";
 WRM._unparsedData["com.atlassian.jira.jira-projects-issue-navigator:project-filters"]="[]";
 WRM._unparsedData["com.atlassian.jira.jira-projects-issue-navigator:can-create-issues"]="false";
 WRM._unparsedData["com.atlassian.jira.jira-projects-issue-navigator:default-filter-priority"]="[\u0022allopenissues\u0022,\u0022allissues\u0022]";
@@ -806,25 +806,25 @@ if(window.WRM._dataArrived)window.WRM._dataArrived();</script>
 
 <form id="jira_request_timing_info" class="dont-default-focus" >
 	<fieldset class="parameters hidden">
-		<input type="hidden" title="jira.request.start.millis" value="1795611586283" />
-		<input type="hidden" title="jira.request.server.time" value="79" />
-		<input type="hidden" title="jira.request.id" value="779x386102177x22" />
-		<input type="hidden" title="jira.session.expiry.time" value="1795611646044" />
+		<input type="hidden" title="jira.request.start.millis" value="1795782406356" />
+		<input type="hidden" title="jira.request.server.time" value="77" />
+		<input type="hidden" title="jira.request.id" value="746x420670300x13" />
+		<input type="hidden" title="jira.session.expiry.time" value="1795782466146" />
 		<input type="hidden" title="jira.session.expiry.in.mins" value="0" />
-		<input id="jiraConcurrentRequests" type="hidden" name="jira.request.concurrent.requests" value="21" />
-		<input type="hidden" title="db.reads.time.in.ms" value="3" />
+		<input id="jiraConcurrentRequests" type="hidden" name="jira.request.concurrent.requests" value="14" />
+		<input type="hidden" title="db.reads.time.in.ms" value="2" />
 		<input type="hidden" title="db.conns.time.in.ms" value="5" />
 	</fieldset>
 </form>
 <!--
-	                 REQUEST ID : 779x386102177x22
-	          REQUEST TIMESTAMP : [25/Nov/2026:12:59:46 +0000]
-	               REQUEST TIME : 0.0790
-	                 ASESSIONID : zzzcvf
-	        CONCURRENT REQUESTS : 21
+	                 REQUEST ID : 746x420670300x13
+	          REQUEST TIMESTAMP : [27/Nov/2026:12:26:46 +0000]
+	               REQUEST TIME : 0.0770
+	                 ASESSIONID : 1stj3aj
+	        CONCURRENT REQUESTS : 14
 
-	                      db.reads : OpSnapshot{name='db.reads', invocationCount=20, elapsedTotal=3392640, elapsedMin=86012, elapsedMax=326485, resultSetSize=0, cpuTotal=0, cpuMin=0, cpuMax=0}
-	                      db.conns : OpSnapshot{name='db.conns', invocationCount=28, elapsedTotal=5981322, elapsedMin=99557, elapsedMax=466368, resultSetSize=0, cpuTotal=0, cpuMin=0, cpuMax=0}
+	                      db.reads : OpSnapshot{name='db.reads', invocationCount=20, elapsedTotal=2958764, elapsedMin=84469, elapsedMax=272142, resultSetSize=0, cpuTotal=0, cpuMin=0, cpuMax=0}
+	                      db.conns : OpSnapshot{name='db.conns', invocationCount=28, elapsedTotal=5617280, elapsedMin=99628, elapsedMax=347966, resultSetSize=0, cpuTotal=0, cpuMin=0, cpuMax=0}
 -->
 
 </body>

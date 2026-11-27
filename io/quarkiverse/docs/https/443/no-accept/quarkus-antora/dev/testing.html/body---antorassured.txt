@@ -362,6 +362,9 @@
             <a href="../../quarkus-cxf/dev/index.html">dev</a>
           </li>
           <li class="version">
+            <a href="../../quarkus-cxf/3.40/index.html">3.40</a>
+          </li>
+          <li class="version">
             <a href="../../quarkus-cxf/3.33/index.html">3.33</a>
           </li>
           <li class="version">
@@ -1549,7 +1552,7 @@
             <a href="../../quarkus-wiremock/dev/index.html">dev</a>
           </li>
           <li class="version">
-            <a href="../../quarkus-wiremock/0.x/index.html">0.x</a>
+            <a href="../../quarkus-wiremock/1.x/index.html">1.x</a>
           </li>
         </ul>
       </li>

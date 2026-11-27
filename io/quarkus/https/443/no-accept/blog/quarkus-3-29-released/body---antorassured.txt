@@ -46,7 +46,7 @@
     <link rel="shortcut icon" type="image/png" href="/favicon.ico" >
     <link rel="stylesheet" href="/guides/stylesheet/config.css" />
     <script type="module" src="/static/bundle/app-UNQQD6ED.js"></script>
-      <link rel="stylesheet" href="/static/bundle/app-HXHLKKAD.css" />
+      <link rel="stylesheet" href="/static/bundle/app-63KZGM2H.css" />
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v6.5.2/css/all.css" crossorigin="anonymous">
     <link rel="alternate" type="application/rss+xml"  href="/feed.xml" title="Quarkus - Supersonic Subatomic Java">
 
@@ -332,7 +332,7 @@ Many many thanks to each and everyone of them.</p>
   <a class="share-reddit" href="http://www.reddit.com/submit?url=https://quarkus.io/blog/quarkus-3-29-released/" onclick="window.open(this.href, 'pop-up', 'left=20,top=20,width=900,height=500,toolbar=1,resizable=0'); return false;" title="Share on Reddit" >
     <i class="fa-brands fa-square-reddit fa-xl"></i>
   </a>
-  <a class="share-email" href="/cdn-cgi/l/email-protection#6c531f190e06090f18513d190d1e07191f4c5f425e554c414c21190018051c00094c0f0d0f04094c0e0d0f070902081f4c0d02084c3d1918094c282d3c4c08090e190b0b091e4c1f191c1c031e184a0d011c570e030815513d190d1e07191f4c5f425e554c414c21190018051c00094c0f0d0f04094c0e0d0f070902081f4c0d02084c3d1918094c282d3c4c08090e190b0b091e4c1f191c1c031e184c0418181c1f5643431d190d1e07191f420503430e00030b431d190d1e07191f415f415e55411e0900090d1f090843" title="Share via Email">
+  <a class="share-email" href="/cdn-cgi/l/email-protection#a29dd1d7c0c8c7c1d69ff3d7c3d0c9d7d182918c909b828f82efd7ced6cbd2cec782c1c3c1cac782c0c3c1c9c7ccc6d182c3ccc682f3d7d6c782e6e3f282c6c7c0d7c5c5c7d082d1d7d2d2cdd0d684c3cfd299c0cdc6db9ff3d7c3d0c9d7d182918c909b828f82efd7ced6cbd2cec782c1c3c1cac782c0c3c1c9c7ccc6d182c3ccc682f3d7d6c782e6e3f282c6c7c0d7c5c5c7d082d1d7d2d2cdd0d682cad6d6d2d1988d8dd3d7c3d0c9d7d18ccbcd8dc0cecdc58dd3d7c3d0c9d7d18f918f909b8fd0c7cec7c3d1c7c68d" title="Share via Email">
     <i class="fa-solid fa-envelope fa-xl"></i>
   </a>
 </div>

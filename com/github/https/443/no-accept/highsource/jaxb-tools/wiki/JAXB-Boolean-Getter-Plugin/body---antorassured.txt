@@ -53,27 +53,27 @@
 
     <link crossorigin="anonymous" media="all" rel="stylesheet" href="https://github.githubassets.com/assets/primer-primitives-7b6f781f48ff31c6.css" />
     <link crossorigin="anonymous" media="all" rel="stylesheet" href="https://github.githubassets.com/assets/primer-8b6d8039ccdd4132.css" />
-    <link crossorigin="anonymous" media="all" rel="stylesheet" href="https://github.githubassets.com/assets/global-af40a4a5125988a5.css" />
+    <link crossorigin="anonymous" media="all" rel="stylesheet" href="https://github.githubassets.com/assets/global-0205e15f8e92a107.css" />
     <link crossorigin="anonymous" media="all" rel="stylesheet" href="https://github.githubassets.com/assets/github-f73c7caa132ed70b.css" />
   <link crossorigin="anonymous" media="all" rel="stylesheet" href="https://github.githubassets.com/assets/repository-6faa8cb3b0c80e0a.css" />
 <link crossorigin="anonymous" media="all" rel="stylesheet" href="https://github.githubassets.com/assets/wiki-379e429354ca275c.css" />
 
   
 
-  <script type="application/json" id="client-env">{"locale":"en","featureFlags":["actions_caches_react_view","actions_enable_background_steps","actions_new_hosted_runner_image_select_sizes_and_versions","actions_workflows_react_toggle","agent_author_search_expansion","agent_author_search_expansion_ui_pulls","agent_sessions_ccr_review_effort","ai_resource_search","alternate_user_config_repo","billing_billable_licenses_complete_day","billing_billable_licenses_cost_center_bucket_fix","billing_budget_expiration","billing_cost_center_list_assigned_resources","billing_discount_threshold_notification","billing_shared_compute_usage","browser_stats_fixed_delivery_window","catalyst_lazy_define_indexed","code_quality_enablement_banner_targeting","code_quality_remove_preview","code_view_raf_sticky_lines","codespaces_prebuild_region_target_update","coding_agent_third_party_model_ui","collab_docs_chat_notifications","copilot-software-factories","copilot_agent_snippy","copilot_api_agentic_issue_marshal_yaml","copilot_automation_continuous_history","copilot_automation_repo_mcp_servers","copilot_automations_pagination","copilot_base_model_policy_row","copilot_chat_auto_mode_v2","copilot_chat_clear_model_selection_for_default_change","copilot_chat_fusion_auto_tiers","copilot_chat_vision_dotcom_chat_ga_gate","copilot_continue_in_github_mobile","copilot_css_textarea_autosize","copilot_custom_copilots","copilot_custom_copilots_feature_preview","copilot_duplicate_thread","copilot_extensions_removal_on_marketplace","copilot_fix_failed_workflows_all_skus","copilot_hide_hovercard","copilot_immersive_task_hyperlinking","copilot_mission_control_agent_merge_fix_ci","copilot_mission_control_agent_merge_resolve_conflicts","copilot_mission_control_automation_grouping","copilot_mission_control_awps_batching","copilot_mission_control_create_pull_request_client_tool","copilot_mission_control_create_repository_client_tool","copilot_mission_control_early_stop","copilot_mission_control_environments_web_kickoff","copilot_mission_control_hide_task_list_counts","copilot_mission_control_messaging_app_dm_steering","copilot_mission_control_needs_attention","copilot_mission_control_pinned_tasks","copilot_mission_control_reasoning_effort","copilot_mission_control_reuse_project_workspace","copilot_mission_control_sandbox_request_image_override","copilot_mission_control_session_client_attribution","copilot_mission_control_task_alive_updates","copilot_mission_control_task_route_preloading","copilot_mission_control_task_sharing","copilot_mission_control_use_api_gateway","copilot_org_policy_page_focus_mode","copilot_policy_ui_refresh","copilot_quick_chat_recent_artifact_sessions","copilot_share_active_subthread","copilot_spaces_ga","copilot_spaces_individual_policies_ga","copilot_swe_agent_authorization_status_ui","copilot_swe_agent_automation_completed_trigger","copilot_swe_agent_automation_failed_trigger","copilot_swe_agent_automation_repository_owned","copilot_swe_agent_automation_resource_scoped_writes","copilot_swe_agent_code_scanning_alert_trigger","copilot_swe_agent_dependabot_alert_trigger","copilot_swe_agent_discussion_comment_trigger","copilot_swe_agent_discussion_opened_trigger","copilot_swe_agent_discussion_updated_trigger","copilot_swe_agent_hide_model_picker_if_only_auto","copilot_swe_agent_issue_assigned_trigger","copilot_swe_agent_issue_closed_trigger","copilot_swe_agent_issue_comment_trigger","copilot_swe_agent_issue_labeled_trigger","copilot_swe_agent_issue_reopened_trigger","copilot_swe_agent_issue_status_changed_trigger","copilot_swe_agent_mcp_permission_gate","copilot_swe_agent_merge_conflict_trigger","copilot_swe_agent_pr_comment_model_picker","copilot_swe_agent_pull_request_assigned_trigger","copilot_swe_agent_pull_request_closed_trigger","copilot_swe_agent_pull_request_comment_trigger","copilot_swe_agent_pull_request_converted_to_draft_trigger","copilot_swe_agent_pull_request_labeled_trigger","copilot_swe_agent_pull_request_merged_trigger","copilot_swe_agent_pull_request_opened_trigger","copilot_swe_agent_pull_request_ready_for_review_trigger","copilot_swe_agent_pull_request_reopened_trigger","copilot_swe_agent_pull_request_review_dismissed_trigger","copilot_swe_agent_pull_request_review_requested_trigger","copilot_swe_agent_pull_request_review_submitted_trigger","copilot_swe_agent_pull_request_review_thread_resolved_trigger","copilot_swe_agent_pull_request_review_thread_unresolved_trigger","copilot_swe_agent_pull_request_synchronize_trigger","copilot_swe_agent_secret_scanning_alert_trigger","copilot_swe_agent_sub_issue_added_trigger","copilot_swe_agent_use_subagents","copilot_task_api_github_rest_style","copilot_task_scoped_alive_channel","copilot_token_based_billing","copilot_user_can_upgrade_plan_field","fgpat_permissions_selector_redesign","glc_code_quality_repo_settings_workflow_config","global_issues_filtered_list_layout","global_nav_context_refresh","home_dashboard_ga","hyperspace_2025_logged_out_batch_1","hyperspace_2025_logged_out_batch_2","hyperspace_2025_logged_out_batch_3","in_product_messaging_datadog_monitoring","ipm_ubb_individual_budget_banner","issue_create_status_header","issue_fields_add_picker","issue_fields_multi_select","issue_inline_avatars","issue_relative_time_micro","issues_board_card_drawer","issues_board_refresh_polling","issues_hide_closed_sub_issues","issues_lazy_load_comment_box_suggestions","issues_react_chrome_container_query_fix","labels_archiving","labels_archiving_info","landing_pages_ninetailed","lifecycle_label_name_updates","marketing_cookie_consent_banner","memex_live_update_hovercard","memex_mwl_filter_field_delimiter","memex_remove_deprecated_type_issue","merge_queue_restricted_pushers_warning","merge_status_header_feedback","new_batched_queries_hook","octocaptcha_origin_optimization","one_copilot_chat_disable_ahp_pings","one_copilot_chat_disable_eager_resume","one_copilot_chat_owner_split_picker","one_copilot_chat_resume_on_intent","one_copilot_grouped_tool_calls","one_copilot_plan_mode","one_copilot_remember_tool_permissions","one_copilot_simplified_environment_picker","planning_board_agent_task_status","primer_react_blankslate_compact_default","primer_react_css_anchor_positioning","primer_react_merged_forwarded_refs","prs_contextual_comment_controls","prs_copilot_app_open_action","prs_copilot_assignee_session_indicator","prs_css_anchor_positioning","prs_desktop_checkout","prs_mergeability_live_updates_trailing","prs_overview_react_public_preview","prs_overview_review_opinion_colors","prs_stale_session_block","pull_request_file_tree_prefetch_on_hover_50ms","pull_request_persister","pull_request_stacks_auto_merge_commit_customization","pull_request_stacks_navigation_shortcuts","pull_request_virtualization_image_estimate","pull_request_virtualization_loader_batching","pull_request_virtualization_scroll_compensation","pull_request_virtualization_scroll_intent","pull_requests_deferred_highlight_fallback","pull_requests_persistent_whitespace_preferences","react_blob_isolate_code_lines","react_blob_ssr_content_visibility","react_data_router_nonblocking_revalidation","react_data_router_tanstack_allowed","react_query_props_with_key","react_sandbox_future_tanstack","repo_app_issues_dashboard","repo_app_pulls_dashboard","repo_app_turbo","repo_issues_sidebar_layout","repos_contributors_limited_default_range","rulesets_actor_list_editor","sample_network_conn_type","sanitize_preset_md2html","scribe_artifacts_api","secret_scanning_public_monitoring_hide_preview_labels","secret_scanning_public_monitoring_hide_validity_coming_soon","see_who_reacted","session_logs_ungroup_reasoning_text","set_sha256_on_repo_creation_form","site_banner_desktop_copilot_app","site_download_options_pixel_mona","site_global_banner_copilot_fusion_usage_2026","site_homepage_refresh_2026","speculation_rules_ui_service","suppress_automated_browser_vitals","swp_forms_disable_octocaptcha","trusted_types_policies","trusted_types_worker","turbo_link_eligibility_optimization","ui_service_gate_aware_external_check","ui_service_notification_shelf","update_issue_suggestions","viewscreen_sandbox","warn_inaccessible_attachments","webp_support"],"githubDomain":"https://github.com","copilotApiOverrideUrl":"https://api.githubcopilot.com","cmcApiUrl":"https://api.github.com/cmc_internal/api"}</script>
+  <script type="application/json" id="client-env">{"locale":"en","featureFlags":["actions_caches_react_view","actions_enable_background_steps","actions_new_hosted_runner_image_select_sizes_and_versions","actions_workflows_react_toggle","agent_author_search_expansion","agent_author_search_expansion_ui_pulls","agent_sessions_ccr_review_effort","ai_resource_search","alternate_user_config_repo","billing_billable_licenses_complete_day","billing_billable_licenses_cost_center_bucket_fix","billing_budget_expiration","billing_cost_center_list_assigned_resources","billing_discount_threshold_notification","billing_shared_compute_usage","browser_stats_fixed_delivery_window","catalyst_lazy_define_indexed","code_quality_enablement_banner_targeting","code_quality_remove_preview","code_view_raf_sticky_lines","codespaces_prebuild_region_target_update","coding_agent_third_party_model_ui","collab_docs_chat_notifications","copilot-software-factories","copilot_agent_snippy","copilot_api_agentic_issue_marshal_yaml","copilot_automation_continuous_history","copilot_automation_repo_mcp_servers","copilot_automations_pagination","copilot_base_model_policy_row","copilot_chat_auto_mode_v2","copilot_chat_clear_model_selection_for_default_change","copilot_chat_fusion_auto_tiers","copilot_chat_vision_dotcom_chat_ga_gate","copilot_css_textarea_autosize","copilot_custom_copilots","copilot_custom_copilots_feature_preview","copilot_duplicate_thread","copilot_extensions_removal_on_marketplace","copilot_fix_failed_workflows_all_skus","copilot_hide_hovercard","copilot_immersive_task_hyperlinking","copilot_mission_control_agent_merge_fix_ci","copilot_mission_control_agent_merge_resolve_conflicts","copilot_mission_control_automation_grouping","copilot_mission_control_awps_batching","copilot_mission_control_create_pull_request_client_tool","copilot_mission_control_create_repository_client_tool","copilot_mission_control_early_stop","copilot_mission_control_environments_web_kickoff","copilot_mission_control_hide_task_list_counts","copilot_mission_control_messaging_app_dm_steering","copilot_mission_control_needs_attention","copilot_mission_control_pinned_tasks","copilot_mission_control_reasoning_effort","copilot_mission_control_reuse_project_workspace","copilot_mission_control_sandbox_request_image_override","copilot_mission_control_session_client_attribution","copilot_mission_control_task_alive_updates","copilot_mission_control_task_route_preloading","copilot_mission_control_task_sharing","copilot_mission_control_use_api_gateway","copilot_org_policy_page_focus_mode","copilot_policy_ui_refresh","copilot_quick_chat_recent_artifact_sessions","copilot_share_active_subthread","copilot_spaces_ga","copilot_spaces_individual_policies_ga","copilot_swe_agent_authorization_status_ui","copilot_swe_agent_automation_completed_trigger","copilot_swe_agent_automation_failed_trigger","copilot_swe_agent_automation_repository_owned","copilot_swe_agent_automation_resource_scoped_writes","copilot_swe_agent_code_scanning_alert_trigger","copilot_swe_agent_dependabot_alert_trigger","copilot_swe_agent_discussion_comment_trigger","copilot_swe_agent_discussion_opened_trigger","copilot_swe_agent_discussion_updated_trigger","copilot_swe_agent_hide_model_picker_if_only_auto","copilot_swe_agent_issue_assigned_trigger","copilot_swe_agent_issue_closed_trigger","copilot_swe_agent_issue_comment_trigger","copilot_swe_agent_issue_labeled_trigger","copilot_swe_agent_issue_reopened_trigger","copilot_swe_agent_issue_status_changed_trigger","copilot_swe_agent_mcp_permission_gate","copilot_swe_agent_merge_conflict_trigger","copilot_swe_agent_pr_comment_model_picker","copilot_swe_agent_pull_request_assigned_trigger","copilot_swe_agent_pull_request_closed_trigger","copilot_swe_agent_pull_request_comment_trigger","copilot_swe_agent_pull_request_converted_to_draft_trigger","copilot_swe_agent_pull_request_labeled_trigger","copilot_swe_agent_pull_request_merged_trigger","copilot_swe_agent_pull_request_opened_trigger","copilot_swe_agent_pull_request_ready_for_review_trigger","copilot_swe_agent_pull_request_reopened_trigger","copilot_swe_agent_pull_request_review_dismissed_trigger","copilot_swe_agent_pull_request_review_requested_trigger","copilot_swe_agent_pull_request_review_submitted_trigger","copilot_swe_agent_pull_request_review_thread_resolved_trigger","copilot_swe_agent_pull_request_review_thread_unresolved_trigger","copilot_swe_agent_pull_request_synchronize_trigger","copilot_swe_agent_secret_scanning_alert_trigger","copilot_swe_agent_sub_issue_added_trigger","copilot_swe_agent_use_subagents","copilot_task_api_github_rest_style","copilot_task_scoped_alive_channel","copilot_token_based_billing","copilot_user_can_upgrade_plan_field","fgpat_permissions_selector_redesign","glc_code_quality_repo_settings_workflow_config","global_issues_filtered_list_layout","global_nav_context_refresh","home_dashboard_ga","hyperspace_2025_logged_out_batch_1","hyperspace_2025_logged_out_batch_2","hyperspace_2025_logged_out_batch_3","in_product_messaging_datadog_monitoring","ipm_ubb_individual_budget_banner","issue_create_status_header","issue_fields_add_picker","issue_fields_multi_select","issue_inline_avatars","issue_relative_time_micro","issues_board_card_drawer","issues_board_refresh_polling","issues_hide_closed_sub_issues","issues_lazy_load_comment_box_suggestions","issues_react_chrome_container_query_fix","labels_archiving","labels_archiving_info","landing_pages_ninetailed","lifecycle_label_name_updates","marketing_cookie_consent_banner","memex_live_update_hovercard","memex_mwl_filter_field_delimiter","memex_remove_deprecated_type_issue","merge_queue_restricted_pushers_warning","merge_status_header_feedback","new_batched_queries_hook","octocaptcha_origin_optimization","one_copilot_chat_disable_ahp_pings","one_copilot_chat_disable_eager_resume","one_copilot_chat_resume_on_intent","one_copilot_grouped_tool_calls","one_copilot_remember_tool_permissions","one_copilot_simplified_environment_picker","planning_board_agent_task_status","primer_react_blankslate_compact_default","primer_react_css_anchor_positioning","primer_react_merged_forwarded_refs","prs_contextual_comment_controls","prs_copilot_app_open_action","prs_copilot_assignee_session_indicator","prs_css_anchor_positioning","prs_desktop_checkout","prs_mergeability_live_updates_trailing","prs_overview_react_public_preview","prs_overview_review_opinion_colors","prs_stale_session_block","pull_request_file_tree_prefetch_on_hover_50ms","pull_request_persister","pull_request_stacks_auto_merge_commit_customization","pull_request_stacks_navigation_shortcuts","pull_request_virtualization_image_estimate","pull_request_virtualization_loader_batching","pull_request_virtualization_scroll_compensation","pull_request_virtualization_scroll_intent","pull_requests_deferred_highlight_fallback","pull_requests_persistent_whitespace_preferences","react_blob_isolate_code_lines","react_blob_ssr_content_visibility","react_data_router_nonblocking_revalidation","react_data_router_tanstack_allowed","react_query_props_with_key","react_sandbox_future_tanstack","repo_app_issues_dashboard","repo_app_pulls_dashboard","repo_app_turbo","repo_issues_sidebar_layout","repos_contributors_limited_default_range","rulesets_actor_list_editor","sample_network_conn_type","scribe_artifacts_api","secret_scanning_public_monitoring_hide_preview_labels","secret_scanning_public_monitoring_hide_validity_coming_soon","see_who_reacted","session_logs_ungroup_reasoning_text","set_sha256_on_repo_creation_form","site_banner_desktop_copilot_app","site_download_options_pixel_mona","site_global_banner_copilot_fusion_usage_2026","site_homepage_refresh_2026","speculation_rules_ui_service","suppress_automated_browser_vitals","swp_forms_disable_octocaptcha","trusted_types_policies","trusted_types_worker","turbo_link_eligibility_optimization","ui_service_gate_aware_external_check","ui_service_notification_shelf","update_issue_suggestions","viewscreen_sandbox","warn_inaccessible_attachments","webp_support"],"githubDomain":"https://github.com","copilotApiOverrideUrl":"https://api.githubcopilot.com","cmcApiUrl":"https://api.github.com/cmc_internal/api"}</script>
 <script crossorigin="anonymous" type="module" src="https://github.githubassets.com/assets/high-contrast-cookie-377d02d81834cc55.js"></script>
-<link crossorigin="anonymous" rel="modulepreload" href="https://github.githubassets.com/assets/wp-runtime-5d257552ff8527da.js" />
-<link crossorigin="anonymous" rel="modulepreload" href="https://github.githubassets.com/assets/app-runtime-cfd1896cfdea6bfb.js" />
+<link crossorigin="anonymous" rel="modulepreload" href="https://github.githubassets.com/assets/wp-runtime-9e84c288eb35c347.js" />
+<link crossorigin="anonymous" rel="modulepreload" href="https://github.githubassets.com/assets/app-runtime-8c7e7201ea7a0a8d.js" />
 <link crossorigin="anonymous" rel="modulepreload" href="https://github.githubassets.com/assets/react-core-1e4c74ac548af45e.js" />
-<link crossorigin="anonymous" rel="modulepreload" href="https://github.githubassets.com/assets/76260-24a0a422938692bf.js" />
-<script crossorigin="anonymous" type="module" src="https://github.githubassets.com/assets/core-3c644cbdb3cc86a0.js" defer="defer"></script>
-<link crossorigin="anonymous" media="all" rel="stylesheet" href="https://github.githubassets.com/assets/app-runtime.228feb2464784d73.module.css" />
+<link crossorigin="anonymous" rel="modulepreload" href="https://github.githubassets.com/assets/76260-e8a0d11cb154fc39.js" />
+<script crossorigin="anonymous" type="module" src="https://github.githubassets.com/assets/core-a1b54d54838202bb.js" defer="defer"></script>
+<link crossorigin="anonymous" media="all" rel="stylesheet" href="https://github.githubassets.com/assets/app-runtime.7d5e4a0a13d0393b.module.css" />
 <link crossorigin="anonymous" media="all" rel="stylesheet" href="https://github.githubassets.com/assets/primer-react-css.33f01c6eb0044c40.module.css" />
 <link crossorigin="anonymous" media="all" rel="stylesheet" href="https://github.githubassets.com/assets/react-core.c0d5671257907fd8.module.css" />
 <link crossorigin="anonymous" rel="modulepreload" href="https://github.githubassets.com/assets/10817-e24c8cca293fbbb3.js" />
-<script crossorigin="anonymous" type="module" src="https://github.githubassets.com/assets/diffs-5f173af18fafc938.js" defer="defer"></script>
+<script crossorigin="anonymous" type="module" src="https://github.githubassets.com/assets/diffs-dbd5d64aeaae2379.js" defer="defer"></script>
   
-  <script crossorigin="anonymous" type="module" src="https://github.githubassets.com/assets/wiki-c0d077a0c0efb82f.js" defer="defer"></script>
+  <script crossorigin="anonymous" type="module" src="https://github.githubassets.com/assets/wiki-0b6189620eac5037.js" defer="defer"></script>
 
 
   <title>JAXB Boolean Getter Plugin · highsource/jaxb-tools Wiki · GitHub</title>
@@ -83,13 +83,13 @@
   <meta name="route-pattern" content="/:user_id/:repository/wiki/:id(.:format)" data-turbo-transient>
   <meta name="route-controller" content="wiki" data-turbo-transient>
   <meta name="route-action" content="show" data-turbo-transient>
-  <meta name="fetch-nonce" content="v2:58873905-5a18-7708-c14a-0ce3103a3b7d">
+  <meta name="fetch-nonce" content="v2:db252e24-7895-f43e-bca1-2421063ee7c6">
 
     
   <meta name="current-catalog-service-hash" content="27690012a2eb28b75d0bacab0f2c11870266e8db9e019fa71fea812b82397bd6">
 
 
-  <meta name="request-id" content="E420:1CD539:2DAD2E:5D55C3:6B06DBE0" data-pjax-transient="true"/><meta name="html-safe-nonce" content="d4c10fe3068040db9fdbf506f5f83fa73c655d37fd2fa0b39f40351cdb29794a" data-pjax-transient="true"/><meta name="visitor-payload" content="eyJyZWZlcnJlciI6IiIsInJlcXVlc3RfaWQiOiJFNDIwOjFDRDUzOToyREFEMkU6NUQ1NUMzOjZCMDZEQkUwIiwidmlzaXRvcl9pZCI6IjcyNjAwNzUwNDgwNzIzMDU1OTMiLCJyZWdpb25fZWRnZSI6Indlc3R1czIiLCJyZWdpb25fcmVuZGVyIjoid2VzdHVzMiJ9" data-pjax-transient="true"/><meta name="visitor-hmac" content="557473b7c035fe5d7945151d1f2fca38f77cfb61b54fddbd6621526f2381b308" data-pjax-transient="true"/>
+  <meta name="request-id" content="DC30:F4D71:DA9072:1192023:6B097725" data-pjax-transient="true"/><meta name="html-safe-nonce" content="4bbccd17a774b972116bcb05d7e0bacc34e36a027c1347380b12d1b6d0d25a13" data-pjax-transient="true"/><meta name="visitor-payload" content="eyJyZWZlcnJlciI6IiIsInJlcXVlc3RfaWQiOiJEQzMwOkY0RDcxOkRBOTA3MjoxMTkyMDIzOjZCMDk3NzI1IiwidmlzaXRvcl9pZCI6IjQ3NDI3MDY3NTkyNTE2MjE2MjYiLCJyZWdpb25fZWRnZSI6ImlhZCIsInJlZ2lvbl9yZW5kZXIiOiJpYWQifQ==" data-pjax-transient="true"/><meta name="visitor-hmac" content="1bae656fa8be7096b058d48fcb7b81ffcb7d709e1b3e90989affe878c7423a6a" data-pjax-transient="true"/>
 
 
     <meta name="hovercard-subject-tag" content="repository:18499671" data-turbo-transient>
@@ -145,10 +145,10 @@
         <meta name="expected-hostname" content="github.com">
 
 
-  <meta http-equiv="x-pjax-version" content="a536eb85ead10ca487c0619742e4ffc73121a1bf02ebecfaf7d5acf2e08a8f24" data-turbo-track="reload">
+  <meta http-equiv="x-pjax-version" content="e0107864c9683639c919ed986bf63e5c672d21144e32188dffc446e0da83997f" data-turbo-track="reload">
   <meta http-equiv="x-pjax-csp-version" content="adddfd507de4c4b0b130ff1dbf3c31681ba97e7a45dc69da056946fc5370dfd4" data-turbo-track="reload">
-  <meta http-equiv="x-pjax-css-version" content="965d37e4f14c714b83113f72ac2eaeb62573839533abec322e1f4e981fa4bf41" data-turbo-track="reload">
-  <meta http-equiv="x-pjax-js-version" content="06cadd0061c549662a50be90eb5baba7608f00f521574931eec01db0deb9e636" data-turbo-track="reload">
+  <meta http-equiv="x-pjax-css-version" content="6461f87ecae18a405f89b5f5f023d20a05636d0b2938295d444470acca7728a2" data-turbo-track="reload">
+  <meta http-equiv="x-pjax-js-version" content="c6c1b9ef0b62017aa861c8b26153dd6c9a3e0d0e37e5aa9c0a587feac0ced226" data-turbo-track="reload">
 
   <meta name="turbo-cache-control" content="no-preview" data-turbo-transient="">
 
@@ -170,7 +170,7 @@
 
   <meta name="browser-errors-url" content="https://api.github.com/_private/browser/errors">
 
-  <meta name="release" content="6953c712585a8d7406b7695e48fffcb670fd241d" data-turbo-track="reload">
+  <meta name="release" content="7becd83e3579b3593dba1e5ca2c452d0c6f21dc9" data-turbo-track="reload">
   <meta name="ui-target" content="full">
 
   <link rel="mask-icon" href="https://github.githubassets.com/assets/pinned-octocat-093da3e6fa40.svg" color="#000000">
@@ -237,9 +237,9 @@
                 <link crossorigin="anonymous" rel="modulepreload" href="https://github.githubassets.com/assets/85486-d96ed6712d32b484.js" fetchpriority="low" />
 <link crossorigin="anonymous" rel="modulepreload" href="https://github.githubassets.com/assets/4926-aa172cb923bc2488.js" fetchpriority="low" />
 <link crossorigin="anonymous" rel="modulepreload" href="https://github.githubassets.com/assets/59839-91e62b8d437754c5.js" fetchpriority="low" />
-<link crossorigin="anonymous" rel="modulepreload" href="https://github.githubassets.com/assets/chunk-lazy-react-partial-marketing-header-0a205cb08eab7f46.js" fetchpriority="low" />
+<link crossorigin="anonymous" rel="modulepreload" href="https://github.githubassets.com/assets/chunk-lazy-react-partial-marketing-header-1bd28a78f1642a6d.js" fetchpriority="low" />
 <link crossorigin="anonymous" media="all" rel="stylesheet" href="https://github.githubassets.com/assets/primer-react-brand-css.99dddccb73417aaf.module.css" />
-<link crossorigin="anonymous" media="all" rel="stylesheet" href="https://github.githubassets.com/assets/7207.1e564cabf9e502b5.module.css" />
+<link crossorigin="anonymous" media="all" rel="stylesheet" href="https://github.githubassets.com/assets/7207.76539d6ba501a897.module.css" />
 
 <react-partial
   partial-name="marketing-header"
@@ -265,10 +265,10 @@
           <span class="js-stale-session-flash-signed-out" hidden>You signed out in another tab or window. <a class="Link--inTextBlock" href="">Reload</a> to refresh your session.</span>
           <span class="js-stale-session-flash-switched" hidden>You switched accounts on another tab or window. <a class="Link--inTextBlock" href="">Reload</a> to refresh your session.</span>
 
-    <button id="icon-button-f2731098-388a-49ca-b8be-dbdd1f45640e" aria-labelledby="tooltip-00a434f3-0c33-4fa5-9b12-d5c8281e3604" type="button" data-view-component="true" class="Button Button--iconOnly Button--invisible Button--medium flash-close js-flash-close">  <svg aria-hidden="true" data-component="Octicon" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x Button-visual">
+    <button id="icon-button-48b4cda0-6f51-4459-a2bc-cf5709002c78" aria-labelledby="tooltip-b7e09acf-7a7a-49f7-af17-4fcb501a4e4f" type="button" data-view-component="true" class="Button Button--iconOnly Button--invisible Button--medium flash-close js-flash-close">  <svg aria-hidden="true" data-component="Octicon" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x Button-visual">
     <path d="M3.72 3.72a.75.75 0 0 1 1.06 0L8 6.94l3.22-3.22a.749.749 0 0 1 1.275.326.749.749 0 0 1-.215.734L9.06 8l3.22 3.22a.749.749 0 0 1-.326 1.275.749.749 0 0 1-.734-.215L8 9.06l-3.22 3.22a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042L6.94 8 3.72 4.78a.75.75 0 0 1 0-1.06Z"></path>
 </svg>
-</button><tool-tip id="tooltip-00a434f3-0c33-4fa5-9b12-d5c8281e3604" for="icon-button-f2731098-388a-49ca-b8be-dbdd1f45640e" popover="manual" data-direction="s" data-type="label" data-view-component="true" class="sr-only position-absolute">Dismiss alert</tool-tip>
+</button><tool-tip id="tooltip-b7e09acf-7a7a-49f7-af17-4fcb501a4e4f" for="icon-button-48b4cda0-6f51-4459-a2bc-cf5709002c78" popover="manual" data-direction="s" data-type="label" data-view-component="true" class="sr-only position-absolute">Dismiss alert</tool-tip>
 
 
   
@@ -340,27 +340,27 @@
 
     <link crossorigin="anonymous" rel="modulepreload" href="https://github.githubassets.com/assets/primer-react-bf91bfad957f3d3e.js" fetchpriority="low" />
 <link crossorigin="anonymous" rel="modulepreload" href="https://github.githubassets.com/assets/28372-ced5eefd187fcff3.js" fetchpriority="low" />
+<link crossorigin="anonymous" rel="modulepreload" href="https://github.githubassets.com/assets/99405-fe444da8a0691d3d.js" fetchpriority="low" />
 <link crossorigin="anonymous" rel="modulepreload" href="https://github.githubassets.com/assets/34719-486d26d3e006d000.js" fetchpriority="low" />
-<link crossorigin="anonymous" rel="modulepreload" href="https://github.githubassets.com/assets/13856-f73916d5a41ee128.js" fetchpriority="low" />
 <link crossorigin="anonymous" rel="modulepreload" href="https://github.githubassets.com/assets/81650-4f2747c2b64996c9.js" fetchpriority="low" />
-<link crossorigin="anonymous" rel="modulepreload" href="https://github.githubassets.com/assets/59339-5dca1246bfac94a1.js" fetchpriority="low" />
-<link crossorigin="anonymous" rel="modulepreload" href="https://github.githubassets.com/assets/95223-739d0e0d10971ab4.js" fetchpriority="low" />
-<link crossorigin="anonymous" rel="modulepreload" href="https://github.githubassets.com/assets/chunk-88220-d28be3a8ca48586b.js" fetchpriority="low" />
+<link crossorigin="anonymous" rel="modulepreload" href="https://github.githubassets.com/assets/95223-a3ef8b2c125524a4.js" fetchpriority="low" />
+<link crossorigin="anonymous" rel="modulepreload" href="https://github.githubassets.com/assets/43883-5bbb8a54a24236df.js" fetchpriority="low" />
+<link crossorigin="anonymous" rel="modulepreload" href="https://github.githubassets.com/assets/87724-f64976b61a33cec1.js" fetchpriority="low" />
 <link crossorigin="anonymous" rel="modulepreload" href="https://github.githubassets.com/assets/27896-cdce595e0ac92722.js" fetchpriority="low" />
 <link crossorigin="anonymous" rel="modulepreload" href="https://github.githubassets.com/assets/82797-7b35a0cf82b16961.js" fetchpriority="low" />
 <link crossorigin="anonymous" rel="modulepreload" href="https://github.githubassets.com/assets/66860-ae307ed0627cbe0d.js" fetchpriority="low" />
-<link crossorigin="anonymous" rel="modulepreload" href="https://github.githubassets.com/assets/29197-3e62b640b769b4a6.js" fetchpriority="low" />
+<link crossorigin="anonymous" rel="modulepreload" href="https://github.githubassets.com/assets/29197-96134b575b76ce86.js" fetchpriority="low" />
 <link crossorigin="anonymous" rel="modulepreload" href="https://github.githubassets.com/assets/66837-bfbc1a2a2abe7870.js" fetchpriority="low" />
 <link crossorigin="anonymous" rel="modulepreload" href="https://github.githubassets.com/assets/73486-40dc84393340a7ce.js" fetchpriority="low" />
-<link crossorigin="anonymous" rel="modulepreload" href="https://github.githubassets.com/assets/79120-b2e925bad8c63974.js" fetchpriority="low" />
 <link crossorigin="anonymous" rel="modulepreload" href="https://github.githubassets.com/assets/33198-e403e67e7d59d8e8.js" fetchpriority="low" />
-<link crossorigin="anonymous" rel="modulepreload" href="https://github.githubassets.com/assets/45985-36563abf6af4d6bd.js" fetchpriority="low" />
-<link crossorigin="anonymous" rel="modulepreload" href="https://github.githubassets.com/assets/5461-0520482b594286fb.js" fetchpriority="low" />
-<link crossorigin="anonymous" rel="modulepreload" href="https://github.githubassets.com/assets/65973-f6743b5684cc1889.js" fetchpriority="low" />
-<link crossorigin="anonymous" rel="modulepreload" href="https://github.githubassets.com/assets/chunk-34700-4af970284bf7498e.js" fetchpriority="low" />
-<link crossorigin="anonymous" rel="modulepreload" href="https://github.githubassets.com/assets/chunk-50238-28958d4bdeff159a.js" fetchpriority="low" />
-<link crossorigin="anonymous" rel="modulepreload" href="https://github.githubassets.com/assets/chunk-lazy-react-partial-global-nav-bar-5e19b957383c2d9d.js" fetchpriority="low" />
-<link crossorigin="anonymous" media="all" rel="stylesheet" href="https://github.githubassets.com/assets/81758.8fd0c9524ee5fdf4.module.css" />
+<link crossorigin="anonymous" rel="modulepreload" href="https://github.githubassets.com/assets/45985-e17fb47362d17378.js" fetchpriority="low" />
+<link crossorigin="anonymous" rel="modulepreload" href="https://github.githubassets.com/assets/chunk-5461-d7b50d750d000c93.js" fetchpriority="low" />
+<link crossorigin="anonymous" rel="modulepreload" href="https://github.githubassets.com/assets/chunk-58705-b10fab7dec66240c.js" fetchpriority="low" />
+<link crossorigin="anonymous" rel="modulepreload" href="https://github.githubassets.com/assets/6631-ff748e6d0dfa1f42.js" fetchpriority="low" />
+<link crossorigin="anonymous" rel="modulepreload" href="https://github.githubassets.com/assets/chunk-79497-93a2bfec89629785.js" fetchpriority="low" />
+<link crossorigin="anonymous" rel="modulepreload" href="https://github.githubassets.com/assets/chunk-50238-2a1f2e0090ec3818.js" fetchpriority="low" />
+<link crossorigin="anonymous" rel="modulepreload" href="https://github.githubassets.com/assets/chunk-lazy-react-partial-global-nav-bar-6a045d3084135ee0.js" fetchpriority="low" />
+<link crossorigin="anonymous" media="all" rel="stylesheet" href="https://github.githubassets.com/assets/81758.dec32d5bcc6c6a09.module.css" />
 
 <react-partial
   partial-name="global-nav-bar"
@@ -370,7 +370,7 @@
 >
   
   <script type="application/json" data-target="react-partial.embeddedData">{"props":{"contextRegion":{"crumbs":[{"crumb_type":"user","label":"highsource","is_root":false,"href":"/highsource"},{"crumb_type":"repository","label":"jaxb-tools","is_root":false,"href":"/highsource/jaxb-tools"}],"localNavigation":[{"id":"code","icon":"code","label":"Code","href":"/highsource/jaxb-tools","selectedLinks":["repo_source","repo_downloads","repo_commits","repo_releases","repo_tags","repo_branches","repo_packages","repo_deployments","repo_attestations"],"popoverTarget":false,"commandId":"repositories:go-to-code","reactNav":{"appTarget":"code-view","anchor":"code-view-repo-link"},"turboNav":{"frame":"repo-content-turbo-frame"}},{"id":"issues","icon":"issue-opened","label":"Issues","href":"/highsource/jaxb-tools/issues","selectedLinks":["repo_issues","repo_labels","repo_milestones"],"count":67,"popoverTarget":false,"commandId":"repositories:go-to-issues","reactNav":{"appTarget":"repo","anchor":null},"turboNav":{"frame":"repo-content-turbo-frame"}},{"id":"pull-requests","icon":"git-pull-request","label":"Pull requests","href":"/highsource/jaxb-tools/pulls","selectedLinks":["repo_pulls","checks"],"count":12,"popoverTarget":false,"commandId":"repositories:go-to-pull-requests","reactNav":{"appTarget":null,"anchor":null},"turboNav":{"frame":"repo-content-turbo-frame"}},{"id":"actions","icon":"play","label":"Actions","href":"/highsource/jaxb-tools/actions","selectedLinks":["repo_actions"],"popoverTarget":false,"commandId":"repositories:go-to-actions","reactNav":{"appTarget":"repo","anchor":null},"turboNav":{"frame":"repo-content-turbo-frame"}},{"id":"projects","icon":"table","label":"Projects","href":"/highsource/jaxb-tools/projects","selectedLinks":["repo_projects","new_repo_project","repo_project"],"popoverTarget":false,"commandId":"repositories:go-to-projects","reactNav":{"appTarget":"repo","anchor":null},"turboNav":{"frame":"repo-content-turbo-frame"}},{"id":"wiki","icon":"book","label":"Wiki","href":"/highsource/jaxb-tools/wiki","selectedLinks":["repo_wiki"],"popoverTarget":false,"commandId":"repositories:go-to-wiki","reactNav":{"appTarget":null,"anchor":null},"turboNav":{"frame":"repo-content-turbo-frame"}},{"id":"security-and-quality","icon":"shield","label":"Security and quality","href":"/highsource/jaxb-tools/security","selectedLinks":["security","overview","alerts","policy","token_scanning","code_scanning"],"count":0,"popoverTarget":false,"commandId":"repositories:go-to-security","reactNav":{"appTarget":null,"anchor":null},"turboNav":{"frame":"repo-content-turbo-frame"}},{"id":"insights","icon":"graph","label":"Insights","href":"/highsource/jaxb-tools/pulse","selectedLinks":["repo_graphs","repo_contributors","dependency_graph","dependabot_updates","pulse","people","community"],"popoverTarget":false,"commandId":"repositories:go-to-insights","reactNav":{"appTarget":null,"anchor":null},"turboNav":{"frame":"repo-content-turbo-frame"}}],"localNavigationUpdateChannel":null,"selectedLink":null,"currentPath":"/highsource/jaxb-tools/wiki/JAXB-Boolean-Getter-Plugin"},"owner":null,"headerLogo":{"href":"/","aria-label":"Homepage "},"notifications":{"indicatorMode":"disabled","websocketChannel":null,"fetchIndicatorSrc":"/notifications/indicator","fetchIndicatorEnabled":false},"issues":{"href":"/issues"},"pulls":{"href":"/pulls"},"contributedRepos":{"href":"/repos"},"copilot":{"show":false,"showAgentsButton":false,"showRelaunchAnnouncement":false,"licenseGrantNudge":null,"copilotChatUrl":null,"copilotApiUrl":"https://api.githubcopilot.com"},"search":{"show":true,"showCommandPalette":false,"isSearchPage":false,"isJumpToSearch":false,"searchContext":{"scope":"repo:highsource/jaxb-tools","current_repo_name":"jaxb-tools","current_repo_nwo":"highsource/jaxb-tools","user_id":"highsource"}},"commandPalette":null,"enterpriseBar":{"show":false},"globalTransactionalMessage":[],"ipmNudgeDelivery":null,"payloadsUrl":"/_global-navigation/payloads.json?can_toggle_site_admin_and_employee_status=0\u0026is_admin_mode_on=0\u0026is_ui_opted_out=0\u0026show_ui_opt_out=0\u0026v=9","contextRegionUrl":null}}</script>
-  <div data-target="react-partial.reactRoot"><header aria-label="Global navigation menu" data-component="Stack" class="GlobalNav appHeader__6OmbvL prc-Stack-Stack-UQ9k6" data-gap="none" data-direction="vertical" data-align="stretch" data-wrap="nowrap" data-justify="start" data-padding="none"><div data-component="Stack" class="prc-Stack-Stack-UQ9k6" data-direction="horizontal" data-align="center" data-wrap="nowrap" data-justify="center" data-padding="none"><div data-testid="top-nav-center" data-component="Stack" class="center__f1ujjY withLocalNavigation__FzpnU6 loggedOut__--dPuC prc-Stack-Stack-UQ9k6" data-gap="condensed" data-direction="horizontal" data-align="stretch" data-wrap="nowrap" data-justify="start" data-padding="normal"><nav class="contextRegion__Wb1-GR prc-Breadcrumbs-BreadcrumbsBase-3Gb-B" aria-label="Breadcrumbs" data-overflow="menu" data-variant="normal" data-component="Breadcrumbs"><ol class="prc-Breadcrumbs-BreadcrumbsList-BKjpe"><li class="prc-Breadcrumbs-ItemWrapper-k0NLn" data-index="0"><a class="contextCrumb__Q8nET8 prc-Breadcrumbs-Item-jcraJ" data-component="Breadcrumbs.Item" href="/highsource" data-discover="true"><span class="">highsource</span></a></li><li class="prc-Breadcrumbs-ItemWrapper-k0NLn" data-index="1"><a class="contextCrumb__Q8nET8 prc-Breadcrumbs-Item-jcraJ" data-component="Breadcrumbs.Item" href="/highsource/jaxb-tools" data-discover="true"><span class="contextCrumbLast__l2P28s">jaxb-tools</span></a></li></ol></nav></div><div data-testid="top-nav-right" data-component="Stack" class="right__5m36ST withLocalNavigation__FzpnU6 rightWithResponsiveCreateButton__JePGAt prc-Stack-Stack-UQ9k6" data-gap="condensed" data-direction="horizontal" data-align="center" data-wrap="nowrap" data-justify="start" data-padding="normal"></div></div><h2 class="prc-src-InternalVisuallyHidden-2YaI6">Repository navigation</h2><nav class="prc-components-UnderlineWrapper-eT-Yj prc-UnderlineNav-UnderlineWrapper-GWONT LocalNavigation__QHRW7C" aria-label="Repository" data-variant="inset" data-overflow-mode="wrap" data-hide-icons-breakpoint="medium"><ul class="prc-UnderlineNav-ItemsList-oj8gN prc-components-UnderlineItemList-xKlKC" role="list"><li role="presentation" aria-hidden="true" class="prc-UnderlineNav-WrapSpacer--aLgz"></li><li class="prc-UnderlineNav-UnderlineNavItem-syRjR"><a data-tab-item="code" data-react-nav="code-view" data-react-nav-anchor="code-view-repo-link" data-turbo-frame="repo-content-turbo-frame" class="prc-components-UnderlineItem-7fP-n" href="/highsource/jaxb-tools" data-discover="true"><span data-component="icon"><svg data-component="Octicon" aria-hidden="true" focusable="false" class="octicon octicon-code" viewBox="0 0 16 16" width="16" height="16" fill="currentColor" display="inline-block" overflow="visible" style="vertical-align:text-bottom"><path d="m11.28 3.22 4.25 4.25a.75.75 0 0 1 0 1.06l-4.25 4.25a.749.749 0 0 1-1.275-.326.749.749 0 0 1 .215-.734L13.94 8l-3.72-3.72a.749.749 0 0 1 .326-1.275.749.749 0 0 1 .734.215Zm-6.56 0a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042L2.06 8l3.72 3.72a.749.749 0 0 1-.326 1.275.749.749 0 0 1-.734-.215L.47 8.53a.75.75 0 0 1 0-1.06Z"></path></svg></span><span data-component="text" data-content="Code">Code</span></a></li><li class="prc-UnderlineNav-UnderlineNavItem-syRjR"><a data-tab-item="issues" data-react-nav="repo" data-turbo-frame="repo-content-turbo-frame" class="prc-components-UnderlineItem-7fP-n" href="/highsource/jaxb-tools/issues" data-discover="true"><span data-component="icon"><svg data-component="Octicon" aria-hidden="true" focusable="false" class="octicon octicon-issue-opened" viewBox="0 0 16 16" width="16" height="16" fill="currentColor" display="inline-block" overflow="visible" style="vertical-align:text-bottom"><path d="M8 9.5a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3Z"></path><path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Z"></path></svg></span><span data-component="text" data-content="Issues">Issues</span><span data-component="counter"><span aria-hidden="true" data-variant="secondary" data-component="CounterLabel" class="prc-CounterLabel-CounterLabel-X-kRU">67</span><span class="prc-VisuallyHidden-VisuallyHidden-Q0qSB"> (<!-- -->67<!-- -->)</span></span></a></li><li class="prc-UnderlineNav-UnderlineNavItem-syRjR"><a data-tab-item="pull-requests" data-turbo-frame="repo-content-turbo-frame" class="prc-components-UnderlineItem-7fP-n" href="/highsource/jaxb-tools/pulls" data-discover="true"><span data-component="icon"><svg data-component="Octicon" aria-hidden="true" focusable="false" class="octicon octicon-git-pull-request" viewBox="0 0 16 16" width="16" height="16" fill="currentColor" display="inline-block" overflow="visible" style="vertical-align:text-bottom"><path d="M1.5 3.25a2.25 2.25 0 1 1 3 2.122v5.256a2.251 2.251 0 1 1-1.5 0V5.372A2.25 2.25 0 0 1 1.5 3.25Zm5.677-.177L9.573.677A.25.25 0 0 1 10 .854V2.5h1A2.5 2.5 0 0 1 13.5 5v5.628a2.251 2.251 0 1 1-1.5 0V5a1 1 0 0 0-1-1h-1v1.646a.25.25 0 0 1-.427.177L7.177 3.427a.25.25 0 0 1 0-.354ZM3.75 2.5a.75.75 0 1 0 0 1.5.75.75 0 0 0 0-1.5Zm0 9.5a.75.75 0 1 0 0 1.5.75.75 0 0 0 0-1.5Zm8.25.75a.75.75 0 1 0 1.5 0 .75.75 0 0 0-1.5 0Z"></path></svg></span><span data-component="text" data-content="Pull requests">Pull requests</span><span data-component="counter"><span aria-hidden="true" data-variant="secondary" data-component="CounterLabel" class="prc-CounterLabel-CounterLabel-X-kRU">12</span><span class="prc-VisuallyHidden-VisuallyHidden-Q0qSB"> (<!-- -->12<!-- -->)</span></span></a></li><li class="prc-UnderlineNav-UnderlineNavItem-syRjR"><a data-tab-item="actions" data-react-nav="repo" data-turbo-frame="repo-content-turbo-frame" class="prc-components-UnderlineItem-7fP-n" href="/highsource/jaxb-tools/actions" data-discover="true"><span data-component="icon"><svg data-component="Octicon" aria-hidden="true" focusable="false" class="octicon octicon-play" viewBox="0 0 16 16" width="16" height="16" fill="currentColor" display="inline-block" overflow="visible" style="vertical-align:text-bottom"><path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Zm4.879-2.773 4.264 2.559a.25.25 0 0 1 0 .428l-4.264 2.559A.25.25 0 0 1 6 10.559V5.442a.25.25 0 0 1 .379-.215Z"></path></svg></span><span data-component="text" data-content="Actions">Actions</span></a></li><li class="prc-UnderlineNav-UnderlineNavItem-syRjR"><a data-tab-item="projects" data-react-nav="repo" data-turbo-frame="repo-content-turbo-frame" class="prc-components-UnderlineItem-7fP-n" href="/highsource/jaxb-tools/projects" data-discover="true"><span data-component="icon"><svg data-component="Octicon" aria-hidden="true" focusable="false" class="octicon octicon-table" viewBox="0 0 16 16" width="16" height="16" fill="currentColor" display="inline-block" overflow="visible" style="vertical-align:text-bottom"><path d="M0 1.75C0 .784.784 0 1.75 0h12.5C15.216 0 16 .784 16 1.75v12.5A1.75 1.75 0 0 1 14.25 16H1.75A1.75 1.75 0 0 1 0 14.25ZM6.5 6.5v8h7.75a.25.25 0 0 0 .25-.25V6.5Zm8-1.5V1.75a.25.25 0 0 0-.25-.25H6.5V5Zm-13 1.5v7.75c0 .138.112.25.25.25H5v-8ZM5 5V1.5H1.75a.25.25 0 0 0-.25.25V5Z"></path></svg></span><span data-component="text" data-content="Projects">Projects</span></a></li><li class="prc-UnderlineNav-UnderlineNavItem-syRjR"><a aria-current="page" data-tab-item="wiki" data-turbo-frame="repo-content-turbo-frame" class="prc-components-UnderlineItem-7fP-n" href="/highsource/jaxb-tools/wiki" data-discover="true"><span data-component="icon"><svg data-component="Octicon" aria-hidden="true" focusable="false" class="octicon octicon-book" viewBox="0 0 16 16" width="16" height="16" fill="currentColor" display="inline-block" overflow="visible" style="vertical-align:text-bottom"><path d="M0 1.75A.75.75 0 0 1 .75 1h4.253c1.227 0 2.317.59 3 1.501A3.743 3.743 0 0 1 11.006 1h4.245a.75.75 0 0 1 .75.75v10.5a.75.75 0 0 1-.75.75h-4.507a2.25 2.25 0 0 0-1.591.659l-.622.621a.75.75 0 0 1-1.06 0l-.622-.621A2.25 2.25 0 0 0 5.258 13H.75a.75.75 0 0 1-.75-.75Zm7.251 10.324.004-5.073-.002-2.253A2.25 2.25 0 0 0 5.003 2.5H1.5v9h3.757a3.75 3.75 0 0 1 1.994.574ZM8.755 4.75l-.004 7.322a3.752 3.752 0 0 1 1.992-.572H14.5v-9h-3.495a2.25 2.25 0 0 0-2.25 2.25Z"></path></svg></span><span data-component="text" data-content="Wiki">Wiki</span></a></li><li class="prc-UnderlineNav-UnderlineNavItem-syRjR"><a data-tab-item="security-and-quality" data-turbo-frame="repo-content-turbo-frame" class="prc-components-UnderlineItem-7fP-n" href="/highsource/jaxb-tools/security" data-discover="true"><span data-component="icon"><svg data-component="Octicon" aria-hidden="true" focusable="false" class="octicon octicon-shield" viewBox="0 0 16 16" width="16" height="16" fill="currentColor" display="inline-block" overflow="visible" style="vertical-align:text-bottom"><path d="M7.467.133a1.748 1.748 0 0 1 1.066 0l5.25 1.68A1.75 1.75 0 0 1 15 3.48V7c0 1.566-.32 3.182-1.303 4.682-.983 1.498-2.585 2.813-5.032 3.855a1.697 1.697 0 0 1-1.33 0c-2.447-1.042-4.049-2.357-5.032-3.855C1.32 10.182 1 8.566 1 7V3.48a1.75 1.75 0 0 1 1.217-1.667Zm.61 1.429a.25.25 0 0 0-.153 0l-5.25 1.68a.25.25 0 0 0-.174.238V7c0 1.358.275 2.666 1.057 3.86.784 1.194 2.121 2.34 4.366 3.297a.196.196 0 0 0 .154 0c2.245-.956 3.582-2.104 4.366-3.298C13.225 9.666 13.5 8.36 13.5 7V3.48a.251.251 0 0 0-.174-.237l-5.25-1.68ZM8.75 4.75v3a.75.75 0 0 1-1.5 0v-3a.75.75 0 0 1 1.5 0ZM9 10.5a1 1 0 1 1-2 0 1 1 0 0 1 2 0Z"></path></svg></span><span data-component="text" data-content="Security and quality">Security and quality</span></a></li><li class="prc-UnderlineNav-UnderlineNavItem-syRjR"><a data-tab-item="insights" data-turbo-frame="repo-content-turbo-frame" class="prc-components-UnderlineItem-7fP-n" href="/highsource/jaxb-tools/pulse" data-discover="true"><span data-component="icon"><svg data-component="Octicon" aria-hidden="true" focusable="false" class="octicon octicon-graph" viewBox="0 0 16 16" width="16" height="16" fill="currentColor" display="inline-block" overflow="visible" style="vertical-align:text-bottom"><path d="M1.5 1.75V13.5h13.75a.75.75 0 0 1 0 1.5H.75a.75.75 0 0 1-.75-.75V1.75a.75.75 0 0 1 1.5 0Zm14.28 2.53-5.25 5.25a.75.75 0 0 1-1.06 0L7 7.06 4.28 9.78a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042l3.25-3.25a.75.75 0 0 1 1.06 0L10 7.94l4.72-4.72a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042Z"></path></svg></span><span data-component="text" data-content="Insights">Insights</span></a></li></ul><div class="prc-UnderlineNav-MoreButtonContainer-Dnrq6"><div class="prc-UnderlineNav-MoreButtonDivider-dN0a-"></div><button data-component="overflow-menu-button" type="button" aria-haspopup="true" aria-expanded="false" tabindex="0" class="prc-Button-ButtonBase-9n-Xk prc-UnderlineNav-MoreButton-Y8soj" data-loading="false" data-size="medium" data-variant="invisible" id="_R_2ktp_"><span data-component="buttonContent" data-align="center" class="prc-Button-ButtonContent-Iohp5"><span data-component="text" class="prc-Button-Label-FWkx3"><span>More<span class="prc-src-InternalVisuallyHidden-2YaI6"> items</span></span></span></span><span data-component="trailingAction" class="prc-Button-Visual-YNt2F prc-Button-VisualWrap-E4cnq"><svg data-component="Octicon" aria-hidden="true" focusable="false" class="octicon octicon-triangle-down" viewBox="0 0 16 16" width="16" height="16" fill="currentColor" display="inline-block" overflow="visible" style="vertical-align:text-bottom"><path d="m4.427 7.427 3.396 3.396a.25.25 0 0 0 .354 0l3.396-3.396A.25.25 0 0 0 11.396 7H4.604a.25.25 0 0 0-.177.427Z"></path></svg></span></button></div></nav><div class="d-none"></div></header></div>
+  <div data-target="react-partial.reactRoot"><header aria-label="Global navigation menu" data-telemetry-action="global.header.region" data-component="Stack" class="GlobalNav appHeader__6OmbvL prc-Stack-Stack-UQ9k6" data-gap="none" data-direction="vertical" data-align="stretch" data-wrap="nowrap" data-justify="start" data-padding="none"><div data-component="Stack" class="prc-Stack-Stack-UQ9k6" data-direction="horizontal" data-align="center" data-wrap="nowrap" data-justify="center" data-padding="none"><div data-testid="top-nav-center" data-component="Stack" class="center__f1ujjY withLocalNavigation__FzpnU6 loggedOut__--dPuC prc-Stack-Stack-UQ9k6" data-gap="condensed" data-direction="horizontal" data-align="stretch" data-wrap="nowrap" data-justify="start" data-padding="normal"><nav class="contextRegion__Wb1-GR prc-Breadcrumbs-BreadcrumbsBase-3Gb-B" aria-label="Breadcrumbs" data-overflow="menu" data-variant="normal" data-component="Breadcrumbs"><ol class="prc-Breadcrumbs-BreadcrumbsList-BKjpe"><li class="prc-Breadcrumbs-ItemWrapper-k0NLn" data-index="0"><a class="contextCrumb__Q8nET8 prc-Breadcrumbs-Item-jcraJ" data-component="Breadcrumbs.Item" href="/highsource" data-discover="true"><span class="">highsource</span></a></li><li class="prc-Breadcrumbs-ItemWrapper-k0NLn" data-index="1"><a class="contextCrumb__Q8nET8 prc-Breadcrumbs-Item-jcraJ" data-component="Breadcrumbs.Item" href="/highsource/jaxb-tools" data-discover="true"><span class="contextCrumbLast__l2P28s">jaxb-tools</span></a></li></ol></nav></div><div data-testid="top-nav-right" data-component="Stack" class="right__5m36ST withLocalNavigation__FzpnU6 rightWithResponsiveCreateButton__JePGAt prc-Stack-Stack-UQ9k6" data-gap="condensed" data-direction="horizontal" data-align="center" data-wrap="nowrap" data-justify="start" data-padding="normal"></div></div><h2 class="prc-src-InternalVisuallyHidden-2YaI6">Repository navigation</h2><nav class="prc-components-UnderlineWrapper-eT-Yj prc-UnderlineNav-UnderlineWrapper-GWONT LocalNavigation__QHRW7C" aria-label="Repository" data-variant="inset" data-overflow-mode="wrap" data-hide-icons-breakpoint="medium"><ul class="prc-UnderlineNav-ItemsList-oj8gN prc-components-UnderlineItemList-xKlKC" role="list"><li role="presentation" aria-hidden="true" class="prc-UnderlineNav-WrapSpacer--aLgz"></li><li class="prc-UnderlineNav-UnderlineNavItem-syRjR"><a data-tab-item="code" data-react-nav="code-view" data-react-nav-anchor="code-view-repo-link" data-turbo-frame="repo-content-turbo-frame" class="prc-components-UnderlineItem-7fP-n" href="/highsource/jaxb-tools" data-discover="true"><span data-component="icon"><svg data-component="Octicon" aria-hidden="true" focusable="false" class="octicon octicon-code" viewBox="0 0 16 16" width="16" height="16" fill="currentColor" display="inline-block" overflow="visible" style="vertical-align:text-bottom"><path d="m11.28 3.22 4.25 4.25a.75.75 0 0 1 0 1.06l-4.25 4.25a.749.749 0 0 1-1.275-.326.749.749 0 0 1 .215-.734L13.94 8l-3.72-3.72a.749.749 0 0 1 .326-1.275.749.749 0 0 1 .734.215Zm-6.56 0a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042L2.06 8l3.72 3.72a.749.749 0 0 1-.326 1.275.749.749 0 0 1-.734-.215L.47 8.53a.75.75 0 0 1 0-1.06Z"></path></svg></span><span data-component="text" data-content="Code">Code</span></a></li><li class="prc-UnderlineNav-UnderlineNavItem-syRjR"><a data-tab-item="issues" data-react-nav="repo" data-turbo-frame="repo-content-turbo-frame" class="prc-components-UnderlineItem-7fP-n" href="/highsource/jaxb-tools/issues" data-discover="true"><span data-component="icon"><svg data-component="Octicon" aria-hidden="true" focusable="false" class="octicon octicon-issue-opened" viewBox="0 0 16 16" width="16" height="16" fill="currentColor" display="inline-block" overflow="visible" style="vertical-align:text-bottom"><path d="M8 9.5a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3Z"></path><path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Z"></path></svg></span><span data-component="text" data-content="Issues">Issues</span><span data-component="counter"><span aria-hidden="true" data-variant="secondary" data-component="CounterLabel" class="prc-CounterLabel-CounterLabel-X-kRU">67</span><span class="prc-VisuallyHidden-VisuallyHidden-Q0qSB"> (<!-- -->67<!-- -->)</span></span></a></li><li class="prc-UnderlineNav-UnderlineNavItem-syRjR"><a data-tab-item="pull-requests" data-turbo-frame="repo-content-turbo-frame" class="prc-components-UnderlineItem-7fP-n" href="/highsource/jaxb-tools/pulls" data-discover="true"><span data-component="icon"><svg data-component="Octicon" aria-hidden="true" focusable="false" class="octicon octicon-git-pull-request" viewBox="0 0 16 16" width="16" height="16" fill="currentColor" display="inline-block" overflow="visible" style="vertical-align:text-bottom"><path d="M1.5 3.25a2.25 2.25 0 1 1 3 2.122v5.256a2.251 2.251 0 1 1-1.5 0V5.372A2.25 2.25 0 0 1 1.5 3.25Zm5.677-.177L9.573.677A.25.25 0 0 1 10 .854V2.5h1A2.5 2.5 0 0 1 13.5 5v5.628a2.251 2.251 0 1 1-1.5 0V5a1 1 0 0 0-1-1h-1v1.646a.25.25 0 0 1-.427.177L7.177 3.427a.25.25 0 0 1 0-.354ZM3.75 2.5a.75.75 0 1 0 0 1.5.75.75 0 0 0 0-1.5Zm0 9.5a.75.75 0 1 0 0 1.5.75.75 0 0 0 0-1.5Zm8.25.75a.75.75 0 1 0 1.5 0 .75.75 0 0 0-1.5 0Z"></path></svg></span><span data-component="text" data-content="Pull requests">Pull requests</span><span data-component="counter"><span aria-hidden="true" data-variant="secondary" data-component="CounterLabel" class="prc-CounterLabel-CounterLabel-X-kRU">12</span><span class="prc-VisuallyHidden-VisuallyHidden-Q0qSB"> (<!-- -->12<!-- -->)</span></span></a></li><li class="prc-UnderlineNav-UnderlineNavItem-syRjR"><a data-tab-item="actions" data-react-nav="repo" data-turbo-frame="repo-content-turbo-frame" class="prc-components-UnderlineItem-7fP-n" href="/highsource/jaxb-tools/actions" data-discover="true"><span data-component="icon"><svg data-component="Octicon" aria-hidden="true" focusable="false" class="octicon octicon-play" viewBox="0 0 16 16" width="16" height="16" fill="currentColor" display="inline-block" overflow="visible" style="vertical-align:text-bottom"><path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Zm4.879-2.773 4.264 2.559a.25.25 0 0 1 0 .428l-4.264 2.559A.25.25 0 0 1 6 10.559V5.442a.25.25 0 0 1 .379-.215Z"></path></svg></span><span data-component="text" data-content="Actions">Actions</span></a></li><li class="prc-UnderlineNav-UnderlineNavItem-syRjR"><a data-tab-item="projects" data-react-nav="repo" data-turbo-frame="repo-content-turbo-frame" class="prc-components-UnderlineItem-7fP-n" href="/highsource/jaxb-tools/projects" data-discover="true"><span data-component="icon"><svg data-component="Octicon" aria-hidden="true" focusable="false" class="octicon octicon-table" viewBox="0 0 16 16" width="16" height="16" fill="currentColor" display="inline-block" overflow="visible" style="vertical-align:text-bottom"><path d="M0 1.75C0 .784.784 0 1.75 0h12.5C15.216 0 16 .784 16 1.75v12.5A1.75 1.75 0 0 1 14.25 16H1.75A1.75 1.75 0 0 1 0 14.25ZM6.5 6.5v8h7.75a.25.25 0 0 0 .25-.25V6.5Zm8-1.5V1.75a.25.25 0 0 0-.25-.25H6.5V5Zm-13 1.5v7.75c0 .138.112.25.25.25H5v-8ZM5 5V1.5H1.75a.25.25 0 0 0-.25.25V5Z"></path></svg></span><span data-component="text" data-content="Projects">Projects</span></a></li><li class="prc-UnderlineNav-UnderlineNavItem-syRjR"><a aria-current="page" data-tab-item="wiki" data-turbo-frame="repo-content-turbo-frame" class="prc-components-UnderlineItem-7fP-n" href="/highsource/jaxb-tools/wiki" data-discover="true"><span data-component="icon"><svg data-component="Octicon" aria-hidden="true" focusable="false" class="octicon octicon-book" viewBox="0 0 16 16" width="16" height="16" fill="currentColor" display="inline-block" overflow="visible" style="vertical-align:text-bottom"><path d="M0 1.75A.75.75 0 0 1 .75 1h4.253c1.227 0 2.317.59 3 1.501A3.743 3.743 0 0 1 11.006 1h4.245a.75.75 0 0 1 .75.75v10.5a.75.75 0 0 1-.75.75h-4.507a2.25 2.25 0 0 0-1.591.659l-.622.621a.75.75 0 0 1-1.06 0l-.622-.621A2.25 2.25 0 0 0 5.258 13H.75a.75.75 0 0 1-.75-.75Zm7.251 10.324.004-5.073-.002-2.253A2.25 2.25 0 0 0 5.003 2.5H1.5v9h3.757a3.75 3.75 0 0 1 1.994.574ZM8.755 4.75l-.004 7.322a3.752 3.752 0 0 1 1.992-.572H14.5v-9h-3.495a2.25 2.25 0 0 0-2.25 2.25Z"></path></svg></span><span data-component="text" data-content="Wiki">Wiki</span></a></li><li class="prc-UnderlineNav-UnderlineNavItem-syRjR"><a data-tab-item="security-and-quality" data-turbo-frame="repo-content-turbo-frame" class="prc-components-UnderlineItem-7fP-n" href="/highsource/jaxb-tools/security" data-discover="true"><span data-component="icon"><svg data-component="Octicon" aria-hidden="true" focusable="false" class="octicon octicon-shield" viewBox="0 0 16 16" width="16" height="16" fill="currentColor" display="inline-block" overflow="visible" style="vertical-align:text-bottom"><path d="M7.467.133a1.748 1.748 0 0 1 1.066 0l5.25 1.68A1.75 1.75 0 0 1 15 3.48V7c0 1.566-.32 3.182-1.303 4.682-.983 1.498-2.585 2.813-5.032 3.855a1.697 1.697 0 0 1-1.33 0c-2.447-1.042-4.049-2.357-5.032-3.855C1.32 10.182 1 8.566 1 7V3.48a1.75 1.75 0 0 1 1.217-1.667Zm.61 1.429a.25.25 0 0 0-.153 0l-5.25 1.68a.25.25 0 0 0-.174.238V7c0 1.358.275 2.666 1.057 3.86.784 1.194 2.121 2.34 4.366 3.297a.196.196 0 0 0 .154 0c2.245-.956 3.582-2.104 4.366-3.298C13.225 9.666 13.5 8.36 13.5 7V3.48a.251.251 0 0 0-.174-.237l-5.25-1.68ZM8.75 4.75v3a.75.75 0 0 1-1.5 0v-3a.75.75 0 0 1 1.5 0ZM9 10.5a1 1 0 1 1-2 0 1 1 0 0 1 2 0Z"></path></svg></span><span data-component="text" data-content="Security and quality">Security and quality</span></a></li><li class="prc-UnderlineNav-UnderlineNavItem-syRjR"><a data-tab-item="insights" data-turbo-frame="repo-content-turbo-frame" class="prc-components-UnderlineItem-7fP-n" href="/highsource/jaxb-tools/pulse" data-discover="true"><span data-component="icon"><svg data-component="Octicon" aria-hidden="true" focusable="false" class="octicon octicon-graph" viewBox="0 0 16 16" width="16" height="16" fill="currentColor" display="inline-block" overflow="visible" style="vertical-align:text-bottom"><path d="M1.5 1.75V13.5h13.75a.75.75 0 0 1 0 1.5H.75a.75.75 0 0 1-.75-.75V1.75a.75.75 0 0 1 1.5 0Zm14.28 2.53-5.25 5.25a.75.75 0 0 1-1.06 0L7 7.06 4.28 9.78a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042l3.25-3.25a.75.75 0 0 1 1.06 0L10 7.94l4.72-4.72a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042Z"></path></svg></span><span data-component="text" data-content="Insights">Insights</span></a></li></ul><div class="prc-UnderlineNav-MoreButtonContainer-Dnrq6"><div class="prc-UnderlineNav-MoreButtonDivider-dN0a-"></div><button data-component="overflow-menu-button" type="button" aria-haspopup="true" aria-expanded="false" tabindex="0" class="prc-Button-ButtonBase-9n-Xk prc-UnderlineNav-MoreButton-Y8soj" data-loading="false" data-size="medium" data-variant="invisible" id="_R_2ktp_"><span data-component="buttonContent" data-align="center" class="prc-Button-ButtonContent-Iohp5"><span data-component="text" class="prc-Button-Label-FWkx3"><span>More<span class="prc-src-InternalVisuallyHidden-2YaI6"> items</span></span></span></span><span data-component="trailingAction" class="prc-Button-Visual-YNt2F prc-Button-VisualWrap-E4cnq"><svg data-component="Octicon" aria-hidden="true" focusable="false" class="octicon octicon-triangle-down" viewBox="0 0 16 16" width="16" height="16" fill="currentColor" display="inline-block" overflow="visible" style="vertical-align:text-bottom"><path d="m4.427 7.427 3.396 3.396a.25.25 0 0 0 .354 0l3.396-3.396A.25.25 0 0 0 11.396 7H4.604a.25.25 0 0 0-.177.427Z"></path></svg></span></button></div></nav><div class="d-none"></div></header></div>
 </react-partial>
 
 
@@ -440,10 +440,10 @@
 <div class="Box Box--condensed color-shadow-small">
   <div class="Box-header px-2 py-1 js-wiki-toggle-collapse" style="cursor: pointer">
     <h2 class="Box-title d-flex flex-items-center" id="wiki-pages-box-heading">
-      <button id="icon-button-cb5f20a9-e089-4745-b5a6-04c214fc9712" aria-controls="wiki-pages-toc" aria-expanded="false" aria-labelledby="tooltip-b7352f36-f7cd-4f48-b720-a6e6c4aa5908" type="button" data-view-component="true" class="Button Button--iconOnly Button--invisible Button--small js-wiki-sidebar-pages-toggle-chevron ">  <svg aria-hidden="true" data-component="Octicon" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-triangle-down Button-visual">
+      <button id="icon-button-a49f41b9-b888-4e42-a722-be73979b8f55" aria-controls="wiki-pages-toc" aria-expanded="false" aria-labelledby="tooltip-17aaaa77-d2c2-4298-a9ba-d719cc79359d" type="button" data-view-component="true" class="Button Button--iconOnly Button--invisible Button--small js-wiki-sidebar-pages-toggle-chevron ">  <svg aria-hidden="true" data-component="Octicon" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-triangle-down Button-visual">
     <path d="m4.427 7.427 3.396 3.396a.25.25 0 0 0 .354 0l3.396-3.396A.25.25 0 0 0 11.396 7H4.604a.25.25 0 0 0-.177.427Z"></path>
 </svg>
-</button><tool-tip id="tooltip-b7352f36-f7cd-4f48-b720-a6e6c4aa5908" for="icon-button-cb5f20a9-e089-4745-b5a6-04c214fc9712" popover="manual" data-direction="s" data-type="label" data-view-component="true" class="sr-only position-absolute">Wiki pages</tool-tip>
+</button><tool-tip id="tooltip-17aaaa77-d2c2-4298-a9ba-d719cc79359d" for="icon-button-a49f41b9-b888-4e42-a722-be73979b8f55" popover="manual" data-direction="s" data-type="label" data-view-component="true" class="sr-only position-absolute">Wiki pages</tool-tip>
 
       <span>Pages <span title="100" data-view-component="true" class="Counter Counter--primary">100</span></span>
     </h2>
@@ -474,7 +474,7 @@
       </div></a>  </div>
 
   <div id="Home-table-of-contents" class="d-none js-wiki-sidebar-toc-container">
-      <include-fragment loading="lazy" src="https://github.com/highsource/jaxb-tools/wiki/Home/_toc" data-nonce="v2:58873905-5a18-7708-c14a-0ce3103a3b7d" data-view-component="true" class="js-wiki-sidebar-toc-fragment">
+      <include-fragment loading="lazy" src="https://github.com/highsource/jaxb-tools/wiki/Home/_toc" data-nonce="v2:db252e24-7895-f43e-bca1-2421063ee7c6" data-view-component="true" class="js-wiki-sidebar-toc-fragment">
   
 
   <div data-show-on-forbidden-error hidden>
@@ -514,7 +514,7 @@
       </div></a>  </div>
 
   <div id="Annox-Home-table-of-contents" class="d-none js-wiki-sidebar-toc-container">
-      <include-fragment loading="lazy" src="https://github.com/highsource/jaxb-tools/wiki/Annox-Home/_toc" data-nonce="v2:58873905-5a18-7708-c14a-0ce3103a3b7d" data-view-component="true" class="js-wiki-sidebar-toc-fragment">
+      <include-fragment loading="lazy" src="https://github.com/highsource/jaxb-tools/wiki/Annox-Home/_toc" data-nonce="v2:db252e24-7895-f43e-bca1-2421063ee7c6" data-view-component="true" class="js-wiki-sidebar-toc-fragment">
   
 
   <div data-show-on-forbidden-error hidden>
@@ -554,7 +554,7 @@
       </div></a>  </div>
 
   <div id="Annox-JAXB-User-Guide-table-of-contents" class="d-none js-wiki-sidebar-toc-container">
-      <include-fragment loading="lazy" src="https://github.com/highsource/jaxb-tools/wiki/Annox-JAXB-User-Guide/_toc" data-nonce="v2:58873905-5a18-7708-c14a-0ce3103a3b7d" data-view-component="true" class="js-wiki-sidebar-toc-fragment">
+      <include-fragment loading="lazy" src="https://github.com/highsource/jaxb-tools/wiki/Annox-JAXB-User-Guide/_toc" data-nonce="v2:db252e24-7895-f43e-bca1-2421063ee7c6" data-view-component="true" class="js-wiki-sidebar-toc-fragment">
   
 
   <div data-show-on-forbidden-error hidden>
@@ -594,7 +594,7 @@
       </div></a>  </div>
 
   <div id="Annox-User-Guide-table-of-contents" class="d-none js-wiki-sidebar-toc-container">
-      <include-fragment loading="lazy" src="https://github.com/highsource/jaxb-tools/wiki/Annox-User-Guide/_toc" data-nonce="v2:58873905-5a18-7708-c14a-0ce3103a3b7d" data-view-component="true" class="js-wiki-sidebar-toc-fragment">
+      <include-fragment loading="lazy" src="https://github.com/highsource/jaxb-tools/wiki/Annox-User-Guide/_toc" data-nonce="v2:db252e24-7895-f43e-bca1-2421063ee7c6" data-view-component="true" class="js-wiki-sidebar-toc-fragment">
   
 
   <div data-show-on-forbidden-error hidden>
@@ -634,7 +634,7 @@
       </div></a>  </div>
 
   <div id="Basic-Usage-table-of-contents" class="d-none js-wiki-sidebar-toc-container">
-      <include-fragment loading="lazy" src="https://github.com/highsource/jaxb-tools/wiki/Basic-Usage/_toc" data-nonce="v2:58873905-5a18-7708-c14a-0ce3103a3b7d" data-view-component="true" class="js-wiki-sidebar-toc-fragment">
+      <include-fragment loading="lazy" src="https://github.com/highsource/jaxb-tools/wiki/Basic-Usage/_toc" data-nonce="v2:db252e24-7895-f43e-bca1-2421063ee7c6" data-view-component="true" class="js-wiki-sidebar-toc-fragment">
   
 
   <div data-show-on-forbidden-error hidden>
@@ -674,7 +674,7 @@
       </div></a>  </div>
 
   <div id="Best-Practices-table-of-contents" class="d-none js-wiki-sidebar-toc-container">
-      <include-fragment loading="lazy" src="https://github.com/highsource/jaxb-tools/wiki/Best-Practices/_toc" data-nonce="v2:58873905-5a18-7708-c14a-0ce3103a3b7d" data-view-component="true" class="js-wiki-sidebar-toc-fragment">
+      <include-fragment loading="lazy" src="https://github.com/highsource/jaxb-tools/wiki/Best-Practices/_toc" data-nonce="v2:db252e24-7895-f43e-bca1-2421063ee7c6" data-view-component="true" class="js-wiki-sidebar-toc-fragment">
   
 
   <div data-show-on-forbidden-error hidden>
@@ -714,7 +714,7 @@
       </div></a>  </div>
 
   <div id="Catalogs-in-Strict-Mode-table-of-contents" class="d-none js-wiki-sidebar-toc-container">
-      <include-fragment loading="lazy" src="https://github.com/highsource/jaxb-tools/wiki/Catalogs-in-Strict-Mode/_toc" data-nonce="v2:58873905-5a18-7708-c14a-0ce3103a3b7d" data-view-component="true" class="js-wiki-sidebar-toc-fragment">
+      <include-fragment loading="lazy" src="https://github.com/highsource/jaxb-tools/wiki/Catalogs-in-Strict-Mode/_toc" data-nonce="v2:db252e24-7895-f43e-bca1-2421063ee7c6" data-view-component="true" class="js-wiki-sidebar-toc-fragment">
   
 
   <div data-show-on-forbidden-error hidden>
@@ -754,7 +754,7 @@
       </div></a>  </div>
 
   <div id="Common-Pitfalls-and-Problems-table-of-contents" class="d-none js-wiki-sidebar-toc-container">
-      <include-fragment loading="lazy" src="https://github.com/highsource/jaxb-tools/wiki/Common-Pitfalls-and-Problems/_toc" data-nonce="v2:58873905-5a18-7708-c14a-0ce3103a3b7d" data-view-component="true" class="js-wiki-sidebar-toc-fragment">
+      <include-fragment loading="lazy" src="https://github.com/highsource/jaxb-tools/wiki/Common-Pitfalls-and-Problems/_toc" data-nonce="v2:db252e24-7895-f43e-bca1-2421063ee7c6" data-view-component="true" class="js-wiki-sidebar-toc-fragment">
   
 
   <div data-show-on-forbidden-error hidden>
@@ -794,7 +794,7 @@
       </div></a>  </div>
 
   <div id="Compiling-DTDs-table-of-contents" class="d-none js-wiki-sidebar-toc-container">
-      <include-fragment loading="lazy" src="https://github.com/highsource/jaxb-tools/wiki/Compiling-DTDs/_toc" data-nonce="v2:58873905-5a18-7708-c14a-0ce3103a3b7d" data-view-component="true" class="js-wiki-sidebar-toc-fragment">
+      <include-fragment loading="lazy" src="https://github.com/highsource/jaxb-tools/wiki/Compiling-DTDs/_toc" data-nonce="v2:db252e24-7895-f43e-bca1-2421063ee7c6" data-view-component="true" class="js-wiki-sidebar-toc-fragment">
   
 
   <div data-show-on-forbidden-error hidden>
@@ -834,7 +834,7 @@
       </div></a>  </div>
 
   <div id="Compiling-Large-Schema-Sets-table-of-contents" class="d-none js-wiki-sidebar-toc-container">
-      <include-fragment loading="lazy" src="https://github.com/highsource/jaxb-tools/wiki/Compiling-Large-Schema-Sets/_toc" data-nonce="v2:58873905-5a18-7708-c14a-0ce3103a3b7d" data-view-component="true" class="js-wiki-sidebar-toc-fragment">
+      <include-fragment loading="lazy" src="https://github.com/highsource/jaxb-tools/wiki/Compiling-Large-Schema-Sets/_toc" data-nonce="v2:db252e24-7895-f43e-bca1-2421063ee7c6" data-view-component="true" class="js-wiki-sidebar-toc-fragment">
   
 
   <div data-show-on-forbidden-error hidden>
@@ -874,7 +874,7 @@
       </div></a>  </div>
 
   <div id="Configuration-Cheat-Sheet-table-of-contents" class="d-none js-wiki-sidebar-toc-container">
-      <include-fragment loading="lazy" src="https://github.com/highsource/jaxb-tools/wiki/Configuration-Cheat-Sheet/_toc" data-nonce="v2:58873905-5a18-7708-c14a-0ce3103a3b7d" data-view-component="true" class="js-wiki-sidebar-toc-fragment">
+      <include-fragment loading="lazy" src="https://github.com/highsource/jaxb-tools/wiki/Configuration-Cheat-Sheet/_toc" data-nonce="v2:db252e24-7895-f43e-bca1-2421063ee7c6" data-view-component="true" class="js-wiki-sidebar-toc-fragment">
   
 
   <div data-show-on-forbidden-error hidden>
@@ -914,7 +914,7 @@
       </div></a>  </div>
 
   <div id="Configure-Target-Packages-in-Binding-Files-table-of-contents" class="d-none js-wiki-sidebar-toc-container">
-      <include-fragment loading="lazy" src="https://github.com/highsource/jaxb-tools/wiki/Configure-Target-Packages-in-Binding-Files/_toc" data-nonce="v2:58873905-5a18-7708-c14a-0ce3103a3b7d" data-view-component="true" class="js-wiki-sidebar-toc-fragment">
+      <include-fragment loading="lazy" src="https://github.com/highsource/jaxb-tools/wiki/Configure-Target-Packages-in-Binding-Files/_toc" data-nonce="v2:db252e24-7895-f43e-bca1-2421063ee7c6" data-view-component="true" class="js-wiki-sidebar-toc-fragment">
   
 
   <div data-show-on-forbidden-error hidden>
@@ -954,7 +954,7 @@
       </div></a>  </div>
 
   <div id="Configuring-Extension-Validation-and-XML-Security-table-of-contents" class="d-none js-wiki-sidebar-toc-container">
-      <include-fragment loading="lazy" src="https://github.com/highsource/jaxb-tools/wiki/Configuring-Extension-Validation-and-XML-Security/_toc" data-nonce="v2:58873905-5a18-7708-c14a-0ce3103a3b7d" data-view-component="true" class="js-wiki-sidebar-toc-fragment">
+      <include-fragment loading="lazy" src="https://github.com/highsource/jaxb-tools/wiki/Configuring-Extension-Validation-and-XML-Security/_toc" data-nonce="v2:db252e24-7895-f43e-bca1-2421063ee7c6" data-view-component="true" class="js-wiki-sidebar-toc-fragment">
   
 
   <div data-show-on-forbidden-error hidden>
@@ -994,7 +994,7 @@
       </div></a>  </div>
 
   <div id="Configuring-Proxies-table-of-contents" class="d-none js-wiki-sidebar-toc-container">
-      <include-fragment loading="lazy" src="https://github.com/highsource/jaxb-tools/wiki/Configuring-Proxies/_toc" data-nonce="v2:58873905-5a18-7708-c14a-0ce3103a3b7d" data-view-component="true" class="js-wiki-sidebar-toc-fragment">
+      <include-fragment loading="lazy" src="https://github.com/highsource/jaxb-tools/wiki/Configuring-Proxies/_toc" data-nonce="v2:db252e24-7895-f43e-bca1-2421063ee7c6" data-view-component="true" class="js-wiki-sidebar-toc-fragment">
   
 
   <div data-show-on-forbidden-error hidden>
@@ -1034,7 +1034,7 @@
       </div></a>  </div>
 
   <div id="Controlling-the-Output-table-of-contents" class="d-none js-wiki-sidebar-toc-container">
-      <include-fragment loading="lazy" src="https://github.com/highsource/jaxb-tools/wiki/Controlling-the-Output/_toc" data-nonce="v2:58873905-5a18-7708-c14a-0ce3103a3b7d" data-view-component="true" class="js-wiki-sidebar-toc-fragment">
+      <include-fragment loading="lazy" src="https://github.com/highsource/jaxb-tools/wiki/Controlling-the-Output/_toc" data-nonce="v2:db252e24-7895-f43e-bca1-2421063ee7c6" data-view-component="true" class="js-wiki-sidebar-toc-fragment">
   
 
   <div data-show-on-forbidden-error hidden>
@@ -1074,7 +1074,7 @@
       </div></a>  </div>
 
   <div id="Distribution-table-of-contents" class="d-none js-wiki-sidebar-toc-container">
-      <include-fragment loading="lazy" src="https://github.com/highsource/jaxb-tools/wiki/Distribution/_toc" data-nonce="v2:58873905-5a18-7708-c14a-0ce3103a3b7d" data-view-component="true" class="js-wiki-sidebar-toc-fragment">
+      <include-fragment loading="lazy" src="https://github.com/highsource/jaxb-tools/wiki/Distribution/_toc" data-nonce="v2:db252e24-7895-f43e-bca1-2421063ee7c6" data-view-component="true" class="js-wiki-sidebar-toc-fragment">
   
 
   <div data-show-on-forbidden-error hidden>
@@ -1114,7 +1114,7 @@
       </div></a>  </div>
 
   <div id="Do-Not-Use-forceRegenerate-table-of-contents" class="d-none js-wiki-sidebar-toc-container">
-      <include-fragment loading="lazy" src="https://github.com/highsource/jaxb-tools/wiki/Do-Not-Use-forceRegenerate/_toc" data-nonce="v2:58873905-5a18-7708-c14a-0ce3103a3b7d" data-view-component="true" class="js-wiki-sidebar-toc-fragment">
+      <include-fragment loading="lazy" src="https://github.com/highsource/jaxb-tools/wiki/Do-Not-Use-forceRegenerate/_toc" data-nonce="v2:db252e24-7895-f43e-bca1-2421063ee7c6" data-view-component="true" class="js-wiki-sidebar-toc-fragment">
   
 
   <div data-show-on-forbidden-error hidden>
@@ -1154,7 +1154,7 @@
       </div></a>  </div>
 
   <div id="FAQ-table-of-contents" class="d-none js-wiki-sidebar-toc-container">
-      <include-fragment loading="lazy" src="https://github.com/highsource/jaxb-tools/wiki/FAQ/_toc" data-nonce="v2:58873905-5a18-7708-c14a-0ce3103a3b7d" data-view-component="true" class="js-wiki-sidebar-toc-fragment">
+      <include-fragment loading="lazy" src="https://github.com/highsource/jaxb-tools/wiki/FAQ/_toc" data-nonce="v2:db252e24-7895-f43e-bca1-2421063ee7c6" data-view-component="true" class="js-wiki-sidebar-toc-fragment">
   
 
   <div data-show-on-forbidden-error hidden>
@@ -1194,7 +1194,7 @@
       </div></a>  </div>
 
   <div id="HyperJAXB3-Adding-required-properties-table-of-contents" class="d-none js-wiki-sidebar-toc-container">
-      <include-fragment loading="lazy" src="https://github.com/highsource/jaxb-tools/wiki/HyperJAXB3-Adding-required-properties/_toc" data-nonce="v2:58873905-5a18-7708-c14a-0ce3103a3b7d" data-view-component="true" class="js-wiki-sidebar-toc-fragment">
+      <include-fragment loading="lazy" src="https://github.com/highsource/jaxb-tools/wiki/HyperJAXB3-Adding-required-properties/_toc" data-nonce="v2:db252e24-7895-f43e-bca1-2421063ee7c6" data-view-component="true" class="js-wiki-sidebar-toc-fragment">
   
 
   <div data-show-on-forbidden-error hidden>
@@ -1234,7 +1234,7 @@
       </div></a>  </div>
 
   <div id="HyperJAXB3-Apache-CXF-Tutorial---Building-JAX-WS,-JAXB-and-JPA-based-web-service-with-Apache-CXF,-Spring-and-Hyperjaxb3-table-of-contents" class="d-none js-wiki-sidebar-toc-container">
-      <include-fragment loading="lazy" src="https://github.com/highsource/jaxb-tools/wiki/HyperJAXB3-Apache-CXF-Tutorial---Building-JAX-WS,-JAXB-and-JPA-based-web-service-with-Apache-CXF,-Spring-and-Hyperjaxb3/_toc" data-nonce="v2:58873905-5a18-7708-c14a-0ce3103a3b7d" data-view-component="true" class="js-wiki-sidebar-toc-fragment">
+      <include-fragment loading="lazy" src="https://github.com/highsource/jaxb-tools/wiki/HyperJAXB3-Apache-CXF-Tutorial---Building-JAX-WS,-JAXB-and-JPA-based-web-service-with-Apache-CXF,-Spring-and-Hyperjaxb3/_toc" data-nonce="v2:db252e24-7895-f43e-bca1-2421063ee7c6" data-view-component="true" class="js-wiki-sidebar-toc-fragment">
   
 
   <div data-show-on-forbidden-error hidden>
@@ -1274,7 +1274,7 @@
       </div></a>  </div>
 
   <div id="HyperJAXB3-Applying-workarounds-for-JAXB-vs.-JPA-conflicts-table-of-contents" class="d-none js-wiki-sidebar-toc-container">
-      <include-fragment loading="lazy" src="https://github.com/highsource/jaxb-tools/wiki/HyperJAXB3-Applying-workarounds-for-JAXB-vs.-JPA-conflicts/_toc" data-nonce="v2:58873905-5a18-7708-c14a-0ce3103a3b7d" data-view-component="true" class="js-wiki-sidebar-toc-fragment">
+      <include-fragment loading="lazy" src="https://github.com/highsource/jaxb-tools/wiki/HyperJAXB3-Applying-workarounds-for-JAXB-vs.-JPA-conflicts/_toc" data-nonce="v2:db252e24-7895-f43e-bca1-2421063ee7c6" data-view-component="true" class="js-wiki-sidebar-toc-fragment">
   
 
   <div data-show-on-forbidden-error hidden>
@@ -1314,7 +1314,7 @@
       </div></a>  </div>
 
   <div id="HyperJAXB3-Customization-Guide-table-of-contents" class="d-none js-wiki-sidebar-toc-container">
-      <include-fragment loading="lazy" src="https://github.com/highsource/jaxb-tools/wiki/HyperJAXB3-Customization-Guide/_toc" data-nonce="v2:58873905-5a18-7708-c14a-0ce3103a3b7d" data-view-component="true" class="js-wiki-sidebar-toc-fragment">
+      <include-fragment loading="lazy" src="https://github.com/highsource/jaxb-tools/wiki/HyperJAXB3-Customization-Guide/_toc" data-nonce="v2:db252e24-7895-f43e-bca1-2421063ee7c6" data-view-component="true" class="js-wiki-sidebar-toc-fragment">
   
 
   <div data-show-on-forbidden-error hidden>
@@ -1354,7 +1354,7 @@
       </div></a>  </div>
 
   <div id="HyperJAXB3-Customizing-default-mappings-table-of-contents" class="d-none js-wiki-sidebar-toc-container">
-      <include-fragment loading="lazy" src="https://github.com/highsource/jaxb-tools/wiki/HyperJAXB3-Customizing-default-mappings/_toc" data-nonce="v2:58873905-5a18-7708-c14a-0ce3103a3b7d" data-view-component="true" class="js-wiki-sidebar-toc-fragment">
+      <include-fragment loading="lazy" src="https://github.com/highsource/jaxb-tools/wiki/HyperJAXB3-Customizing-default-mappings/_toc" data-nonce="v2:db252e24-7895-f43e-bca1-2421063ee7c6" data-view-component="true" class="js-wiki-sidebar-toc-fragment">
   
 
   <div data-show-on-forbidden-error hidden>
@@ -1394,7 +1394,7 @@
       </div></a>  </div>
 
   <div id="HyperJAXB3-Customizing-properties-and-associations-table-of-contents" class="d-none js-wiki-sidebar-toc-container">
-      <include-fragment loading="lazy" src="https://github.com/highsource/jaxb-tools/wiki/HyperJAXB3-Customizing-properties-and-associations/_toc" data-nonce="v2:58873905-5a18-7708-c14a-0ce3103a3b7d" data-view-component="true" class="js-wiki-sidebar-toc-fragment">
+      <include-fragment loading="lazy" src="https://github.com/highsource/jaxb-tools/wiki/HyperJAXB3-Customizing-properties-and-associations/_toc" data-nonce="v2:db252e24-7895-f43e-bca1-2421063ee7c6" data-view-component="true" class="js-wiki-sidebar-toc-fragment">
   
 
   <div data-show-on-forbidden-error hidden>
@@ -1434,7 +1434,7 @@
       </div></a>  </div>
 
   <div id="HyperJAXB3-EclipseLink-table-of-contents" class="d-none js-wiki-sidebar-toc-container">
-      <include-fragment loading="lazy" src="https://github.com/highsource/jaxb-tools/wiki/HyperJAXB3-EclipseLink/_toc" data-nonce="v2:58873905-5a18-7708-c14a-0ce3103a3b7d" data-view-component="true" class="js-wiki-sidebar-toc-fragment">
+      <include-fragment loading="lazy" src="https://github.com/highsource/jaxb-tools/wiki/HyperJAXB3-EclipseLink/_toc" data-nonce="v2:db252e24-7895-f43e-bca1-2421063ee7c6" data-view-component="true" class="js-wiki-sidebar-toc-fragment">
   
 
   <div data-show-on-forbidden-error hidden>
@@ -1474,7 +1474,7 @@
       </div></a>  </div>
 
   <div id="HyperJAXB3-Extension-guide-table-of-contents" class="d-none js-wiki-sidebar-toc-container">
-      <include-fragment loading="lazy" src="https://github.com/highsource/jaxb-tools/wiki/HyperJAXB3-Extension-guide/_toc" data-nonce="v2:58873905-5a18-7708-c14a-0ce3103a3b7d" data-view-component="true" class="js-wiki-sidebar-toc-fragment">
+      <include-fragment loading="lazy" src="https://github.com/highsource/jaxb-tools/wiki/HyperJAXB3-Extension-guide/_toc" data-nonce="v2:db252e24-7895-f43e-bca1-2421063ee7c6" data-view-component="true" class="js-wiki-sidebar-toc-fragment">
   
 
   <div data-show-on-forbidden-error hidden>
@@ -1514,7 +1514,7 @@
       </div></a>  </div>
 
   <div id="HyperJAXB3-FAQ-table-of-contents" class="d-none js-wiki-sidebar-toc-container">
-      <include-fragment loading="lazy" src="https://github.com/highsource/jaxb-tools/wiki/HyperJAXB3-FAQ/_toc" data-nonce="v2:58873905-5a18-7708-c14a-0ce3103a3b7d" data-view-component="true" class="js-wiki-sidebar-toc-fragment">
+      <include-fragment loading="lazy" src="https://github.com/highsource/jaxb-tools/wiki/HyperJAXB3-FAQ/_toc" data-nonce="v2:db252e24-7895-f43e-bca1-2421063ee7c6" data-view-component="true" class="js-wiki-sidebar-toc-fragment">
   
 
   <div data-show-on-forbidden-error hidden>
@@ -1554,7 +1554,7 @@
       </div></a>  </div>
 
   <div id="HyperJAXB3-Generating-equals-and-hashCode-methods-table-of-contents" class="d-none js-wiki-sidebar-toc-container">
-      <include-fragment loading="lazy" src="https://github.com/highsource/jaxb-tools/wiki/HyperJAXB3-Generating-equals-and-hashCode-methods/_toc" data-nonce="v2:58873905-5a18-7708-c14a-0ce3103a3b7d" data-view-component="true" class="js-wiki-sidebar-toc-fragment">
+      <include-fragment loading="lazy" src="https://github.com/highsource/jaxb-tools/wiki/HyperJAXB3-Generating-equals-and-hashCode-methods/_toc" data-nonce="v2:db252e24-7895-f43e-bca1-2421063ee7c6" data-view-component="true" class="js-wiki-sidebar-toc-fragment">
   
 
   <div data-show-on-forbidden-error hidden>
@@ -1594,7 +1594,7 @@
       </div></a>  </div>
 
   <div id="HyperJAXB3-Generating-ORM-metadata-table-of-contents" class="d-none js-wiki-sidebar-toc-container">
-      <include-fragment loading="lazy" src="https://github.com/highsource/jaxb-tools/wiki/HyperJAXB3-Generating-ORM-metadata/_toc" data-nonce="v2:58873905-5a18-7708-c14a-0ce3103a3b7d" data-view-component="true" class="js-wiki-sidebar-toc-fragment">
+      <include-fragment loading="lazy" src="https://github.com/highsource/jaxb-tools/wiki/HyperJAXB3-Generating-ORM-metadata/_toc" data-nonce="v2:db252e24-7895-f43e-bca1-2421063ee7c6" data-view-component="true" class="js-wiki-sidebar-toc-fragment">
   
 
   <div data-show-on-forbidden-error hidden>
@@ -1634,7 +1634,7 @@
       </div></a>  </div>
 
   <div id="HyperJAXB3-Generating-persistence-unit-descriptor-table-of-contents" class="d-none js-wiki-sidebar-toc-container">
-      <include-fragment loading="lazy" src="https://github.com/highsource/jaxb-tools/wiki/HyperJAXB3-Generating-persistence-unit-descriptor/_toc" data-nonce="v2:58873905-5a18-7708-c14a-0ce3103a3b7d" data-view-component="true" class="js-wiki-sidebar-toc-fragment">
+      <include-fragment loading="lazy" src="https://github.com/highsource/jaxb-tools/wiki/HyperJAXB3-Generating-persistence-unit-descriptor/_toc" data-nonce="v2:db252e24-7895-f43e-bca1-2421063ee7c6" data-view-component="true" class="js-wiki-sidebar-toc-fragment">
   
 
   <div data-show-on-forbidden-error hidden>
@@ -1674,7 +1674,7 @@
       </div></a>  </div>
 
   <div id="HyperJAXB3-Hibernate-table-of-contents" class="d-none js-wiki-sidebar-toc-container">
-      <include-fragment loading="lazy" src="https://github.com/highsource/jaxb-tools/wiki/HyperJAXB3-Hibernate/_toc" data-nonce="v2:58873905-5a18-7708-c14a-0ce3103a3b7d" data-view-component="true" class="js-wiki-sidebar-toc-fragment">
+      <include-fragment loading="lazy" src="https://github.com/highsource/jaxb-tools/wiki/HyperJAXB3-Hibernate/_toc" data-nonce="v2:db252e24-7895-f43e-bca1-2421063ee7c6" data-view-component="true" class="js-wiki-sidebar-toc-fragment">
   
 
   <div data-show-on-forbidden-error hidden>
@@ -1714,7 +1714,7 @@
       </div></a>  </div>
 
   <div id="HyperJAXB3-Home-table-of-contents" class="d-none js-wiki-sidebar-toc-container">
-      <include-fragment loading="lazy" src="https://github.com/highsource/jaxb-tools/wiki/HyperJAXB3-Home/_toc" data-nonce="v2:58873905-5a18-7708-c14a-0ce3103a3b7d" data-view-component="true" class="js-wiki-sidebar-toc-fragment">
+      <include-fragment loading="lazy" src="https://github.com/highsource/jaxb-tools/wiki/HyperJAXB3-Home/_toc" data-nonce="v2:db252e24-7895-f43e-bca1-2421063ee7c6" data-view-component="true" class="js-wiki-sidebar-toc-fragment">
   
 
   <div data-show-on-forbidden-error hidden>
@@ -1754,7 +1754,7 @@
       </div></a>  </div>
 
   <div id="HyperJAXB3-How-to-Add-a-Foreign-Key-Constraint-table-of-contents" class="d-none js-wiki-sidebar-toc-container">
-      <include-fragment loading="lazy" src="https://github.com/highsource/jaxb-tools/wiki/HyperJAXB3-How-to-Add-a-Foreign-Key-Constraint/_toc" data-nonce="v2:58873905-5a18-7708-c14a-0ce3103a3b7d" data-view-component="true" class="js-wiki-sidebar-toc-fragment">
+      <include-fragment loading="lazy" src="https://github.com/highsource/jaxb-tools/wiki/HyperJAXB3-How-to-Add-a-Foreign-Key-Constraint/_toc" data-nonce="v2:db252e24-7895-f43e-bca1-2421063ee7c6" data-view-component="true" class="js-wiki-sidebar-toc-fragment">
   
 
   <div data-show-on-forbidden-error hidden>
@@ -1794,7 +1794,7 @@
       </div></a>  </div>
 
   <div id="HyperJAXB3-JAXB-vs.-JPA-table-of-contents" class="d-none js-wiki-sidebar-toc-container">
-      <include-fragment loading="lazy" src="https://github.com/highsource/jaxb-tools/wiki/HyperJAXB3-JAXB-vs.-JPA/_toc" data-nonce="v2:58873905-5a18-7708-c14a-0ce3103a3b7d" data-view-component="true" class="js-wiki-sidebar-toc-fragment">
+      <include-fragment loading="lazy" src="https://github.com/highsource/jaxb-tools/wiki/HyperJAXB3-JAXB-vs.-JPA/_toc" data-nonce="v2:db252e24-7895-f43e-bca1-2421063ee7c6" data-view-component="true" class="js-wiki-sidebar-toc-fragment">
   
 
   <div data-show-on-forbidden-error hidden>
@@ -1834,7 +1834,7 @@
       </div></a>  </div>
 
   <div id="HyperJAXB3-JDK-Support-table-of-contents" class="d-none js-wiki-sidebar-toc-container">
-      <include-fragment loading="lazy" src="https://github.com/highsource/jaxb-tools/wiki/HyperJAXB3-JDK-Support/_toc" data-nonce="v2:58873905-5a18-7708-c14a-0ce3103a3b7d" data-view-component="true" class="js-wiki-sidebar-toc-fragment">
+      <include-fragment loading="lazy" src="https://github.com/highsource/jaxb-tools/wiki/HyperJAXB3-JDK-Support/_toc" data-nonce="v2:db252e24-7895-f43e-bca1-2421063ee7c6" data-view-component="true" class="js-wiki-sidebar-toc-fragment">
   
 
   <div data-show-on-forbidden-error hidden>
@@ -1874,7 +1874,7 @@
       </div></a>  </div>
 
   <div id="HyperJAXB3-JPA-table-of-contents" class="d-none js-wiki-sidebar-toc-container">
-      <include-fragment loading="lazy" src="https://github.com/highsource/jaxb-tools/wiki/HyperJAXB3-JPA/_toc" data-nonce="v2:58873905-5a18-7708-c14a-0ce3103a3b7d" data-view-component="true" class="js-wiki-sidebar-toc-fragment">
+      <include-fragment loading="lazy" src="https://github.com/highsource/jaxb-tools/wiki/HyperJAXB3-JPA/_toc" data-nonce="v2:db252e24-7895-f43e-bca1-2421063ee7c6" data-view-component="true" class="js-wiki-sidebar-toc-fragment">
   
 
   <div data-show-on-forbidden-error hidden>
@@ -1914,7 +1914,7 @@
       </div></a>  </div>
 
   <div id="HyperJAXB3-JPA-Providers-table-of-contents" class="d-none js-wiki-sidebar-toc-container">
-      <include-fragment loading="lazy" src="https://github.com/highsource/jaxb-tools/wiki/HyperJAXB3-JPA-Providers/_toc" data-nonce="v2:58873905-5a18-7708-c14a-0ce3103a3b7d" data-view-component="true" class="js-wiki-sidebar-toc-fragment">
+      <include-fragment loading="lazy" src="https://github.com/highsource/jaxb-tools/wiki/HyperJAXB3-JPA-Providers/_toc" data-nonce="v2:db252e24-7895-f43e-bca1-2421063ee7c6" data-view-component="true" class="js-wiki-sidebar-toc-fragment">
   
 
   <div data-show-on-forbidden-error hidden>
@@ -1954,7 +1954,7 @@
       </div></a>  </div>
 
   <div id="HyperJAXB3-Miscellaneous-customizations-table-of-contents" class="d-none js-wiki-sidebar-toc-container">
-      <include-fragment loading="lazy" src="https://github.com/highsource/jaxb-tools/wiki/HyperJAXB3-Miscellaneous-customizations/_toc" data-nonce="v2:58873905-5a18-7708-c14a-0ce3103a3b7d" data-view-component="true" class="js-wiki-sidebar-toc-fragment">
+      <include-fragment loading="lazy" src="https://github.com/highsource/jaxb-tools/wiki/HyperJAXB3-Miscellaneous-customizations/_toc" data-nonce="v2:db252e24-7895-f43e-bca1-2421063ee7c6" data-view-component="true" class="js-wiki-sidebar-toc-fragment">
   
 
   <div data-show-on-forbidden-error hidden>
@@ -1994,7 +1994,7 @@
       </div></a>  </div>
 
   <div id="HyperJAXB3-Oracle-TopLink-table-of-contents" class="d-none js-wiki-sidebar-toc-container">
-      <include-fragment loading="lazy" src="https://github.com/highsource/jaxb-tools/wiki/HyperJAXB3-Oracle-TopLink/_toc" data-nonce="v2:58873905-5a18-7708-c14a-0ce3103a3b7d" data-view-component="true" class="js-wiki-sidebar-toc-fragment">
+      <include-fragment loading="lazy" src="https://github.com/highsource/jaxb-tools/wiki/HyperJAXB3-Oracle-TopLink/_toc" data-nonce="v2:db252e24-7895-f43e-bca1-2421063ee7c6" data-view-component="true" class="js-wiki-sidebar-toc-fragment">
   
 
   <div data-show-on-forbidden-error hidden>
@@ -2034,7 +2034,7 @@
       </div></a>  </div>
 
   <div id="HyperJAXB3-Per-type-customizations-table-of-contents" class="d-none js-wiki-sidebar-toc-container">
-      <include-fragment loading="lazy" src="https://github.com/highsource/jaxb-tools/wiki/HyperJAXB3-Per-type-customizations/_toc" data-nonce="v2:58873905-5a18-7708-c14a-0ce3103a3b7d" data-view-component="true" class="js-wiki-sidebar-toc-fragment">
+      <include-fragment loading="lazy" src="https://github.com/highsource/jaxb-tools/wiki/HyperJAXB3-Per-type-customizations/_toc" data-nonce="v2:db252e24-7895-f43e-bca1-2421063ee7c6" data-view-component="true" class="js-wiki-sidebar-toc-fragment">
   
 
   <div data-show-on-forbidden-error hidden>
@@ -2074,7 +2074,7 @@
       </div></a>  </div>
 
   <div id="HyperJAXB3-Reference-Single-Page-table-of-contents" class="d-none js-wiki-sidebar-toc-container">
-      <include-fragment loading="lazy" src="https://github.com/highsource/jaxb-tools/wiki/HyperJAXB3-Reference-Single-Page/_toc" data-nonce="v2:58873905-5a18-7708-c14a-0ce3103a3b7d" data-view-component="true" class="js-wiki-sidebar-toc-fragment">
+      <include-fragment loading="lazy" src="https://github.com/highsource/jaxb-tools/wiki/HyperJAXB3-Reference-Single-Page/_toc" data-nonce="v2:db252e24-7895-f43e-bca1-2421063ee7c6" data-view-component="true" class="js-wiki-sidebar-toc-fragment">
   
 
   <div data-show-on-forbidden-error hidden>
@@ -2114,7 +2114,7 @@
       </div></a>  </div>
 
   <div id="HyperJAXB3-Test-Projects-table-of-contents" class="d-none js-wiki-sidebar-toc-container">
-      <include-fragment loading="lazy" src="https://github.com/highsource/jaxb-tools/wiki/HyperJAXB3-Test-Projects/_toc" data-nonce="v2:58873905-5a18-7708-c14a-0ce3103a3b7d" data-view-component="true" class="js-wiki-sidebar-toc-fragment">
+      <include-fragment loading="lazy" src="https://github.com/highsource/jaxb-tools/wiki/HyperJAXB3-Test-Projects/_toc" data-nonce="v2:db252e24-7895-f43e-bca1-2421063ee7c6" data-view-component="true" class="js-wiki-sidebar-toc-fragment">
   
 
   <div data-show-on-forbidden-error hidden>
@@ -2154,7 +2154,7 @@
       </div></a>  </div>
 
   <div id="HyperJAXB3-XJC-table-of-contents" class="d-none js-wiki-sidebar-toc-container">
-      <include-fragment loading="lazy" src="https://github.com/highsource/jaxb-tools/wiki/HyperJAXB3-XJC/_toc" data-nonce="v2:58873905-5a18-7708-c14a-0ce3103a3b7d" data-view-component="true" class="js-wiki-sidebar-toc-fragment">
+      <include-fragment loading="lazy" src="https://github.com/highsource/jaxb-tools/wiki/HyperJAXB3-XJC/_toc" data-nonce="v2:db252e24-7895-f43e-bca1-2421063ee7c6" data-view-component="true" class="js-wiki-sidebar-toc-fragment">
   
 
   <div data-show-on-forbidden-error hidden>
@@ -2194,7 +2194,7 @@
       </div></a>  </div>
 
   <div id="IDE-Integration-table-of-contents" class="d-none js-wiki-sidebar-toc-container">
-      <include-fragment loading="lazy" src="https://github.com/highsource/jaxb-tools/wiki/IDE-Integration/_toc" data-nonce="v2:58873905-5a18-7708-c14a-0ce3103a3b7d" data-view-component="true" class="js-wiki-sidebar-toc-fragment">
+      <include-fragment loading="lazy" src="https://github.com/highsource/jaxb-tools/wiki/IDE-Integration/_toc" data-nonce="v2:db252e24-7895-f43e-bca1-2421063ee7c6" data-view-component="true" class="js-wiki-sidebar-toc-fragment">
   
 
   <div data-show-on-forbidden-error hidden>
@@ -2234,7 +2234,7 @@
       </div></a>  </div>
 
   <div id="JAXB-Annotate-Home-table-of-contents" class="d-none js-wiki-sidebar-toc-container">
-      <include-fragment loading="lazy" src="https://github.com/highsource/jaxb-tools/wiki/JAXB-Annotate-Home/_toc" data-nonce="v2:58873905-5a18-7708-c14a-0ce3103a3b7d" data-view-component="true" class="js-wiki-sidebar-toc-fragment">
+      <include-fragment loading="lazy" src="https://github.com/highsource/jaxb-tools/wiki/JAXB-Annotate-Home/_toc" data-nonce="v2:db252e24-7895-f43e-bca1-2421063ee7c6" data-view-component="true" class="js-wiki-sidebar-toc-fragment">
   
 
   <div data-show-on-forbidden-error hidden>
@@ -2304,7 +2304,7 @@
       </div></a>  </div>
 
   <div id="JAXB-CamelCase-Plugin-table-of-contents" class="d-none js-wiki-sidebar-toc-container">
-      <include-fragment loading="lazy" src="https://github.com/highsource/jaxb-tools/wiki/JAXB-CamelCase-Plugin/_toc" data-nonce="v2:58873905-5a18-7708-c14a-0ce3103a3b7d" data-view-component="true" class="js-wiki-sidebar-toc-fragment">
+      <include-fragment loading="lazy" src="https://github.com/highsource/jaxb-tools/wiki/JAXB-CamelCase-Plugin/_toc" data-nonce="v2:db252e24-7895-f43e-bca1-2421063ee7c6" data-view-component="true" class="js-wiki-sidebar-toc-fragment">
   
 
   <div data-show-on-forbidden-error hidden>
@@ -2344,7 +2344,7 @@
       </div></a>  </div>
 
   <div id="JAXB-Maven-Plugin-table-of-contents" class="d-none js-wiki-sidebar-toc-container">
-      <include-fragment loading="lazy" src="https://github.com/highsource/jaxb-tools/wiki/JAXB-Maven-Plugin/_toc" data-nonce="v2:58873905-5a18-7708-c14a-0ce3103a3b7d" data-view-component="true" class="js-wiki-sidebar-toc-fragment">
+      <include-fragment loading="lazy" src="https://github.com/highsource/jaxb-tools/wiki/JAXB-Maven-Plugin/_toc" data-nonce="v2:db252e24-7895-f43e-bca1-2421063ee7c6" data-view-component="true" class="js-wiki-sidebar-toc-fragment">
   
 
   <div data-show-on-forbidden-error hidden>
@@ -2384,7 +2384,7 @@
       </div></a>  </div>
 
   <div id="JAXB-Parent-Pointer-Plugin-table-of-contents" class="d-none js-wiki-sidebar-toc-container">
-      <include-fragment loading="lazy" src="https://github.com/highsource/jaxb-tools/wiki/JAXB-Parent-Pointer-Plugin/_toc" data-nonce="v2:58873905-5a18-7708-c14a-0ce3103a3b7d" data-view-component="true" class="js-wiki-sidebar-toc-fragment">
+      <include-fragment loading="lazy" src="https://github.com/highsource/jaxb-tools/wiki/JAXB-Parent-Pointer-Plugin/_toc" data-nonce="v2:db252e24-7895-f43e-bca1-2421063ee7c6" data-view-component="true" class="js-wiki-sidebar-toc-fragment">
   
 
   <div data-show-on-forbidden-error hidden>
@@ -2424,7 +2424,7 @@
       </div></a>  </div>
 
   <div id="JAXB-Property-Listener-Injector-Plugin-table-of-contents" class="d-none js-wiki-sidebar-toc-container">
-      <include-fragment loading="lazy" src="https://github.com/highsource/jaxb-tools/wiki/JAXB-Property-Listener-Injector-Plugin/_toc" data-nonce="v2:58873905-5a18-7708-c14a-0ce3103a3b7d" data-view-component="true" class="js-wiki-sidebar-toc-fragment">
+      <include-fragment loading="lazy" src="https://github.com/highsource/jaxb-tools/wiki/JAXB-Property-Listener-Injector-Plugin/_toc" data-nonce="v2:db252e24-7895-f43e-bca1-2421063ee7c6" data-view-component="true" class="js-wiki-sidebar-toc-fragment">
   
 
   <div data-show-on-forbidden-error hidden>
@@ -2464,7 +2464,7 @@
       </div></a>  </div>
 
   <div id="JAXB-Tools-Migration-Guide-table-of-contents" class="d-none js-wiki-sidebar-toc-container">
-      <include-fragment loading="lazy" src="https://github.com/highsource/jaxb-tools/wiki/JAXB-Tools-Migration-Guide/_toc" data-nonce="v2:58873905-5a18-7708-c14a-0ce3103a3b7d" data-view-component="true" class="js-wiki-sidebar-toc-fragment">
+      <include-fragment loading="lazy" src="https://github.com/highsource/jaxb-tools/wiki/JAXB-Tools-Migration-Guide/_toc" data-nonce="v2:db252e24-7895-f43e-bca1-2421063ee7c6" data-view-component="true" class="js-wiki-sidebar-toc-fragment">
   
 
   <div data-show-on-forbidden-error hidden>
@@ -2504,7 +2504,7 @@
       </div></a>  </div>
 
   <div id="JAXB-XML-ElementWrapper-Plugin-table-of-contents" class="d-none js-wiki-sidebar-toc-container">
-      <include-fragment loading="lazy" src="https://github.com/highsource/jaxb-tools/wiki/JAXB-XML-ElementWrapper-Plugin/_toc" data-nonce="v2:58873905-5a18-7708-c14a-0ce3103a3b7d" data-view-component="true" class="js-wiki-sidebar-toc-fragment">
+      <include-fragment loading="lazy" src="https://github.com/highsource/jaxb-tools/wiki/JAXB-XML-ElementWrapper-Plugin/_toc" data-nonce="v2:db252e24-7895-f43e-bca1-2421063ee7c6" data-view-component="true" class="js-wiki-sidebar-toc-fragment">
   
 
   <div data-show-on-forbidden-error hidden>
@@ -2544,7 +2544,7 @@
       </div></a>  </div>
 
   <div id="JAXB2-AutoInheritance-Plugin-table-of-contents" class="d-none js-wiki-sidebar-toc-container">
-      <include-fragment loading="lazy" src="https://github.com/highsource/jaxb-tools/wiki/JAXB2-AutoInheritance-Plugin/_toc" data-nonce="v2:58873905-5a18-7708-c14a-0ce3103a3b7d" data-view-component="true" class="js-wiki-sidebar-toc-fragment">
+      <include-fragment loading="lazy" src="https://github.com/highsource/jaxb-tools/wiki/JAXB2-AutoInheritance-Plugin/_toc" data-nonce="v2:db252e24-7895-f43e-bca1-2421063ee7c6" data-view-component="true" class="js-wiki-sidebar-toc-fragment">
   
 
   <div data-show-on-forbidden-error hidden>
@@ -2584,7 +2584,7 @@
       </div></a>  </div>
 
   <div id="JAXB2-Basic-table-of-contents" class="d-none js-wiki-sidebar-toc-container">
-      <include-fragment loading="lazy" src="https://github.com/highsource/jaxb-tools/wiki/JAXB2-Basic/_toc" data-nonce="v2:58873905-5a18-7708-c14a-0ce3103a3b7d" data-view-component="true" class="js-wiki-sidebar-toc-fragment">
+      <include-fragment loading="lazy" src="https://github.com/highsource/jaxb-tools/wiki/JAXB2-Basic/_toc" data-nonce="v2:db252e24-7895-f43e-bca1-2421063ee7c6" data-view-component="true" class="js-wiki-sidebar-toc-fragment">
   
 
   <div data-show-on-forbidden-error hidden>
@@ -2624,7 +2624,7 @@
       </div></a>  </div>
 
   <div id="JAXB2-Basics-Plugins-List-table-of-contents" class="d-none js-wiki-sidebar-toc-container">
-      <include-fragment loading="lazy" src="https://github.com/highsource/jaxb-tools/wiki/JAXB2-Basics-Plugins-List/_toc" data-nonce="v2:58873905-5a18-7708-c14a-0ce3103a3b7d" data-view-component="true" class="js-wiki-sidebar-toc-fragment">
+      <include-fragment loading="lazy" src="https://github.com/highsource/jaxb-tools/wiki/JAXB2-Basics-Plugins-List/_toc" data-nonce="v2:db252e24-7895-f43e-bca1-2421063ee7c6" data-view-component="true" class="js-wiki-sidebar-toc-fragment">
   
 
   <div data-show-on-forbidden-error hidden>
@@ -2664,7 +2664,7 @@
       </div></a>  </div>
 
   <div id="JAXB2-Basics-Sample-Projects-table-of-contents" class="d-none js-wiki-sidebar-toc-container">
-      <include-fragment loading="lazy" src="https://github.com/highsource/jaxb-tools/wiki/JAXB2-Basics-Sample-Projects/_toc" data-nonce="v2:58873905-5a18-7708-c14a-0ce3103a3b7d" data-view-component="true" class="js-wiki-sidebar-toc-fragment">
+      <include-fragment loading="lazy" src="https://github.com/highsource/jaxb-tools/wiki/JAXB2-Basics-Sample-Projects/_toc" data-nonce="v2:db252e24-7895-f43e-bca1-2421063ee7c6" data-view-component="true" class="js-wiki-sidebar-toc-fragment">
   
 
   <div data-show-on-forbidden-error hidden>
@@ -2704,7 +2704,7 @@
       </div></a>  </div>
 
   <div id="JAXB2-Commons-Lang-Plugin-table-of-contents" class="d-none js-wiki-sidebar-toc-container">
-      <include-fragment loading="lazy" src="https://github.com/highsource/jaxb-tools/wiki/JAXB2-Commons-Lang-Plugin/_toc" data-nonce="v2:58873905-5a18-7708-c14a-0ce3103a3b7d" data-view-component="true" class="js-wiki-sidebar-toc-fragment">
+      <include-fragment loading="lazy" src="https://github.com/highsource/jaxb-tools/wiki/JAXB2-Commons-Lang-Plugin/_toc" data-nonce="v2:db252e24-7895-f43e-bca1-2421063ee7c6" data-view-component="true" class="js-wiki-sidebar-toc-fragment">
   
 
   <div data-show-on-forbidden-error hidden>
@@ -2744,7 +2744,7 @@
       </div></a>  </div>
 
   <div id="JAXB2-Copyable-Plugin-table-of-contents" class="d-none js-wiki-sidebar-toc-container">
-      <include-fragment loading="lazy" src="https://github.com/highsource/jaxb-tools/wiki/JAXB2-Copyable-Plugin/_toc" data-nonce="v2:58873905-5a18-7708-c14a-0ce3103a3b7d" data-view-component="true" class="js-wiki-sidebar-toc-fragment">
+      <include-fragment loading="lazy" src="https://github.com/highsource/jaxb-tools/wiki/JAXB2-Copyable-Plugin/_toc" data-nonce="v2:db252e24-7895-f43e-bca1-2421063ee7c6" data-view-component="true" class="js-wiki-sidebar-toc-fragment">
   
 
   <div data-show-on-forbidden-error hidden>
@@ -2784,7 +2784,7 @@
       </div></a>  </div>
 
   <div id="JAXB2-Default-Value-Plugin-table-of-contents" class="d-none js-wiki-sidebar-toc-container">
-      <include-fragment loading="lazy" src="https://github.com/highsource/jaxb-tools/wiki/JAXB2-Default-Value-Plugin/_toc" data-nonce="v2:58873905-5a18-7708-c14a-0ce3103a3b7d" data-view-component="true" class="js-wiki-sidebar-toc-fragment">
+      <include-fragment loading="lazy" src="https://github.com/highsource/jaxb-tools/wiki/JAXB2-Default-Value-Plugin/_toc" data-nonce="v2:db252e24-7895-f43e-bca1-2421063ee7c6" data-view-component="true" class="js-wiki-sidebar-toc-fragment">
   
 
   <div data-show-on-forbidden-error hidden>
@@ -2824,7 +2824,7 @@
       </div></a>  </div>
 
   <div id="JAXB2-EnumValue-Plugin-table-of-contents" class="d-none js-wiki-sidebar-toc-container">
-      <include-fragment loading="lazy" src="https://github.com/highsource/jaxb-tools/wiki/JAXB2-EnumValue-Plugin/_toc" data-nonce="v2:58873905-5a18-7708-c14a-0ce3103a3b7d" data-view-component="true" class="js-wiki-sidebar-toc-fragment">
+      <include-fragment loading="lazy" src="https://github.com/highsource/jaxb-tools/wiki/JAXB2-EnumValue-Plugin/_toc" data-nonce="v2:db252e24-7895-f43e-bca1-2421063ee7c6" data-view-component="true" class="js-wiki-sidebar-toc-fragment">
   
 
   <div data-show-on-forbidden-error hidden>
@@ -2864,7 +2864,7 @@
       </div></a>  </div>
 
   <div id="JAXB2-Equals-Plugin-table-of-contents" class="d-none js-wiki-sidebar-toc-container">
-      <include-fragment loading="lazy" src="https://github.com/highsource/jaxb-tools/wiki/JAXB2-Equals-Plugin/_toc" data-nonce="v2:58873905-5a18-7708-c14a-0ce3103a3b7d" data-view-component="true" class="js-wiki-sidebar-toc-fragment">
+      <include-fragment loading="lazy" src="https://github.com/highsource/jaxb-tools/wiki/JAXB2-Equals-Plugin/_toc" data-nonce="v2:db252e24-7895-f43e-bca1-2421063ee7c6" data-view-component="true" class="js-wiki-sidebar-toc-fragment">
   
 
   <div data-show-on-forbidden-error hidden>
@@ -2904,7 +2904,7 @@
       </div></a>  </div>
 
   <div id="JAXB2-FixJAXB1058-Plugin-table-of-contents" class="d-none js-wiki-sidebar-toc-container">
-      <include-fragment loading="lazy" src="https://github.com/highsource/jaxb-tools/wiki/JAXB2-FixJAXB1058-Plugin/_toc" data-nonce="v2:58873905-5a18-7708-c14a-0ce3103a3b7d" data-view-component="true" class="js-wiki-sidebar-toc-fragment">
+      <include-fragment loading="lazy" src="https://github.com/highsource/jaxb-tools/wiki/JAXB2-FixJAXB1058-Plugin/_toc" data-nonce="v2:db252e24-7895-f43e-bca1-2421063ee7c6" data-view-component="true" class="js-wiki-sidebar-toc-fragment">
   
 
   <div data-show-on-forbidden-error hidden>
@@ -2944,7 +2944,7 @@
       </div></a>  </div>
 
   <div id="JAXB2-Fluent-API-Plugin-table-of-contents" class="d-none js-wiki-sidebar-toc-container">
-      <include-fragment loading="lazy" src="https://github.com/highsource/jaxb-tools/wiki/JAXB2-Fluent-API-Plugin/_toc" data-nonce="v2:58873905-5a18-7708-c14a-0ce3103a3b7d" data-view-component="true" class="js-wiki-sidebar-toc-fragment">
+      <include-fragment loading="lazy" src="https://github.com/highsource/jaxb-tools/wiki/JAXB2-Fluent-API-Plugin/_toc" data-nonce="v2:db252e24-7895-f43e-bca1-2421063ee7c6" data-view-component="true" class="js-wiki-sidebar-toc-fragment">
   
 
   <div data-show-on-forbidden-error hidden>
@@ -2984,7 +2984,7 @@
       </div></a>  </div>
 
   <div id="JAXB2-HashCode-Plugin-table-of-contents" class="d-none js-wiki-sidebar-toc-container">
-      <include-fragment loading="lazy" src="https://github.com/highsource/jaxb-tools/wiki/JAXB2-HashCode-Plugin/_toc" data-nonce="v2:58873905-5a18-7708-c14a-0ce3103a3b7d" data-view-component="true" class="js-wiki-sidebar-toc-fragment">
+      <include-fragment loading="lazy" src="https://github.com/highsource/jaxb-tools/wiki/JAXB2-HashCode-Plugin/_toc" data-nonce="v2:db252e24-7895-f43e-bca1-2421063ee7c6" data-view-component="true" class="js-wiki-sidebar-toc-fragment">
   
 
   <div data-show-on-forbidden-error hidden>
@@ -3024,7 +3024,7 @@
       </div></a>  </div>
 
   <div id="JAXB2-Inheritance-Plugin-table-of-contents" class="d-none js-wiki-sidebar-toc-container">
-      <include-fragment loading="lazy" src="https://github.com/highsource/jaxb-tools/wiki/JAXB2-Inheritance-Plugin/_toc" data-nonce="v2:58873905-5a18-7708-c14a-0ce3103a3b7d" data-view-component="true" class="js-wiki-sidebar-toc-fragment">
+      <include-fragment loading="lazy" src="https://github.com/highsource/jaxb-tools/wiki/JAXB2-Inheritance-Plugin/_toc" data-nonce="v2:db252e24-7895-f43e-bca1-2421063ee7c6" data-view-component="true" class="js-wiki-sidebar-toc-fragment">
   
 
   <div data-show-on-forbidden-error hidden>
@@ -3064,7 +3064,7 @@
       </div></a>  </div>
 
   <div id="JAXB2-JAXBIndex-Plugin-table-of-contents" class="d-none js-wiki-sidebar-toc-container">
-      <include-fragment loading="lazy" src="https://github.com/highsource/jaxb-tools/wiki/JAXB2-JAXBIndex-Plugin/_toc" data-nonce="v2:58873905-5a18-7708-c14a-0ce3103a3b7d" data-view-component="true" class="js-wiki-sidebar-toc-fragment">
+      <include-fragment loading="lazy" src="https://github.com/highsource/jaxb-tools/wiki/JAXB2-JAXBIndex-Plugin/_toc" data-nonce="v2:db252e24-7895-f43e-bca1-2421063ee7c6" data-view-component="true" class="js-wiki-sidebar-toc-fragment">
   
 
   <div data-show-on-forbidden-error hidden>
@@ -3104,7 +3104,7 @@
       </div></a>  </div>
 
   <div id="JAXB2-Mergeable-Plugin-table-of-contents" class="d-none js-wiki-sidebar-toc-container">
-      <include-fragment loading="lazy" src="https://github.com/highsource/jaxb-tools/wiki/JAXB2-Mergeable-Plugin/_toc" data-nonce="v2:58873905-5a18-7708-c14a-0ce3103a3b7d" data-view-component="true" class="js-wiki-sidebar-toc-fragment">
+      <include-fragment loading="lazy" src="https://github.com/highsource/jaxb-tools/wiki/JAXB2-Mergeable-Plugin/_toc" data-nonce="v2:db252e24-7895-f43e-bca1-2421063ee7c6" data-view-component="true" class="js-wiki-sidebar-toc-fragment">
   
 
   <div data-show-on-forbidden-error hidden>
@@ -3144,7 +3144,7 @@
       </div></a>  </div>
 
   <div id="JAXB2-Namespace-Prefix-Plugin-table-of-contents" class="d-none js-wiki-sidebar-toc-container">
-      <include-fragment loading="lazy" src="https://github.com/highsource/jaxb-tools/wiki/JAXB2-Namespace-Prefix-Plugin/_toc" data-nonce="v2:58873905-5a18-7708-c14a-0ce3103a3b7d" data-view-component="true" class="js-wiki-sidebar-toc-fragment">
+      <include-fragment loading="lazy" src="https://github.com/highsource/jaxb-tools/wiki/JAXB2-Namespace-Prefix-Plugin/_toc" data-nonce="v2:db252e24-7895-f43e-bca1-2421063ee7c6" data-view-component="true" class="js-wiki-sidebar-toc-fragment">
   
 
   <div data-show-on-forbidden-error hidden>
@@ -3184,7 +3184,7 @@
       </div></a>  </div>
 
   <div id="JAXB2-Setters-Plugin-table-of-contents" class="d-none js-wiki-sidebar-toc-container">
-      <include-fragment loading="lazy" src="https://github.com/highsource/jaxb-tools/wiki/JAXB2-Setters-Plugin/_toc" data-nonce="v2:58873905-5a18-7708-c14a-0ce3103a3b7d" data-view-component="true" class="js-wiki-sidebar-toc-fragment">
+      <include-fragment loading="lazy" src="https://github.com/highsource/jaxb-tools/wiki/JAXB2-Setters-Plugin/_toc" data-nonce="v2:db252e24-7895-f43e-bca1-2421063ee7c6" data-view-component="true" class="js-wiki-sidebar-toc-fragment">
   
 
   <div data-show-on-forbidden-error hidden>
@@ -3224,7 +3224,7 @@
       </div></a>  </div>
 
   <div id="JAXB2-SimpleEquals-Plugin-table-of-contents" class="d-none js-wiki-sidebar-toc-container">
-      <include-fragment loading="lazy" src="https://github.com/highsource/jaxb-tools/wiki/JAXB2-SimpleEquals-Plugin/_toc" data-nonce="v2:58873905-5a18-7708-c14a-0ce3103a3b7d" data-view-component="true" class="js-wiki-sidebar-toc-fragment">
+      <include-fragment loading="lazy" src="https://github.com/highsource/jaxb-tools/wiki/JAXB2-SimpleEquals-Plugin/_toc" data-nonce="v2:db252e24-7895-f43e-bca1-2421063ee7c6" data-view-component="true" class="js-wiki-sidebar-toc-fragment">
   
 
   <div data-show-on-forbidden-error hidden>
@@ -3264,7 +3264,7 @@
       </div></a>  </div>
 
   <div id="JAXB2-SimpleHashCode-Plugin-table-of-contents" class="d-none js-wiki-sidebar-toc-container">
-      <include-fragment loading="lazy" src="https://github.com/highsource/jaxb-tools/wiki/JAXB2-SimpleHashCode-Plugin/_toc" data-nonce="v2:58873905-5a18-7708-c14a-0ce3103a3b7d" data-view-component="true" class="js-wiki-sidebar-toc-fragment">
+      <include-fragment loading="lazy" src="https://github.com/highsource/jaxb-tools/wiki/JAXB2-SimpleHashCode-Plugin/_toc" data-nonce="v2:db252e24-7895-f43e-bca1-2421063ee7c6" data-view-component="true" class="js-wiki-sidebar-toc-fragment">
   
 
   <div data-show-on-forbidden-error hidden>
@@ -3304,7 +3304,7 @@
       </div></a>  </div>
 
   <div id="JAXB2-Simplify-Plugin-table-of-contents" class="d-none js-wiki-sidebar-toc-container">
-      <include-fragment loading="lazy" src="https://github.com/highsource/jaxb-tools/wiki/JAXB2-Simplify-Plugin/_toc" data-nonce="v2:58873905-5a18-7708-c14a-0ce3103a3b7d" data-view-component="true" class="js-wiki-sidebar-toc-fragment">
+      <include-fragment loading="lazy" src="https://github.com/highsource/jaxb-tools/wiki/JAXB2-Simplify-Plugin/_toc" data-nonce="v2:db252e24-7895-f43e-bca1-2421063ee7c6" data-view-component="true" class="js-wiki-sidebar-toc-fragment">
   
 
   <div data-show-on-forbidden-error hidden>
@@ -3344,7 +3344,7 @@
       </div></a>  </div>
 
   <div id="JAXB2-ToString-Plugin-table-of-contents" class="d-none js-wiki-sidebar-toc-container">
-      <include-fragment loading="lazy" src="https://github.com/highsource/jaxb-tools/wiki/JAXB2-ToString-Plugin/_toc" data-nonce="v2:58873905-5a18-7708-c14a-0ce3103a3b7d" data-view-component="true" class="js-wiki-sidebar-toc-fragment">
+      <include-fragment loading="lazy" src="https://github.com/highsource/jaxb-tools/wiki/JAXB2-ToString-Plugin/_toc" data-nonce="v2:db252e24-7895-f43e-bca1-2421063ee7c6" data-view-component="true" class="js-wiki-sidebar-toc-fragment">
   
 
   <div data-show-on-forbidden-error hidden>
@@ -3384,7 +3384,7 @@
       </div></a>  </div>
 
   <div id="JAXB2-Value-Constructor-Plugin-table-of-contents" class="d-none js-wiki-sidebar-toc-container">
-      <include-fragment loading="lazy" src="https://github.com/highsource/jaxb-tools/wiki/JAXB2-Value-Constructor-Plugin/_toc" data-nonce="v2:58873905-5a18-7708-c14a-0ce3103a3b7d" data-view-component="true" class="js-wiki-sidebar-toc-fragment">
+      <include-fragment loading="lazy" src="https://github.com/highsource/jaxb-tools/wiki/JAXB2-Value-Constructor-Plugin/_toc" data-nonce="v2:db252e24-7895-f43e-bca1-2421063ee7c6" data-view-component="true" class="js-wiki-sidebar-toc-fragment">
   
 
   <div data-show-on-forbidden-error hidden>
@@ -3424,7 +3424,7 @@
       </div></a>  </div>
 
   <div id="JAXB2-Wildcard-Plugin-table-of-contents" class="d-none js-wiki-sidebar-toc-container">
-      <include-fragment loading="lazy" src="https://github.com/highsource/jaxb-tools/wiki/JAXB2-Wildcard-Plugin/_toc" data-nonce="v2:58873905-5a18-7708-c14a-0ce3103a3b7d" data-view-component="true" class="js-wiki-sidebar-toc-fragment">
+      <include-fragment loading="lazy" src="https://github.com/highsource/jaxb-tools/wiki/JAXB2-Wildcard-Plugin/_toc" data-nonce="v2:db252e24-7895-f43e-bca1-2421063ee7c6" data-view-component="true" class="js-wiki-sidebar-toc-fragment">
   
 
   <div data-show-on-forbidden-error hidden>
@@ -3464,7 +3464,7 @@
       </div></a>  </div>
 
   <div id="Maven-Documentation-table-of-contents" class="d-none js-wiki-sidebar-toc-container">
-      <include-fragment loading="lazy" src="https://github.com/highsource/jaxb-tools/wiki/Maven-Documentation/_toc" data-nonce="v2:58873905-5a18-7708-c14a-0ce3103a3b7d" data-view-component="true" class="js-wiki-sidebar-toc-fragment">
+      <include-fragment loading="lazy" src="https://github.com/highsource/jaxb-tools/wiki/Maven-Documentation/_toc" data-nonce="v2:db252e24-7895-f43e-bca1-2421063ee7c6" data-view-component="true" class="js-wiki-sidebar-toc-fragment">
   
 
   <div data-show-on-forbidden-error hidden>
@@ -3504,7 +3504,7 @@
       </div></a>  </div>
 
   <div id="Miscellaneous-table-of-contents" class="d-none js-wiki-sidebar-toc-container">
-      <include-fragment loading="lazy" src="https://github.com/highsource/jaxb-tools/wiki/Miscellaneous/_toc" data-nonce="v2:58873905-5a18-7708-c14a-0ce3103a3b7d" data-view-component="true" class="js-wiki-sidebar-toc-fragment">
+      <include-fragment loading="lazy" src="https://github.com/highsource/jaxb-tools/wiki/Miscellaneous/_toc" data-nonce="v2:db252e24-7895-f43e-bca1-2421063ee7c6" data-view-component="true" class="js-wiki-sidebar-toc-fragment">
   
 
   <div data-show-on-forbidden-error hidden>
@@ -3544,7 +3544,7 @@
       </div></a>  </div>
 
   <div id="Modular-Schema-Compilation-table-of-contents" class="d-none js-wiki-sidebar-toc-container">
-      <include-fragment loading="lazy" src="https://github.com/highsource/jaxb-tools/wiki/Modular-Schema-Compilation/_toc" data-nonce="v2:58873905-5a18-7708-c14a-0ce3103a3b7d" data-view-component="true" class="js-wiki-sidebar-toc-fragment">
+      <include-fragment loading="lazy" src="https://github.com/highsource/jaxb-tools/wiki/Modular-Schema-Compilation/_toc" data-nonce="v2:db252e24-7895-f43e-bca1-2421063ee7c6" data-view-component="true" class="js-wiki-sidebar-toc-fragment">
   
 
   <div data-show-on-forbidden-error hidden>
@@ -3584,7 +3584,7 @@
       </div></a>  </div>
 
   <div id="Quick-Start-table-of-contents" class="d-none js-wiki-sidebar-toc-container">
-      <include-fragment loading="lazy" src="https://github.com/highsource/jaxb-tools/wiki/Quick-Start/_toc" data-nonce="v2:58873905-5a18-7708-c14a-0ce3103a3b7d" data-view-component="true" class="js-wiki-sidebar-toc-fragment">
+      <include-fragment loading="lazy" src="https://github.com/highsource/jaxb-tools/wiki/Quick-Start/_toc" data-nonce="v2:db252e24-7895-f43e-bca1-2421063ee7c6" data-view-component="true" class="js-wiki-sidebar-toc-fragment">
   
 
   <div data-show-on-forbidden-error hidden>
@@ -3624,7 +3624,7 @@
       </div></a>  </div>
 
   <div id="Referencing-Resources-in-Maven-Artifacts-table-of-contents" class="d-none js-wiki-sidebar-toc-container">
-      <include-fragment loading="lazy" src="https://github.com/highsource/jaxb-tools/wiki/Referencing-Resources-in-Maven-Artifacts/_toc" data-nonce="v2:58873905-5a18-7708-c14a-0ce3103a3b7d" data-view-component="true" class="js-wiki-sidebar-toc-fragment">
+      <include-fragment loading="lazy" src="https://github.com/highsource/jaxb-tools/wiki/Referencing-Resources-in-Maven-Artifacts/_toc" data-nonce="v2:db252e24-7895-f43e-bca1-2421063ee7c6" data-view-component="true" class="js-wiki-sidebar-toc-fragment">
   
 
   <div data-show-on-forbidden-error hidden>
@@ -3664,7 +3664,7 @@
       </div></a>  </div>
 
   <div id="Reproducible-Builds-using-jaxb-maven-plugin-table-of-contents" class="d-none js-wiki-sidebar-toc-container">
-      <include-fragment loading="lazy" src="https://github.com/highsource/jaxb-tools/wiki/Reproducible-Builds-using-jaxb-maven-plugin/_toc" data-nonce="v2:58873905-5a18-7708-c14a-0ce3103a3b7d" data-view-component="true" class="js-wiki-sidebar-toc-fragment">
+      <include-fragment loading="lazy" src="https://github.com/highsource/jaxb-tools/wiki/Reproducible-Builds-using-jaxb-maven-plugin/_toc" data-nonce="v2:db252e24-7895-f43e-bca1-2421063ee7c6" data-view-component="true" class="js-wiki-sidebar-toc-fragment">
   
 
   <div data-show-on-forbidden-error hidden>
@@ -3704,7 +3704,7 @@
       </div></a>  </div>
 
   <div id="Sample-Basic-Project-table-of-contents" class="d-none js-wiki-sidebar-toc-container">
-      <include-fragment loading="lazy" src="https://github.com/highsource/jaxb-tools/wiki/Sample-Basic-Project/_toc" data-nonce="v2:58873905-5a18-7708-c14a-0ce3103a3b7d" data-view-component="true" class="js-wiki-sidebar-toc-fragment">
+      <include-fragment loading="lazy" src="https://github.com/highsource/jaxb-tools/wiki/Sample-Basic-Project/_toc" data-nonce="v2:db252e24-7895-f43e-bca1-2421063ee7c6" data-view-component="true" class="js-wiki-sidebar-toc-fragment">
   
 
   <div data-show-on-forbidden-error hidden>
@@ -3744,7 +3744,7 @@
       </div></a>  </div>
 
   <div id="Sample-DTD-Project-table-of-contents" class="d-none js-wiki-sidebar-toc-container">
-      <include-fragment loading="lazy" src="https://github.com/highsource/jaxb-tools/wiki/Sample-DTD-Project/_toc" data-nonce="v2:58873905-5a18-7708-c14a-0ce3103a3b7d" data-view-component="true" class="js-wiki-sidebar-toc-fragment">
+      <include-fragment loading="lazy" src="https://github.com/highsource/jaxb-tools/wiki/Sample-DTD-Project/_toc" data-nonce="v2:db252e24-7895-f43e-bca1-2421063ee7c6" data-view-component="true" class="js-wiki-sidebar-toc-fragment">
   
 
   <div data-show-on-forbidden-error hidden>
@@ -3784,7 +3784,7 @@
       </div></a>  </div>
 
   <div id="Sample-Episode-Project-table-of-contents" class="d-none js-wiki-sidebar-toc-container">
-      <include-fragment loading="lazy" src="https://github.com/highsource/jaxb-tools/wiki/Sample-Episode-Project/_toc" data-nonce="v2:58873905-5a18-7708-c14a-0ce3103a3b7d" data-view-component="true" class="js-wiki-sidebar-toc-fragment">
+      <include-fragment loading="lazy" src="https://github.com/highsource/jaxb-tools/wiki/Sample-Episode-Project/_toc" data-nonce="v2:db252e24-7895-f43e-bca1-2421063ee7c6" data-view-component="true" class="js-wiki-sidebar-toc-fragment">
   
 
   <div data-show-on-forbidden-error hidden>
@@ -3824,7 +3824,7 @@
       </div></a>  </div>
 
   <div id="Sample-Modular-Schema-Compilation-Project-table-of-contents" class="d-none js-wiki-sidebar-toc-container">
-      <include-fragment loading="lazy" src="https://github.com/highsource/jaxb-tools/wiki/Sample-Modular-Schema-Compilation-Project/_toc" data-nonce="v2:58873905-5a18-7708-c14a-0ce3103a3b7d" data-view-component="true" class="js-wiki-sidebar-toc-fragment">
+      <include-fragment loading="lazy" src="https://github.com/highsource/jaxb-tools/wiki/Sample-Modular-Schema-Compilation-Project/_toc" data-nonce="v2:db252e24-7895-f43e-bca1-2421063ee7c6" data-view-component="true" class="js-wiki-sidebar-toc-fragment">
   
 
   <div data-show-on-forbidden-error hidden>
@@ -3864,7 +3864,7 @@
       </div></a>  </div>
 
   <div id="Sample-Project-po‐simple-table-of-contents" class="d-none js-wiki-sidebar-toc-container">
-      <include-fragment loading="lazy" src="https://github.com/highsource/jaxb-tools/wiki/Sample-Project-po%E2%80%90simple/_toc" data-nonce="v2:58873905-5a18-7708-c14a-0ce3103a3b7d" data-view-component="true" class="js-wiki-sidebar-toc-fragment">
+      <include-fragment loading="lazy" src="https://github.com/highsource/jaxb-tools/wiki/Sample-Project-po%E2%80%90simple/_toc" data-nonce="v2:db252e24-7895-f43e-bca1-2421063ee7c6" data-view-component="true" class="js-wiki-sidebar-toc-fragment">
   
 
   <div data-show-on-forbidden-error hidden>
@@ -3904,7 +3904,7 @@
       </div></a>  </div>
 
   <div id="Sample-Project-Using-Catalog-table-of-contents" class="d-none js-wiki-sidebar-toc-container">
-      <include-fragment loading="lazy" src="https://github.com/highsource/jaxb-tools/wiki/Sample-Project-Using-Catalog/_toc" data-nonce="v2:58873905-5a18-7708-c14a-0ce3103a3b7d" data-view-component="true" class="js-wiki-sidebar-toc-fragment">
+      <include-fragment loading="lazy" src="https://github.com/highsource/jaxb-tools/wiki/Sample-Project-Using-Catalog/_toc" data-nonce="v2:db252e24-7895-f43e-bca1-2421063ee7c6" data-view-component="true" class="js-wiki-sidebar-toc-fragment">
   
 
   <div data-show-on-forbidden-error hidden>
@@ -3944,7 +3944,7 @@
       </div></a>  </div>
 
   <div id="Sample-Project-Using-Episodes-table-of-contents" class="d-none js-wiki-sidebar-toc-container">
-      <include-fragment loading="lazy" src="https://github.com/highsource/jaxb-tools/wiki/Sample-Project-Using-Episodes/_toc" data-nonce="v2:58873905-5a18-7708-c14a-0ce3103a3b7d" data-view-component="true" class="js-wiki-sidebar-toc-fragment">
+      <include-fragment loading="lazy" src="https://github.com/highsource/jaxb-tools/wiki/Sample-Project-Using-Episodes/_toc" data-nonce="v2:db252e24-7895-f43e-bca1-2421063ee7c6" data-view-component="true" class="js-wiki-sidebar-toc-fragment">
   
 
   <div data-show-on-forbidden-error hidden>
@@ -3984,7 +3984,7 @@
       </div></a>  </div>
 
   <div id="Sample-Project-Using-JAXB-Plugins-table-of-contents" class="d-none js-wiki-sidebar-toc-container">
-      <include-fragment loading="lazy" src="https://github.com/highsource/jaxb-tools/wiki/Sample-Project-Using-JAXB-Plugins/_toc" data-nonce="v2:58873905-5a18-7708-c14a-0ce3103a3b7d" data-view-component="true" class="js-wiki-sidebar-toc-fragment">
+      <include-fragment loading="lazy" src="https://github.com/highsource/jaxb-tools/wiki/Sample-Project-Using-JAXB-Plugins/_toc" data-nonce="v2:db252e24-7895-f43e-bca1-2421063ee7c6" data-view-component="true" class="js-wiki-sidebar-toc-fragment">
   
 
   <div data-show-on-forbidden-error hidden>
@@ -4024,7 +4024,7 @@
       </div></a>  </div>
 
   <div id="Sample-Projects-table-of-contents" class="d-none js-wiki-sidebar-toc-container">
-      <include-fragment loading="lazy" src="https://github.com/highsource/jaxb-tools/wiki/Sample-Projects/_toc" data-nonce="v2:58873905-5a18-7708-c14a-0ce3103a3b7d" data-view-component="true" class="js-wiki-sidebar-toc-fragment">
+      <include-fragment loading="lazy" src="https://github.com/highsource/jaxb-tools/wiki/Sample-Projects/_toc" data-nonce="v2:db252e24-7895-f43e-bca1-2421063ee7c6" data-view-component="true" class="js-wiki-sidebar-toc-fragment">
   
 
   <div data-show-on-forbidden-error hidden>
@@ -4064,7 +4064,7 @@
       </div></a>  </div>
 
   <div id="Specifying-What-To-Compile-table-of-contents" class="d-none js-wiki-sidebar-toc-container">
-      <include-fragment loading="lazy" src="https://github.com/highsource/jaxb-tools/wiki/Specifying-What-To-Compile/_toc" data-nonce="v2:58873905-5a18-7708-c14a-0ce3103a3b7d" data-view-component="true" class="js-wiki-sidebar-toc-fragment">
+      <include-fragment loading="lazy" src="https://github.com/highsource/jaxb-tools/wiki/Specifying-What-To-Compile/_toc" data-nonce="v2:db252e24-7895-f43e-bca1-2421063ee7c6" data-view-component="true" class="js-wiki-sidebar-toc-fragment">
   
 
   <div data-show-on-forbidden-error hidden>
@@ -4104,7 +4104,7 @@
       </div></a>  </div>
 
   <div id="Support-table-of-contents" class="d-none js-wiki-sidebar-toc-container">
-      <include-fragment loading="lazy" src="https://github.com/highsource/jaxb-tools/wiki/Support/_toc" data-nonce="v2:58873905-5a18-7708-c14a-0ce3103a3b7d" data-view-component="true" class="js-wiki-sidebar-toc-fragment">
+      <include-fragment loading="lazy" src="https://github.com/highsource/jaxb-tools/wiki/Support/_toc" data-nonce="v2:db252e24-7895-f43e-bca1-2421063ee7c6" data-view-component="true" class="js-wiki-sidebar-toc-fragment">
   
 
   <div data-show-on-forbidden-error hidden>
@@ -4144,7 +4144,7 @@
       </div></a>  </div>
 
   <div id="Up-To-Date-Checks-table-of-contents" class="d-none js-wiki-sidebar-toc-container">
-      <include-fragment loading="lazy" src="https://github.com/highsource/jaxb-tools/wiki/Up-To-Date-Checks/_toc" data-nonce="v2:58873905-5a18-7708-c14a-0ce3103a3b7d" data-view-component="true" class="js-wiki-sidebar-toc-fragment">
+      <include-fragment loading="lazy" src="https://github.com/highsource/jaxb-tools/wiki/Up-To-Date-Checks/_toc" data-nonce="v2:db252e24-7895-f43e-bca1-2421063ee7c6" data-view-component="true" class="js-wiki-sidebar-toc-fragment">
   
 
   <div data-show-on-forbidden-error hidden>
@@ -4184,7 +4184,7 @@
       </div></a>  </div>
 
   <div id="Use-Separate-Target-Directories-for-Separate-Executions-table-of-contents" class="d-none js-wiki-sidebar-toc-container">
-      <include-fragment loading="lazy" src="https://github.com/highsource/jaxb-tools/wiki/Use-Separate-Target-Directories-for-Separate-Executions/_toc" data-nonce="v2:58873905-5a18-7708-c14a-0ce3103a3b7d" data-view-component="true" class="js-wiki-sidebar-toc-fragment">
+      <include-fragment loading="lazy" src="https://github.com/highsource/jaxb-tools/wiki/Use-Separate-Target-Directories-for-Separate-Executions/_toc" data-nonce="v2:db252e24-7895-f43e-bca1-2421063ee7c6" data-view-component="true" class="js-wiki-sidebar-toc-fragment">
   
 
   <div data-show-on-forbidden-error hidden>
@@ -4224,7 +4224,7 @@
       </div></a>  </div>
 
   <div id="User-Guide-table-of-contents" class="d-none js-wiki-sidebar-toc-container">
-      <include-fragment loading="lazy" src="https://github.com/highsource/jaxb-tools/wiki/User-Guide/_toc" data-nonce="v2:58873905-5a18-7708-c14a-0ce3103a3b7d" data-view-component="true" class="js-wiki-sidebar-toc-fragment">
+      <include-fragment loading="lazy" src="https://github.com/highsource/jaxb-tools/wiki/User-Guide/_toc" data-nonce="v2:db252e24-7895-f43e-bca1-2421063ee7c6" data-view-component="true" class="js-wiki-sidebar-toc-fragment">
   
 
   <div data-show-on-forbidden-error hidden>
@@ -4264,7 +4264,7 @@
       </div></a>  </div>
 
   <div id="Using-a-Specific-JAXB-Version-table-of-contents" class="d-none js-wiki-sidebar-toc-container">
-      <include-fragment loading="lazy" src="https://github.com/highsource/jaxb-tools/wiki/Using-a-Specific-JAXB-Version/_toc" data-nonce="v2:58873905-5a18-7708-c14a-0ce3103a3b7d" data-view-component="true" class="js-wiki-sidebar-toc-fragment">
+      <include-fragment loading="lazy" src="https://github.com/highsource/jaxb-tools/wiki/Using-a-Specific-JAXB-Version/_toc" data-nonce="v2:db252e24-7895-f43e-bca1-2421063ee7c6" data-view-component="true" class="js-wiki-sidebar-toc-fragment">
   
 
   <div data-show-on-forbidden-error hidden>
@@ -4304,7 +4304,7 @@
       </div></a>  </div>
 
   <div id="Using-Catalogs-table-of-contents" class="d-none js-wiki-sidebar-toc-container">
-      <include-fragment loading="lazy" src="https://github.com/highsource/jaxb-tools/wiki/Using-Catalogs/_toc" data-nonce="v2:58873905-5a18-7708-c14a-0ce3103a3b7d" data-view-component="true" class="js-wiki-sidebar-toc-fragment">
+      <include-fragment loading="lazy" src="https://github.com/highsource/jaxb-tools/wiki/Using-Catalogs/_toc" data-nonce="v2:db252e24-7895-f43e-bca1-2421063ee7c6" data-view-component="true" class="js-wiki-sidebar-toc-fragment">
   
 
   <div data-show-on-forbidden-error hidden>
@@ -4344,7 +4344,7 @@
       </div></a>  </div>
 
   <div id="Using-Episodes-table-of-contents" class="d-none js-wiki-sidebar-toc-container">
-      <include-fragment loading="lazy" src="https://github.com/highsource/jaxb-tools/wiki/Using-Episodes/_toc" data-nonce="v2:58873905-5a18-7708-c14a-0ce3103a3b7d" data-view-component="true" class="js-wiki-sidebar-toc-fragment">
+      <include-fragment loading="lazy" src="https://github.com/highsource/jaxb-tools/wiki/Using-Episodes/_toc" data-nonce="v2:db252e24-7895-f43e-bca1-2421063ee7c6" data-view-component="true" class="js-wiki-sidebar-toc-fragment">
   
 
   <div data-show-on-forbidden-error hidden>
@@ -4384,7 +4384,7 @@
       </div></a>  </div>
 
   <div id="Using-JAXB-Plugins-table-of-contents" class="d-none js-wiki-sidebar-toc-container">
-      <include-fragment loading="lazy" src="https://github.com/highsource/jaxb-tools/wiki/Using-JAXB-Plugins/_toc" data-nonce="v2:58873905-5a18-7708-c14a-0ce3103a3b7d" data-view-component="true" class="js-wiki-sidebar-toc-fragment">
+      <include-fragment loading="lazy" src="https://github.com/highsource/jaxb-tools/wiki/Using-JAXB-Plugins/_toc" data-nonce="v2:db252e24-7895-f43e-bca1-2421063ee7c6" data-view-component="true" class="js-wiki-sidebar-toc-fragment">
   
 
   <div data-show-on-forbidden-error hidden>
@@ -4424,7 +4424,7 @@
       </div></a>  </div>
 
   <div id="Using-JAXB2-Basics-Plugins-table-of-contents" class="d-none js-wiki-sidebar-toc-container">
-      <include-fragment loading="lazy" src="https://github.com/highsource/jaxb-tools/wiki/Using-JAXB2-Basics-Plugins/_toc" data-nonce="v2:58873905-5a18-7708-c14a-0ce3103a3b7d" data-view-component="true" class="js-wiki-sidebar-toc-fragment">
+      <include-fragment loading="lazy" src="https://github.com/highsource/jaxb-tools/wiki/Using-JAXB2-Basics-Plugins/_toc" data-nonce="v2:db252e24-7895-f43e-bca1-2421063ee7c6" data-view-component="true" class="js-wiki-sidebar-toc-fragment">
   
 
   <div data-show-on-forbidden-error hidden>

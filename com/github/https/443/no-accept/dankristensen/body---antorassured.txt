@@ -48,24 +48,24 @@
 
     <link crossorigin="anonymous" media="all" rel="stylesheet" href="https://github.githubassets.com/assets/primer-primitives-7b6f781f48ff31c6.css" />
     <link crossorigin="anonymous" media="all" rel="stylesheet" href="https://github.githubassets.com/assets/primer-8b6d8039ccdd4132.css" />
-    <link crossorigin="anonymous" media="all" rel="stylesheet" href="https://github.githubassets.com/assets/global-af40a4a5125988a5.css" />
+    <link crossorigin="anonymous" media="all" rel="stylesheet" href="https://github.githubassets.com/assets/global-0205e15f8e92a107.css" />
     <link crossorigin="anonymous" media="all" rel="stylesheet" href="https://github.githubassets.com/assets/github-f73c7caa132ed70b.css" />
   <link crossorigin="anonymous" media="all" rel="stylesheet" href="https://github.githubassets.com/assets/profile-1089e6333b922193.css" />
 <link crossorigin="anonymous" media="all" rel="stylesheet" href="https://github.githubassets.com/assets/insights-b6134d7881bcae94.css" />
 
   
 
-  <script type="application/json" id="client-env">{"locale":"en","featureFlags":["actions_caches_react_view","actions_enable_background_steps","actions_new_hosted_runner_image_select_sizes_and_versions","actions_workflows_react_toggle","agent_author_search_expansion","agent_author_search_expansion_ui_pulls","agent_sessions_ccr_review_effort","ai_resource_search","alternate_user_config_repo","billing_billable_licenses_complete_day","billing_billable_licenses_cost_center_bucket_fix","billing_budget_expiration","billing_cost_center_list_assigned_resources","billing_discount_threshold_notification","billing_shared_compute_usage","browser_stats_fixed_delivery_window","catalyst_lazy_define_indexed","code_quality_enablement_banner_targeting","code_quality_remove_preview","code_view_raf_sticky_lines","codespaces_prebuild_region_target_update","coding_agent_third_party_model_ui","collab_docs_chat_notifications","copilot-software-factories","copilot_agent_snippy","copilot_api_agentic_issue_marshal_yaml","copilot_automation_continuous_history","copilot_automation_repo_mcp_servers","copilot_automations_pagination","copilot_base_model_policy_row","copilot_chat_auto_mode_v2","copilot_chat_clear_model_selection_for_default_change","copilot_chat_fusion_auto_tiers","copilot_chat_vision_dotcom_chat_ga_gate","copilot_continue_in_github_mobile","copilot_css_textarea_autosize","copilot_custom_copilots","copilot_custom_copilots_feature_preview","copilot_duplicate_thread","copilot_extensions_removal_on_marketplace","copilot_fix_failed_workflows_all_skus","copilot_hide_hovercard","copilot_immersive_task_hyperlinking","copilot_mission_control_agent_merge_fix_ci","copilot_mission_control_agent_merge_resolve_conflicts","copilot_mission_control_automation_grouping","copilot_mission_control_awps_batching","copilot_mission_control_create_pull_request_client_tool","copilot_mission_control_create_repository_client_tool","copilot_mission_control_early_stop","copilot_mission_control_environments_web_kickoff","copilot_mission_control_hide_task_list_counts","copilot_mission_control_messaging_app_dm_steering","copilot_mission_control_needs_attention","copilot_mission_control_pinned_tasks","copilot_mission_control_reasoning_effort","copilot_mission_control_reuse_project_workspace","copilot_mission_control_sandbox_request_image_override","copilot_mission_control_session_client_attribution","copilot_mission_control_task_alive_updates","copilot_mission_control_task_route_preloading","copilot_mission_control_task_sharing","copilot_mission_control_use_api_gateway","copilot_org_policy_page_focus_mode","copilot_policy_ui_refresh","copilot_quick_chat_recent_artifact_sessions","copilot_share_active_subthread","copilot_spaces_ga","copilot_spaces_individual_policies_ga","copilot_swe_agent_authorization_status_ui","copilot_swe_agent_automation_completed_trigger","copilot_swe_agent_automation_failed_trigger","copilot_swe_agent_automation_repository_owned","copilot_swe_agent_automation_resource_scoped_writes","copilot_swe_agent_code_scanning_alert_trigger","copilot_swe_agent_dependabot_alert_trigger","copilot_swe_agent_discussion_comment_trigger","copilot_swe_agent_discussion_opened_trigger","copilot_swe_agent_discussion_updated_trigger","copilot_swe_agent_hide_model_picker_if_only_auto","copilot_swe_agent_issue_assigned_trigger","copilot_swe_agent_issue_closed_trigger","copilot_swe_agent_issue_comment_trigger","copilot_swe_agent_issue_labeled_trigger","copilot_swe_agent_issue_reopened_trigger","copilot_swe_agent_issue_status_changed_trigger","copilot_swe_agent_mcp_permission_gate","copilot_swe_agent_merge_conflict_trigger","copilot_swe_agent_pr_comment_model_picker","copilot_swe_agent_pull_request_assigned_trigger","copilot_swe_agent_pull_request_closed_trigger","copilot_swe_agent_pull_request_comment_trigger","copilot_swe_agent_pull_request_converted_to_draft_trigger","copilot_swe_agent_pull_request_labeled_trigger","copilot_swe_agent_pull_request_merged_trigger","copilot_swe_agent_pull_request_opened_trigger","copilot_swe_agent_pull_request_ready_for_review_trigger","copilot_swe_agent_pull_request_reopened_trigger","copilot_swe_agent_pull_request_review_dismissed_trigger","copilot_swe_agent_pull_request_review_requested_trigger","copilot_swe_agent_pull_request_review_submitted_trigger","copilot_swe_agent_pull_request_review_thread_resolved_trigger","copilot_swe_agent_pull_request_review_thread_unresolved_trigger","copilot_swe_agent_pull_request_synchronize_trigger","copilot_swe_agent_secret_scanning_alert_trigger","copilot_swe_agent_sub_issue_added_trigger","copilot_swe_agent_use_subagents","copilot_task_api_github_rest_style","copilot_task_scoped_alive_channel","copilot_token_based_billing","copilot_user_can_upgrade_plan_field","fgpat_permissions_selector_redesign","glc_code_quality_repo_settings_workflow_config","global_issues_filtered_list_layout","global_nav_context_refresh","home_dashboard_ga","hyperspace_2025_logged_out_batch_1","hyperspace_2025_logged_out_batch_2","hyperspace_2025_logged_out_batch_3","in_product_messaging_datadog_monitoring","ipm_ubb_individual_budget_banner","issue_create_status_header","issue_fields_add_picker","issue_fields_multi_select","issue_inline_avatars","issue_relative_time_micro","issues_board_card_drawer","issues_board_refresh_polling","issues_hide_closed_sub_issues","issues_lazy_load_comment_box_suggestions","issues_react_chrome_container_query_fix","labels_archiving","labels_archiving_info","landing_pages_ninetailed","lifecycle_label_name_updates","marketing_cookie_consent_banner","memex_live_update_hovercard","memex_mwl_filter_field_delimiter","memex_remove_deprecated_type_issue","merge_queue_restricted_pushers_warning","merge_status_header_feedback","new_batched_queries_hook","octocaptcha_origin_optimization","one_copilot_chat_disable_ahp_pings","one_copilot_chat_disable_eager_resume","one_copilot_chat_owner_split_picker","one_copilot_chat_resume_on_intent","one_copilot_grouped_tool_calls","one_copilot_plan_mode","one_copilot_remember_tool_permissions","one_copilot_simplified_environment_picker","planning_board_agent_task_status","primer_react_blankslate_compact_default","primer_react_css_anchor_positioning","primer_react_merged_forwarded_refs","prs_contextual_comment_controls","prs_copilot_app_open_action","prs_copilot_assignee_session_indicator","prs_css_anchor_positioning","prs_desktop_checkout","prs_mergeability_live_updates_trailing","prs_overview_react_public_preview","prs_overview_review_opinion_colors","prs_stale_session_block","pull_request_file_tree_prefetch_on_hover_50ms","pull_request_persister","pull_request_stacks_auto_merge_commit_customization","pull_request_stacks_navigation_shortcuts","pull_request_virtualization_image_estimate","pull_request_virtualization_loader_batching","pull_request_virtualization_scroll_compensation","pull_request_virtualization_scroll_intent","pull_requests_deferred_highlight_fallback","pull_requests_persistent_whitespace_preferences","react_blob_isolate_code_lines","react_blob_ssr_content_visibility","react_data_router_nonblocking_revalidation","react_data_router_tanstack_allowed","react_query_props_with_key","react_sandbox_future_tanstack","repo_app_issues_dashboard","repo_app_pulls_dashboard","repo_app_turbo","repo_issues_sidebar_layout","repos_contributors_limited_default_range","rulesets_actor_list_editor","sample_network_conn_type","sanitize_preset_md2html","scribe_artifacts_api","secret_scanning_public_monitoring_hide_preview_labels","secret_scanning_public_monitoring_hide_validity_coming_soon","see_who_reacted","session_logs_ungroup_reasoning_text","set_sha256_on_repo_creation_form","site_banner_desktop_copilot_app","site_download_options_pixel_mona","site_global_banner_copilot_fusion_usage_2026","site_homepage_refresh_2026","speculation_rules_ui_service","suppress_automated_browser_vitals","swp_forms_disable_octocaptcha","trusted_types_policies","trusted_types_worker","turbo_link_eligibility_optimization","ui_service_gate_aware_external_check","ui_service_notification_shelf","update_issue_suggestions","viewscreen_sandbox","warn_inaccessible_attachments","webp_support"],"githubDomain":"https://github.com","copilotApiOverrideUrl":"https://api.githubcopilot.com","cmcApiUrl":"https://api.github.com/cmc_internal/api"}</script>
+  <script type="application/json" id="client-env">{"locale":"en","featureFlags":["actions_caches_react_view","actions_enable_background_steps","actions_new_hosted_runner_image_select_sizes_and_versions","actions_workflows_react_toggle","agent_author_search_expansion","agent_author_search_expansion_ui_pulls","agent_sessions_ccr_review_effort","ai_resource_search","alternate_user_config_repo","billing_billable_licenses_complete_day","billing_billable_licenses_cost_center_bucket_fix","billing_budget_expiration","billing_cost_center_list_assigned_resources","billing_discount_threshold_notification","billing_shared_compute_usage","browser_stats_fixed_delivery_window","catalyst_lazy_define_indexed","code_quality_enablement_banner_targeting","code_quality_remove_preview","code_view_raf_sticky_lines","codespaces_prebuild_region_target_update","coding_agent_third_party_model_ui","collab_docs_chat_notifications","copilot-software-factories","copilot_agent_snippy","copilot_api_agentic_issue_marshal_yaml","copilot_automation_continuous_history","copilot_automation_repo_mcp_servers","copilot_automations_pagination","copilot_base_model_policy_row","copilot_chat_auto_mode_v2","copilot_chat_clear_model_selection_for_default_change","copilot_chat_fusion_auto_tiers","copilot_chat_vision_dotcom_chat_ga_gate","copilot_css_textarea_autosize","copilot_custom_copilots","copilot_custom_copilots_feature_preview","copilot_duplicate_thread","copilot_extensions_removal_on_marketplace","copilot_fix_failed_workflows_all_skus","copilot_hide_hovercard","copilot_immersive_task_hyperlinking","copilot_mission_control_agent_merge_fix_ci","copilot_mission_control_agent_merge_resolve_conflicts","copilot_mission_control_automation_grouping","copilot_mission_control_awps_batching","copilot_mission_control_create_pull_request_client_tool","copilot_mission_control_create_repository_client_tool","copilot_mission_control_early_stop","copilot_mission_control_environments_web_kickoff","copilot_mission_control_hide_task_list_counts","copilot_mission_control_messaging_app_dm_steering","copilot_mission_control_needs_attention","copilot_mission_control_pinned_tasks","copilot_mission_control_reasoning_effort","copilot_mission_control_reuse_project_workspace","copilot_mission_control_sandbox_request_image_override","copilot_mission_control_session_client_attribution","copilot_mission_control_task_alive_updates","copilot_mission_control_task_route_preloading","copilot_mission_control_task_sharing","copilot_mission_control_use_api_gateway","copilot_org_policy_page_focus_mode","copilot_policy_ui_refresh","copilot_quick_chat_recent_artifact_sessions","copilot_share_active_subthread","copilot_spaces_ga","copilot_spaces_individual_policies_ga","copilot_swe_agent_authorization_status_ui","copilot_swe_agent_automation_completed_trigger","copilot_swe_agent_automation_failed_trigger","copilot_swe_agent_automation_repository_owned","copilot_swe_agent_automation_resource_scoped_writes","copilot_swe_agent_code_scanning_alert_trigger","copilot_swe_agent_dependabot_alert_trigger","copilot_swe_agent_discussion_comment_trigger","copilot_swe_agent_discussion_opened_trigger","copilot_swe_agent_discussion_updated_trigger","copilot_swe_agent_hide_model_picker_if_only_auto","copilot_swe_agent_issue_assigned_trigger","copilot_swe_agent_issue_closed_trigger","copilot_swe_agent_issue_comment_trigger","copilot_swe_agent_issue_labeled_trigger","copilot_swe_agent_issue_reopened_trigger","copilot_swe_agent_issue_status_changed_trigger","copilot_swe_agent_mcp_permission_gate","copilot_swe_agent_merge_conflict_trigger","copilot_swe_agent_pr_comment_model_picker","copilot_swe_agent_pull_request_assigned_trigger","copilot_swe_agent_pull_request_closed_trigger","copilot_swe_agent_pull_request_comment_trigger","copilot_swe_agent_pull_request_converted_to_draft_trigger","copilot_swe_agent_pull_request_labeled_trigger","copilot_swe_agent_pull_request_merged_trigger","copilot_swe_agent_pull_request_opened_trigger","copilot_swe_agent_pull_request_ready_for_review_trigger","copilot_swe_agent_pull_request_reopened_trigger","copilot_swe_agent_pull_request_review_dismissed_trigger","copilot_swe_agent_pull_request_review_requested_trigger","copilot_swe_agent_pull_request_review_submitted_trigger","copilot_swe_agent_pull_request_review_thread_resolved_trigger","copilot_swe_agent_pull_request_review_thread_unresolved_trigger","copilot_swe_agent_pull_request_synchronize_trigger","copilot_swe_agent_secret_scanning_alert_trigger","copilot_swe_agent_sub_issue_added_trigger","copilot_swe_agent_use_subagents","copilot_task_api_github_rest_style","copilot_task_scoped_alive_channel","copilot_token_based_billing","copilot_user_can_upgrade_plan_field","fgpat_permissions_selector_redesign","glc_code_quality_repo_settings_workflow_config","global_issues_filtered_list_layout","global_nav_context_refresh","home_dashboard_ga","hyperspace_2025_logged_out_batch_1","hyperspace_2025_logged_out_batch_2","hyperspace_2025_logged_out_batch_3","in_product_messaging_datadog_monitoring","ipm_ubb_individual_budget_banner","issue_create_status_header","issue_fields_add_picker","issue_fields_multi_select","issue_inline_avatars","issue_relative_time_micro","issues_board_card_drawer","issues_board_refresh_polling","issues_hide_closed_sub_issues","issues_lazy_load_comment_box_suggestions","issues_react_chrome_container_query_fix","labels_archiving","labels_archiving_info","landing_pages_ninetailed","lifecycle_label_name_updates","marketing_cookie_consent_banner","memex_live_update_hovercard","memex_mwl_filter_field_delimiter","memex_remove_deprecated_type_issue","merge_queue_restricted_pushers_warning","merge_status_header_feedback","new_batched_queries_hook","octocaptcha_origin_optimization","one_copilot_chat_disable_ahp_pings","one_copilot_chat_disable_eager_resume","one_copilot_chat_resume_on_intent","one_copilot_grouped_tool_calls","one_copilot_remember_tool_permissions","one_copilot_simplified_environment_picker","planning_board_agent_task_status","primer_react_blankslate_compact_default","primer_react_css_anchor_positioning","primer_react_merged_forwarded_refs","prs_contextual_comment_controls","prs_copilot_app_open_action","prs_copilot_assignee_session_indicator","prs_css_anchor_positioning","prs_desktop_checkout","prs_mergeability_live_updates_trailing","prs_overview_react_public_preview","prs_overview_review_opinion_colors","prs_stale_session_block","pull_request_file_tree_prefetch_on_hover_50ms","pull_request_persister","pull_request_stacks_auto_merge_commit_customization","pull_request_stacks_navigation_shortcuts","pull_request_virtualization_image_estimate","pull_request_virtualization_loader_batching","pull_request_virtualization_scroll_compensation","pull_request_virtualization_scroll_intent","pull_requests_deferred_highlight_fallback","pull_requests_persistent_whitespace_preferences","react_blob_isolate_code_lines","react_blob_ssr_content_visibility","react_data_router_nonblocking_revalidation","react_data_router_tanstack_allowed","react_query_props_with_key","react_sandbox_future_tanstack","repo_app_issues_dashboard","repo_app_pulls_dashboard","repo_app_turbo","repo_issues_sidebar_layout","repos_contributors_limited_default_range","rulesets_actor_list_editor","sample_network_conn_type","scribe_artifacts_api","secret_scanning_public_monitoring_hide_preview_labels","secret_scanning_public_monitoring_hide_validity_coming_soon","see_who_reacted","session_logs_ungroup_reasoning_text","set_sha256_on_repo_creation_form","site_banner_desktop_copilot_app","site_download_options_pixel_mona","site_global_banner_copilot_fusion_usage_2026","site_homepage_refresh_2026","speculation_rules_ui_service","suppress_automated_browser_vitals","swp_forms_disable_octocaptcha","trusted_types_policies","trusted_types_worker","turbo_link_eligibility_optimization","ui_service_gate_aware_external_check","ui_service_notification_shelf","update_issue_suggestions","viewscreen_sandbox","warn_inaccessible_attachments","webp_support"],"githubDomain":"https://github.com","copilotApiOverrideUrl":"https://api.githubcopilot.com","cmcApiUrl":"https://api.github.com/cmc_internal/api"}</script>
 <script crossorigin="anonymous" type="module" src="https://github.githubassets.com/assets/high-contrast-cookie-377d02d81834cc55.js"></script>
-<link crossorigin="anonymous" rel="modulepreload" href="https://github.githubassets.com/assets/wp-runtime-5d257552ff8527da.js" />
-<link crossorigin="anonymous" rel="modulepreload" href="https://github.githubassets.com/assets/app-runtime-cfd1896cfdea6bfb.js" />
+<link crossorigin="anonymous" rel="modulepreload" href="https://github.githubassets.com/assets/wp-runtime-9e84c288eb35c347.js" />
+<link crossorigin="anonymous" rel="modulepreload" href="https://github.githubassets.com/assets/app-runtime-8c7e7201ea7a0a8d.js" />
 <link crossorigin="anonymous" rel="modulepreload" href="https://github.githubassets.com/assets/react-core-1e4c74ac548af45e.js" />
-<link crossorigin="anonymous" rel="modulepreload" href="https://github.githubassets.com/assets/76260-24a0a422938692bf.js" />
-<script crossorigin="anonymous" type="module" src="https://github.githubassets.com/assets/core-3c644cbdb3cc86a0.js" defer="defer"></script>
-<link crossorigin="anonymous" media="all" rel="stylesheet" href="https://github.githubassets.com/assets/app-runtime.228feb2464784d73.module.css" />
+<link crossorigin="anonymous" rel="modulepreload" href="https://github.githubassets.com/assets/76260-e8a0d11cb154fc39.js" />
+<script crossorigin="anonymous" type="module" src="https://github.githubassets.com/assets/core-a1b54d54838202bb.js" defer="defer"></script>
+<link crossorigin="anonymous" media="all" rel="stylesheet" href="https://github.githubassets.com/assets/app-runtime.7d5e4a0a13d0393b.module.css" />
 <link crossorigin="anonymous" media="all" rel="stylesheet" href="https://github.githubassets.com/assets/primer-react-css.33f01c6eb0044c40.module.css" />
 <link crossorigin="anonymous" media="all" rel="stylesheet" href="https://github.githubassets.com/assets/react-core.c0d5671257907fd8.module.css" />
-<script crossorigin="anonymous" type="module" src="https://github.githubassets.com/assets/profile-176d196a3281864e.js" defer="defer"></script>
+<script crossorigin="anonymous" type="module" src="https://github.githubassets.com/assets/profile-95da34b38685b4b2.js" defer="defer"></script>
   
 
   <title>dankristensen · GitHub</title>
@@ -75,13 +75,13 @@
   <meta name="route-pattern" content="/:user_id(.:format)" data-turbo-transient>
   <meta name="route-controller" content="profiles" data-turbo-transient>
   <meta name="route-action" content="show" data-turbo-transient>
-  <meta name="fetch-nonce" content="v2:943a3369-4321-b131-7e6e-caaa543bcb1b">
+  <meta name="fetch-nonce" content="v2:8f3e033c-5bef-57c9-120b-ea9eeaef34fc">
 
     
   <meta name="current-catalog-service-hash" content="4a1c50a83cf6cc4b55b6b9c53e553e3f847c876b87fb333f71f5d05db8f1a7db">
 
 
-  <meta name="request-id" content="E420:1CD539:2DAAF0:5D516D:6B06DBD8" data-pjax-transient="true"/><meta name="html-safe-nonce" content="d4c10fe3068040db9fdbf506f5f83fa73c655d37fd2fa0b39f40351cdb29794a" data-pjax-transient="true"/><meta name="visitor-payload" content="eyJyZWZlcnJlciI6IiIsInJlcXVlc3RfaWQiOiJFNDIwOjFDRDUzOToyREFBRjA6NUQ1MTZEOjZCMDZEQkQ4IiwidmlzaXRvcl9pZCI6IjcyNjAwNzUwNDgwNzIzMDU1OTMiLCJyZWdpb25fZWRnZSI6Indlc3R1czIiLCJyZWdpb25fcmVuZGVyIjoid2VzdHVzMiJ9" data-pjax-transient="true"/><meta name="visitor-hmac" content="a25220eb22a3a3a9fa315ff6e95185af34288c15ed0e95a1707b31e5625d457b" data-pjax-transient="true"/>
+  <meta name="request-id" content="DC30:F4D71:DA6EE2:118F485:6B09771E" data-pjax-transient="true"/><meta name="html-safe-nonce" content="4bbccd17a774b972116bcb05d7e0bacc34e36a027c1347380b12d1b6d0d25a13" data-pjax-transient="true"/><meta name="visitor-payload" content="eyJyZWZlcnJlciI6IiIsInJlcXVlc3RfaWQiOiJEQzMwOkY0RDcxOkRBNkVFMjoxMThGNDg1OjZCMDk3NzFFIiwidmlzaXRvcl9pZCI6IjQ3NDI3MDY3NTkyNTE2MjE2MjYiLCJyZWdpb25fZWRnZSI6ImlhZCIsInJlZ2lvbl9yZW5kZXIiOiJpYWQifQ==" data-pjax-transient="true"/><meta name="visitor-hmac" content="057387fc86cb137e9a75c5ebdf067580547906b54369867b50b87044e742426d" data-pjax-transient="true"/>
 
 
 
@@ -136,10 +136,10 @@
         <meta name="expected-hostname" content="github.com">
 
 
-  <meta http-equiv="x-pjax-version" content="a536eb85ead10ca487c0619742e4ffc73121a1bf02ebecfaf7d5acf2e08a8f24" data-turbo-track="reload">
+  <meta http-equiv="x-pjax-version" content="e0107864c9683639c919ed986bf63e5c672d21144e32188dffc446e0da83997f" data-turbo-track="reload">
   <meta http-equiv="x-pjax-csp-version" content="adddfd507de4c4b0b130ff1dbf3c31681ba97e7a45dc69da056946fc5370dfd4" data-turbo-track="reload">
-  <meta http-equiv="x-pjax-css-version" content="965d37e4f14c714b83113f72ac2eaeb62573839533abec322e1f4e981fa4bf41" data-turbo-track="reload">
-  <meta http-equiv="x-pjax-js-version" content="06cadd0061c549662a50be90eb5baba7608f00f521574931eec01db0deb9e636" data-turbo-track="reload">
+  <meta http-equiv="x-pjax-css-version" content="6461f87ecae18a405f89b5f5f023d20a05636d0b2938295d444470acca7728a2" data-turbo-track="reload">
+  <meta http-equiv="x-pjax-js-version" content="c6c1b9ef0b62017aa861c8b26153dd6c9a3e0d0e37e5aa9c0a587feac0ced226" data-turbo-track="reload">
 
   <meta name="turbo-cache-control" content="no-preview" data-turbo-transient="">
 
@@ -158,7 +158,7 @@
 
   <meta name="browser-errors-url" content="https://api.github.com/_private/browser/errors">
 
-  <meta name="release" content="6953c712585a8d7406b7695e48fffcb670fd241d" data-turbo-track="reload">
+  <meta name="release" content="7becd83e3579b3593dba1e5ca2c452d0c6f21dc9" data-turbo-track="reload">
   <meta name="ui-target" content="full">
 
   <link rel="mask-icon" href="https://github.githubassets.com/assets/pinned-octocat-093da3e6fa40.svg" color="#000000">
@@ -230,9 +230,9 @@
                 <link crossorigin="anonymous" rel="modulepreload" href="https://github.githubassets.com/assets/85486-d96ed6712d32b484.js" fetchpriority="low" />
 <link crossorigin="anonymous" rel="modulepreload" href="https://github.githubassets.com/assets/4926-aa172cb923bc2488.js" fetchpriority="low" />
 <link crossorigin="anonymous" rel="modulepreload" href="https://github.githubassets.com/assets/59839-91e62b8d437754c5.js" fetchpriority="low" />
-<link crossorigin="anonymous" rel="modulepreload" href="https://github.githubassets.com/assets/chunk-lazy-react-partial-marketing-header-0a205cb08eab7f46.js" fetchpriority="low" />
+<link crossorigin="anonymous" rel="modulepreload" href="https://github.githubassets.com/assets/chunk-lazy-react-partial-marketing-header-1bd28a78f1642a6d.js" fetchpriority="low" />
 <link crossorigin="anonymous" media="all" rel="stylesheet" href="https://github.githubassets.com/assets/primer-react-brand-css.99dddccb73417aaf.module.css" />
-<link crossorigin="anonymous" media="all" rel="stylesheet" href="https://github.githubassets.com/assets/7207.1e564cabf9e502b5.module.css" />
+<link crossorigin="anonymous" media="all" rel="stylesheet" href="https://github.githubassets.com/assets/7207.76539d6ba501a897.module.css" />
 
 <react-partial
   partial-name="marketing-header"
@@ -258,10 +258,10 @@
           <span class="js-stale-session-flash-signed-out" hidden>You signed out in another tab or window. <a class="Link--inTextBlock" href="">Reload</a> to refresh your session.</span>
           <span class="js-stale-session-flash-switched" hidden>You switched accounts on another tab or window. <a class="Link--inTextBlock" href="">Reload</a> to refresh your session.</span>
 
-    <button id="icon-button-f300c6a5-a948-4ba5-ada2-0961b5278518" aria-labelledby="tooltip-dbe6e849-2b46-4e19-907a-ed4c90e59faa" type="button" data-view-component="true" class="Button Button--iconOnly Button--invisible Button--medium flash-close js-flash-close">  <svg aria-hidden="true" data-component="Octicon" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x Button-visual">
+    <button id="icon-button-c40100cf-4c87-424a-bdfb-c613b1d1b131" aria-labelledby="tooltip-01dd9b36-e80f-4884-b56d-5054bfa98b98" type="button" data-view-component="true" class="Button Button--iconOnly Button--invisible Button--medium flash-close js-flash-close">  <svg aria-hidden="true" data-component="Octicon" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x Button-visual">
     <path d="M3.72 3.72a.75.75 0 0 1 1.06 0L8 6.94l3.22-3.22a.749.749 0 0 1 1.275.326.749.749 0 0 1-.215.734L9.06 8l3.22 3.22a.749.749 0 0 1-.326 1.275.749.749 0 0 1-.734-.215L8 9.06l-3.22 3.22a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042L6.94 8 3.72 4.78a.75.75 0 0 1 0-1.06Z"></path>
 </svg>
-</button><tool-tip id="tooltip-dbe6e849-2b46-4e19-907a-ed4c90e59faa" for="icon-button-f300c6a5-a948-4ba5-ada2-0961b5278518" popover="manual" data-direction="s" data-type="label" data-view-component="true" class="sr-only position-absolute">Dismiss alert</tool-tip>
+</button><tool-tip id="tooltip-01dd9b36-e80f-4884-b56d-5054bfa98b98" for="icon-button-c40100cf-4c87-424a-bdfb-c613b1d1b131" popover="manual" data-direction="s" data-type="label" data-view-component="true" class="sr-only position-absolute">Dismiss alert</tool-tip>
 
 
   
@@ -523,7 +523,7 @@
 
       <li class="vcard-detail pt-1 hide-sm hide-md" itemprop="localTime" show_title="false"><svg data-component="Octicon" class="octicon octicon-clock" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Zm7-3.25v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5a.75.75 0 0 1 1.5 0Z"></path></svg>
         <span class="p-label">
-  14:00
+  13:27
   <profile-timezone class="color-fg-muted d-inline" data-hours-ahead-of-utc="1.0">(UTC +01:00)</profile-timezone>
 </span>
 
@@ -542,32 +542,32 @@
     
     
       <div class="border-top color-border-muted tmp-pt-3 tmp-mt-3 clearfix">
-  <button id="dialog-show-dialog-e08fcf29-ead3-4e39-95f0-ded530bd96ee" data-show-dialog-id="dialog-e08fcf29-ead3-4e39-95f0-ded530bd96ee" type="button" data-view-component="true" class="Button--link Button--medium Button color-fg-muted">  <span class="Button-content">
+  <button id="dialog-show-dialog-f90ee28f-ce4f-4a41-a0d2-6dfc84e2e969" data-show-dialog-id="dialog-f90ee28f-ce4f-4a41-a0d2-6dfc84e2e969" type="button" data-view-component="true" class="Button--link Button--medium Button color-fg-muted">  <span class="Button-content">
     <span class="Button-label">Block or report user</span>
   </span>
 </button>
 
 <dialog-helper>
-  <dialog variant="narrow" id="dialog-e08fcf29-ead3-4e39-95f0-ded530bd96ee" aria-modal="true" aria-labelledby="dialog-e08fcf29-ead3-4e39-95f0-ded530bd96ee-title" aria-describedby="dialog-e08fcf29-ead3-4e39-95f0-ded530bd96ee-description" data-view-component="true" class="Overlay Overlay-whenNarrow Overlay--size-medium-portrait Overlay--motion-scaleFade Overlay--disableScroll">
+  <dialog variant="narrow" id="dialog-f90ee28f-ce4f-4a41-a0d2-6dfc84e2e969" aria-modal="true" aria-labelledby="dialog-f90ee28f-ce4f-4a41-a0d2-6dfc84e2e969-title" aria-describedby="dialog-f90ee28f-ce4f-4a41-a0d2-6dfc84e2e969-description" data-view-component="true" class="Overlay Overlay-whenNarrow Overlay--size-medium-portrait Overlay--motion-scaleFade Overlay--disableScroll">
     <div data-view-component="true" class="Overlay-header">
   <div class="Overlay-headerContentWrap">
     <div class="Overlay-titleWrap">
-      <h1 class="Overlay-title " id="dialog-e08fcf29-ead3-4e39-95f0-ded530bd96ee-title">
+      <h1 class="Overlay-title " id="dialog-f90ee28f-ce4f-4a41-a0d2-6dfc84e2e969-title">
         Block or report dankristensen
       </h1>
         
     </div>
     <div class="Overlay-actionWrap">
-      <button data-close-dialog-id="dialog-e08fcf29-ead3-4e39-95f0-ded530bd96ee" aria-label="Close" aria-label="Close" type="button" data-view-component="true" class="close-button Overlay-closeButton"><svg aria-hidden="true" data-component="Octicon" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x">
+      <button data-close-dialog-id="dialog-f90ee28f-ce4f-4a41-a0d2-6dfc84e2e969" aria-label="Close" aria-label="Close" type="button" data-view-component="true" class="close-button Overlay-closeButton"><svg aria-hidden="true" data-component="Octicon" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x">
     <path d="M3.72 3.72a.75.75 0 0 1 1.06 0L8 6.94l3.22-3.22a.749.749 0 0 1 1.275.326.749.749 0 0 1-.215.734L9.06 8l3.22 3.22a.749.749 0 0 1-.326 1.275.749.749 0 0 1-.734-.215L8 9.06l-3.22 3.22a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042L6.94 8 3.72 4.78a.75.75 0 0 1 0-1.06Z"></path>
 </svg></button>
     </div>
   </div>
   
 </div>
-      <scrollable-region data-labelled-by="dialog-e08fcf29-ead3-4e39-95f0-ded530bd96ee-title">
+      <scrollable-region data-labelled-by="dialog-f90ee28f-ce4f-4a41-a0d2-6dfc84e2e969-title">
         <div data-view-component="true" class="Overlay-body">      <div class="border-bottom">
-        <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="tmp-mb-3" data-turbo="false" action="/settings/blocked_users" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="eZluhAdCl6kfsqqh56XpXZlT6UqIE596hjfQKdJPov8mBtlGWRwAGyu3TBmXhaefU7-pIp6ql7G0XWedwYJuqQ" autocomplete="off" />
+        <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="tmp-mb-3" data-turbo="false" action="/settings/blocked_users" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="fWDS2kmSyyN8HIlo9PcqFn9bSVb5ORA8jOe-difTkNEV1dB7v7PKxikbv0U1jgpqLzUyO1KWomg609lvrTmYpg" autocomplete="off" />
             <input type="hidden" name="login" value="dankristensen">
           <input type="hidden" name="return_to" value="/dankristensen">
           <input type="hidden" name="navigation_source" value="user_profile">
@@ -588,11 +588,11 @@
 
             <div class="mt-2 mb-2">
               <div class="FormControl-checkbox-wrap">
-  <input name="close_content" type="hidden" value="off" autocomplete="off" /><input aria-describedby="caption-5d4960ab-0c50-49db-aaf7-204746a7bba3" id="close_content" class="FormControl-checkbox" type="checkbox" value="1" name="close_content" />
+  <input name="close_content" type="hidden" value="off" autocomplete="off" /><input aria-describedby="caption-78f36e17-7849-408a-8827-016bac877875" id="close_content" class="FormControl-checkbox" type="checkbox" value="1" name="close_content" />
   <span class="FormControl-checkbox-labelWrap">
     <label for="close_content" class="FormControl-label">
       Close all issues, pull requests, and discussions opened by this user
-</label>        <span class="FormControl-caption" id="caption-5d4960ab-0c50-49db-aaf7-204746a7bba3">
+</label>        <span class="FormControl-caption" id="caption-78f36e17-7849-408a-8827-016bac877875">
       Content in all repositories owned by your account will be closed.
   </span>
 
@@ -603,14 +603,14 @@
             <div class="mt-2 mb-2">
               <primer-text-area>
     <div class="FormControl width-full FormControl--fullWidth">
-      <label for="new-block-note-from-sidebar" id="label-d3afb0ef-da66-4b35-9218-576957417d10" class="FormControl-label">
+      <label for="new-block-note-from-sidebar" id="label-dfda6f53-5743-4938-b1a4-3749a510233f" class="FormControl-label">
         Add an optional note
 </label>    
     <div class="FormControl-input-wrap">
-      <textarea id="new-block-note-from-sidebar" maxLength="250" data-test-selector="ignored_user_note_text_field" data-character-limit="250" data-target="primer-text-area.inputElement" style="resize: vertical" aria-describedby="validation-d3afb0ef-da66-4b35-9218-576957417d10 caption-d3afb0ef-da66-4b35-9218-576957417d10" class="form-control FormControl-input FormControl-textarea js-ignored-user-note-field" name="note">
+      <textarea id="new-block-note-from-sidebar" maxLength="250" data-test-selector="ignored_user_note_text_field" data-character-limit="250" data-target="primer-text-area.inputElement" style="resize: vertical" aria-describedby="validation-dfda6f53-5743-4938-b1a4-3749a510233f caption-dfda6f53-5743-4938-b1a4-3749a510233f" class="form-control FormControl-input FormControl-textarea js-ignored-user-note-field" name="note">
 </textarea>
 </div>
-      <div class="FormControl-inlineValidation" id="validation-d3afb0ef-da66-4b35-9218-576957417d10" hidden="hidden">
+      <div class="FormControl-inlineValidation" id="validation-dfda6f53-5743-4938-b1a4-3749a510233f" hidden="hidden">
   <span class="FormControl-inlineValidation--visual" data-target="" hidden><svg aria-hidden="true" data-component="Octicon" height="12" viewBox="0 0 12 12" version="1.1" width="12" data-view-component="true" class="octicon octicon-check-circle-fill">
     <path d="M6 0a6 6 0 1 1 0 12A6 6 0 0 1 6 0Zm-.705 8.737L9.63 4.403 8.392 3.166 5.295 6.263l-1.7-1.702L2.356 5.8l2.938 2.938Z"></path>
 </svg></span>
@@ -619,7 +619,7 @@
 </svg></span>
   <span></span>
 </div>
-      <span class="FormControl-caption" id="caption-d3afb0ef-da66-4b35-9218-576957417d10">
+      <span class="FormControl-caption" id="caption-dfda6f53-5743-4938-b1a4-3749a510233f">
       Maximum 250 characters. Please don’t include any personal information such as legal names or email addresses. This note will only be visible to you.
   </span>
 
@@ -772,7 +772,7 @@
           <div class="d-flex v-align-middle mr-2">
             <span data-view-component="true" class="position-relative"><a id="4643084" href="/dankristensen/Java-Chronicle" data-view-component="true" class="min-width-0 Link text-bold flex-auto wb-break-all"><span class="repo" >
                 Java-Chronicle
-              </span></a>  <tool-tip id="tooltip-8cbec67f-ad0b-4abe-b214-f85d6f210619" for="4643084" popover="manual" data-direction="n" data-type="description" data-view-component="true" class="sr-only position-absolute">Java-Chronicle</tool-tip></span>            <span class="flex-auto text-right">
+              </span></a>  <tool-tip id="tooltip-f35fd787-2fa5-455c-8fae-0cbc905e8dec" for="4643084" popover="manual" data-direction="n" data-type="description" data-view-component="true" class="sr-only position-absolute">Java-Chronicle</tool-tip></span>            <span class="flex-auto text-right">
               <span></span><span class="Label Label--secondary v-align-middle ">Public</span>
             </span>
           </div>
@@ -815,7 +815,7 @@
           <div class="d-flex v-align-middle mr-2">
             <span data-view-component="true" class="position-relative"><a id="26852793" href="/dankristensen/ext" data-view-component="true" class="min-width-0 Link text-bold flex-auto wb-break-all"><span class="repo" >
                 ext
-              </span></a>  <tool-tip id="tooltip-84d45db2-b922-4ab4-8e1d-c3f2270eb603" for="26852793" popover="manual" data-direction="n" data-type="description" data-view-component="true" class="sr-only position-absolute">ext</tool-tip></span>            <span class="flex-auto text-right">
+              </span></a>  <tool-tip id="tooltip-2f415b42-3630-42a3-986d-d8226af32f75" for="26852793" popover="manual" data-direction="n" data-type="description" data-view-component="true" class="sr-only position-absolute">ext</tool-tip></span>            <span class="flex-auto text-right">
               <span></span><span class="Label Label--secondary v-align-middle ">Public</span>
             </span>
           </div>
@@ -858,7 +858,7 @@
           <div class="d-flex v-align-middle mr-2">
             <span data-view-component="true" class="position-relative"><a id="13962460" href="/dankristensen/vertx-junit-annotations" data-view-component="true" class="min-width-0 Link text-bold flex-auto wb-break-all"><span class="repo" >
                 vertx-junit-annotations
-              </span></a>  <tool-tip id="tooltip-9dd48607-1045-4ca9-b427-5ae7c3bdfb38" for="13962460" popover="manual" data-direction="n" data-type="description" data-view-component="true" class="sr-only position-absolute">vertx-junit-annotations</tool-tip></span>            <span class="flex-auto text-right">
+              </span></a>  <tool-tip id="tooltip-8dcd0ec8-fbc0-43ae-b9c1-846342924b46" for="13962460" popover="manual" data-direction="n" data-type="description" data-view-component="true" class="sr-only position-absolute">vertx-junit-annotations</tool-tip></span>            <span class="flex-auto text-right">
               <span></span><span class="Label Label--secondary v-align-middle ">Public</span>
             </span>
           </div>
@@ -892,7 +892,7 @@
           <div class="d-flex v-align-middle mr-2">
             <span data-view-component="true" class="position-relative"><a id="17164868" href="/dankristensen/JsonUnit" data-view-component="true" class="min-width-0 Link text-bold flex-auto wb-break-all"><span class="repo" >
                 JsonUnit
-              </span></a>  <tool-tip id="tooltip-6e90aae2-e521-4841-a566-ade8587ae859" for="17164868" popover="manual" data-direction="n" data-type="description" data-view-component="true" class="sr-only position-absolute">JsonUnit</tool-tip></span>            <span class="flex-auto text-right">
+              </span></a>  <tool-tip id="tooltip-b2d34bd3-c63d-4685-8003-6bd0756cb68e" for="17164868" popover="manual" data-direction="n" data-type="description" data-view-component="true" class="sr-only position-absolute">JsonUnit</tool-tip></span>            <span class="flex-auto text-right">
               <span></span><span class="Label Label--secondary v-align-middle ">Public</span>
             </span>
           </div>
@@ -926,7 +926,7 @@
           <div class="d-flex v-align-middle mr-2">
             <span data-view-component="true" class="position-relative"><a id="17441984" href="/dankristensen/basebox-packer" data-view-component="true" class="min-width-0 Link text-bold flex-auto wb-break-all"><span class="repo" >
                 basebox-packer
-              </span></a>  <tool-tip id="tooltip-62032c17-66ac-4778-8e3b-31fc25a66ead" for="17441984" popover="manual" data-direction="n" data-type="description" data-view-component="true" class="sr-only position-absolute">basebox-packer</tool-tip></span>            <span class="flex-auto text-right">
+              </span></a>  <tool-tip id="tooltip-a9cf6b10-ac72-4bbe-8dba-1bb0d467e824" for="17441984" popover="manual" data-direction="n" data-type="description" data-view-component="true" class="sr-only position-absolute">basebox-packer</tool-tip></span>            <span class="flex-auto text-right">
               <span></span><span class="Label Label--secondary v-align-middle ">Public</span>
             </span>
           </div>
@@ -960,7 +960,7 @@
           <div class="d-flex v-align-middle mr-2">
             <span data-view-component="true" class="position-relative"><a id="17525587" href="/dankristensen/vagrant-examples" data-view-component="true" class="min-width-0 Link text-bold flex-auto wb-break-all"><span class="repo" >
                 vagrant-examples
-              </span></a>  <tool-tip id="tooltip-cdf0c0b2-4c67-40e3-a4a8-e7f8d989f972" for="17525587" popover="manual" data-direction="n" data-type="description" data-view-component="true" class="sr-only position-absolute">vagrant-examples</tool-tip></span>            <span class="flex-auto text-right">
+              </span></a>  <tool-tip id="tooltip-bc7e9074-4a83-4602-8d44-1c5c5ac6b804" for="17525587" popover="manual" data-direction="n" data-type="description" data-view-component="true" class="sr-only position-absolute">vagrant-examples</tool-tip></span>            <span class="flex-auto text-right">
               <span></span><span class="Label Label--secondary v-align-middle ">Public</span>
             </span>
           </div>
@@ -990,7 +990,7 @@
 </div>
 
 <div class="tmp-mt-4 position-relative">
-      <include-fragment src="/dankristensen?action=show&amp;controller=profiles&amp;tab=contributions&amp;user_id=dankristensen" data-nonce="v2:943a3369-4321-b131-7e6e-caaa543bcb1b" data-view-component="true">
+      <include-fragment src="/dankristensen?action=show&amp;controller=profiles&amp;tab=contributions&amp;user_id=dankristensen" data-nonce="v2:8f3e033c-5bef-57c9-120b-ea9eeaef34fc" data-view-component="true">
   
         <div class="text-center" data-hide-on-error>
           <span data-view-component="true">

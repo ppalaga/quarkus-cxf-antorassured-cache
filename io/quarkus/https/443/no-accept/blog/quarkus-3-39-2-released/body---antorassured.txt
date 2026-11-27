@@ -46,7 +46,7 @@
     <link rel="shortcut icon" type="image/png" href="/favicon.ico" >
     <link rel="stylesheet" href="/guides/stylesheet/config.css" />
     <script type="module" src="/static/bundle/app-UNQQD6ED.js"></script>
-      <link rel="stylesheet" href="/static/bundle/app-HXHLKKAD.css" />
+      <link rel="stylesheet" href="/static/bundle/app-63KZGM2H.css" />
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v6.5.2/css/all.css" crossorigin="anonymous">
     <link rel="alternate" type="application/rss+xml"  href="/feed.xml" title="Quarkus - Supersonic Subatomic Java">
 
@@ -289,7 +289,7 @@ It should be a safe upgrade for anyone already using 3.39.</p>
   <a class="share-reddit" href="http://www.reddit.com/submit?url=https://quarkus.io/blog/quarkus-3-39-2-released/" onclick="window.open(this.href, 'pop-up', 'left=20,top=20,width=900,height=500,toolbar=1,resizable=0'); return false;" title="Share on Reddit" >
     <i class="fa-brands fa-square-reddit fa-xl"></i>
   </a>
-  <a class="share-email" href="/cdn-cgi/l/email-protection#526d212730383731266f0327332039272172617c616b7c607e72617c61617c617c60721e06017e72617c60657c677c60721e0601727f721f333b3c26373c333c31377220373e373321372174333f2269303d362b6f0327332039272172617c616b7c607e72617c61617c617c60721e06017e72617c60657c677c60721e0601727f721f333b3c26373c333c31377220373e3733213721723a26262221687d7d232733203927217c3b3d7d303e3d357d232733203927217f617f616b7f607f20373e37332137367d" title="Share via Email">
+  <a class="share-email" href="/cdn-cgi/l/email-protection#d7e8a4a2b5bdb2b4a3ea86a2b6a5bca2a4f7e4f9e4eef9e5fbf7e4f9e4e4f9e4f9e5f79b8384fbf7e4f9e5e0f9e2f9e5f79b8384f7faf79ab6beb9a3b2b9b6b9b4b2f7a5b2bbb2b6a4b2a4f1b6baa7ecb5b8b3aeea86a2b6a5bca2a4f7e4f9e4eef9e5fbf7e4f9e4e4f9e4f9e5f79b8384fbf7e4f9e5e0f9e2f9e5f79b8384f7faf79ab6beb9a3b2b9b6b9b4b2f7a5b2bbb2b6a4b2a4f7bfa3a3a7a4edf8f8a6a2b6a5bca2a4f9beb8f8b5bbb8b0f8a6a2b6a5bca2a4fae4fae4eefae5faa5b2bbb2b6a4b2b3f8" title="Share via Email">
     <i class="fa-solid fa-envelope fa-xl"></i>
   </a>
 </div>
